@@ -244,7 +244,7 @@ Full meaning: https://thesignsandmeanings.com/mirror-hours/
 
 *9:00 ET*
 
-### f06-who-invented-angel-numbers ⏳ waits for images · 29 s
+### f06-who-invented-angel-numbers ✅ out/f06-who-invented-angel-numbers.mp4 · 29 s
 
 **Title:** Who Invented Angel Numbers?
 
@@ -260,7 +260,7 @@ Full meaning: https://thesignsandmeanings.com/angel-numbers/
 
 *18:00 ET*
 
-### f08-cat-zodiac ⏳ waits for images · 29 s
+### f08-cat-zodiac ✅ out/f08-cat-zodiac.mp4 · 29 s
 
 **Title:** Why the Cat Isn't in the Chinese Zodiac
 
@@ -278,7 +278,7 @@ Full meaning: https://thesignsandmeanings.com/chinese-zodiac/
 
 *9:00 ET*
 
-### f07-why-1111-follows-you ⏳ waits for images · 33 s
+### f07-why-1111-follows-you ✅ out/f07-why-1111-follows-you.mp4 · 33 s
 
 **Title:** Why 11:11 Keeps Following You
 
@@ -294,7 +294,7 @@ Full meaning: https://thesignsandmeanings.com/angel-numbers/1111/
 
 *18:00 ET*
 
-### m04-chinese-zodiac-year ⏳ waits for images · 32 s
+### m04-chinese-zodiac-year ✅ out/m04-chinese-zodiac-year.mp4 · 32 s
 
 **Title:** Find Your Birth Year: Your Chinese Zodiac Animal
 
