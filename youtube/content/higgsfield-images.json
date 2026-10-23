@@ -1,0 +1,30 @@
+{
+  "note": "Higgsfield (GPT Image 2.5, transparent PNG). Run: node scripts/fetch-images.mjs  (needs d8j0ntlcm91z4.cloudfront.net allowed in the environment's network settings), then node scripts/build-timings.mjs and render f06, f07, f08, m04.",
+  "images": {
+    "anchor-moon": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_082858_4bb870bd-5b94-457e-9f89-2a4c276bdcd8.png",
+    "tower": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083048_7460b916-bfe5-48d6-a769-057543519e9b.png",
+    "tophat": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083048_edb03a39-ca29-4027-9fa7-f18490c59023.png",
+    "capsule": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083808_d2c0ec69-6d74-4f5f-a00b-2f0982ea7f82.png",
+    "papyrus": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083049_5424366f-d27d-431e-b203-42a3e1ae5d05.png",
+    "pythagoras": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083809_f568fdfa-aa89-4550-919e-15c6461f1568.png",
+    "receipt": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083049_1045b907-d169-4502-9746-1ab2d3d8b5fe.png",
+    "book-feather": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083047_626318b4-1bd5-4450-9e6c-2713a4348022.png",
+    "head-profile": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083048_0f02e5f3-6de3-4c7e-b65e-f3752a6edefa.png",
+    "cat": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083048_03e0d4cc-aa9b-4fb3-bab1-35c95e150db4.png",
+    "rat": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083808_501a6a0f-1a10-44a2-a0eb-5a9315a15b12.png",
+    "rabbit": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083808_b3623130-ec4c-423f-961d-d412b91a77a6.png",
+    "river": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_083049_40e6df27-b43c-44b5-896b-47064faaaeac.png",
+    "z-rat": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085441_f0dbc7f3-cc60-411e-bd7a-9e48a800de19.png",
+    "z-ox": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085439_563c8817-5c1b-429e-930d-91a34864cafe.png",
+    "z-tiger": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085440_203078f9-c58a-4353-bff4-bb7256f0555e.png",
+    "z-rabbit": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085440_ad965098-b55d-4287-9ff3-e9f680c67ca3.png",
+    "z-dragon": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085440_70721c8d-92af-474d-a037-cdfc58223d2c.png",
+    "z-snake": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085440_32a5f6d3-7bcc-4b2e-8f93-b5c36f0a376a.png",
+    "z-horse": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085457_d266369e-3033-42d3-a7b1-879d46ae59a7.png",
+    "z-goat": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085615_5084d1f2-c3e5-479d-8c89-3172d46024ab.png",
+    "z-monkey": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085457_cb91ab63-ea85-4ee7-b634-64b4331d160d.png",
+    "z-rooster": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085615_e3494060-55ab-4b96-b1c0-e19c71caf10c.png",
+    "z-dog": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085641_7f05a1c7-b81b-427c-b95d-f1701772947e.png",
+    "z-pig": "https://d8j0ntlcm91z4.cloudfront.net/user_3IyJmHg7PK5FXxpKd91pudTvYAO/hf_20261023_085640_be4be2aa-0cd8-4194-a3c5-e28471669f65.png"
+  }
+}

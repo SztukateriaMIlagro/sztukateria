@@ -1,0 +1,10704 @@
+{
+ "f01-fourth-floor": {
+  "duration": 29.7,
+  "segments": [
+   {
+    "start": 0,
+    "end": 2.12,
+    "words": [
+     {
+      "text": "This",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "elevator",
+      "start": 0.4,
+      "end": 0.88,
+      "audio": 0.4
+     },
+     {
+      "text": "skips",
+      "start": 1.04,
+      "end": 1.36,
+      "audio": 1.04
+     },
+     {
+      "text": "a",
+      "start": 1.44,
+      "end": 1.52,
+      "audio": 1.44
+     },
+     {
+      "text": "floor.",
+      "start": 1.72,
+      "end": 2.12,
+      "audio": 1.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 2.12
+   },
+   {
+    "start": 2.32,
+    "end": 4.48,
+    "words": [
+     {
+      "text": "Not",
+      "start": 2.32,
+      "end": 2.48,
+      "audio": 2.32
+     },
+     {
+      "text": "thirteen.",
+      "start": 2.64,
+      "end": 3.92,
+      "audio": 2.64
+     },
+     {
+      "text": "Four.",
+      "start": 4,
+      "end": 4.48,
+      "audio": 4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.48
+   },
+   {
+    "start": 5.04,
+    "end": 9.68,
+    "words": [
+     {
+      "text": "In",
+      "start": 5.04,
+      "end": 5.2,
+      "audio": 5.04
+     },
+     {
+      "text": "Mandarin,",
+      "start": 5.24,
+      "end": 6,
+      "audio": 5.24
+     },
+     {
+      "text": "the",
+      "start": 6.04,
+      "end": 6.08,
+      "audio": 6.04
+     },
+     {
+      "text": "word",
+      "start": 6.16,
+      "end": 6.32,
+      "audio": 6.16
+     },
+     {
+      "text": "for",
+      "start": 6.4,
+      "end": 6.48,
+      "audio": 6.4
+     },
+     {
+      "text": "four",
+      "start": 6.64,
+      "end": 6.96,
+      "audio": 6.64
+     },
+     {
+      "text": "sounds",
+      "start": 7.04,
+      "end": 7.36,
+      "audio": 7.04
+     },
+     {
+      "text": "almost",
+      "start": 7.52,
+      "end": 7.68,
+      "audio": 7.52
+     },
+     {
+      "text": "exactly",
+      "start": 7.76,
+      "end": 8.4,
+      "audio": 7.76
+     },
+     {
+      "text": "like",
+      "start": 8.48,
+      "end": 8.56,
+      "audio": 8.48
+     },
+     {
+      "text": "the",
+      "start": 8.64,
+      "end": 8.72,
+      "audio": 8.64
+     },
+     {
+      "text": "word",
+      "start": 8.84,
+      "end": 8.96,
+      "audio": 8.84
+     },
+     {
+      "text": "for",
+      "start": 9.04,
+      "end": 9.12,
+      "audio": 9.04
+     },
+     {
+      "text": "death.",
+      "start": 9.2,
+      "end": 9.68,
+      "audio": 9.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 9.68
+   },
+   {
+    "start": 10.24,
+    "end": 12.68,
+    "words": [
+     {
+      "text": "Japanese",
+      "start": 10.24,
+      "end": 10.72,
+      "audio": 10.24
+     },
+     {
+      "text": "and",
+      "start": 10.76,
+      "end": 10.8,
+      "audio": 10.76
+     },
+     {
+      "text": "Korean",
+      "start": 10.88,
+      "end": 11.28,
+      "audio": 10.88
+     },
+     {
+      "text": "have",
+      "start": 11.36,
+      "end": 11.44,
+      "audio": 11.36
+     },
+     {
+      "text": "the",
+      "start": 11.52,
+      "end": 11.68,
+      "audio": 11.52
+     },
+     {
+      "text": "same",
+      "start": 11.8,
+      "end": 11.92,
+      "audio": 11.8
+     },
+     {
+      "text": "echo.",
+      "start": 12,
+      "end": 12.68,
+      "audio": 12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.68
+   },
+   {
+    "start": 12.96,
+    "end": 15.68,
+    "words": [
+     {
+      "text": "So",
+      "start": 12.96,
+      "end": 13.12,
+      "audio": 12.96
+     },
+     {
+      "text": "many",
+      "start": 13.2,
+      "end": 13.28,
+      "audio": 13.2
+     },
+     {
+      "text": "buildings",
+      "start": 13.36,
+      "end": 13.76,
+      "audio": 13.36
+     },
+     {
+      "text": "in",
+      "start": 13.8,
+      "end": 13.84,
+      "audio": 13.8
+     },
+     {
+      "text": "East",
+      "start": 13.92,
+      "end": 14.08,
+      "audio": 13.92
+     },
+     {
+      "text": "Asia",
+      "start": 14.16,
+      "end": 14.48,
+      "audio": 14.16
+     },
+     {
+      "text": "simply",
+      "start": 14.56,
+      "end": 14.88,
+      "audio": 14.56
+     },
+     {
+      "text": "leave",
+      "start": 14.96,
+      "end": 15.12,
+      "audio": 14.96
+     },
+     {
+      "text": "it",
+      "start": 15.2,
+      "end": 15.28,
+      "audio": 15.2
+     },
+     {
+      "text": "out.",
+      "start": 15.36,
+      "end": 15.68,
+      "audio": 15.36
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.68
+   },
+   {
+    "start": 16.16,
+    "end": 19.2,
+    "words": [
+     {
+      "text": "Sometimes",
+      "start": 16.16,
+      "end": 16.64,
+      "audio": 16.16
+     },
+     {
+      "text": "fourteen",
+      "start": 16.8,
+      "end": 17.28,
+      "audio": 16.8
+     },
+     {
+      "text": "and",
+      "start": 17.36,
+      "end": 17.52,
+      "audio": 17.36
+     },
+     {
+      "text": "twenty-four",
+      "start": 17.68,
+      "end": 18.24,
+      "audio": 17.68
+     },
+     {
+      "text": "disappear",
+      "start": 18.32,
+      "end": 18.8,
+      "audio": 18.32
+     },
+     {
+      "text": "too.",
+      "start": 18.96,
+      "end": 19.2,
+      "audio": 18.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 19.2
+   },
+   {
+    "start": 19.6,
+    "end": 22.08,
+    "words": [
+     {
+      "text": "It",
+      "start": 19.6,
+      "end": 19.68,
+      "audio": 19.6
+     },
+     {
+      "text": "even",
+      "start": 19.76,
+      "end": 19.92,
+      "audio": 19.76
+     },
+     {
+      "text": "has",
+      "start": 20,
+      "end": 20.08,
+      "audio": 20
+     },
+     {
+      "text": "a",
+      "start": 20.12,
+      "end": 20.16,
+      "audio": 20.12
+     },
+     {
+      "text": "name.",
+      "start": 20.24,
+      "end": 20.64,
+      "audio": 20.24
+     },
+     {
+      "text": "Tetraphobia.",
+      "start": 21.04,
+      "end": 22.08,
+      "audio": 21.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 22.08
+   },
+   {
+    "start": 22.64,
+    "end": 25.08,
+    "words": [
+     {
+      "text": "The",
+      "start": 22.64,
+      "end": 22.72,
+      "audio": 22.64
+     },
+     {
+      "text": "West",
+      "start": 22.8,
+      "end": 23.12,
+      "audio": 22.8
+     },
+     {
+      "text": "does",
+      "start": 23.2,
+      "end": 23.28,
+      "audio": 23.2
+     },
+     {
+      "text": "the",
+      "start": 23.36,
+      "end": 23.44,
+      "audio": 23.36
+     },
+     {
+      "text": "same",
+      "start": 23.52,
+      "end": 23.76,
+      "audio": 23.52
+     },
+     {
+      "text": "thing",
+      "start": 23.84,
+      "end": 24,
+      "audio": 23.84
+     },
+     {
+      "text": "with",
+      "start": 24.08,
+      "end": 24.16,
+      "audio": 24.08
+     },
+     {
+      "text": "thirteen.",
+      "start": 24.32,
+      "end": 25.08,
+      "audio": 24.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.08
+   },
+   {
+    "start": 25.36,
+    "end": 28.8,
+    "words": [
+     {
+      "text": "So",
+      "start": 25.36,
+      "end": 25.52,
+      "audio": 25.36
+     },
+     {
+      "text": "be",
+      "start": 25.68,
+      "end": 25.84,
+      "audio": 25.68
+     },
+     {
+      "text": "honest.",
+      "start": 25.88,
+      "end": 26.48,
+      "audio": 25.88
+     },
+     {
+      "text": "Would",
+      "start": 26.64,
+      "end": 26.72,
+      "audio": 26.64
+     },
+     {
+      "text": "you",
+      "start": 26.8,
+      "end": 26.88,
+      "audio": 26.8
+     },
+     {
+      "text": "take",
+      "start": 26.96,
+      "end": 27.04,
+      "audio": 26.96
+     },
+     {
+      "text": "the",
+      "start": 27.12,
+      "end": 27.173,
+      "audio": 27.12
+     },
+     {
+      "text": "apartment",
+      "start": 27.227,
+      "end": 27.6,
+      "audio": 27.227
+     },
+     {
+      "text": "on",
+      "start": 27.68,
+      "end": 27.76,
+      "audio": 27.68
+     },
+     {
+      "text": "floor",
+      "start": 27.84,
+      "end": 28.08,
+      "audio": 27.84
+     },
+     {
+      "text": "four?",
+      "start": 28.24,
+      "end": 28.8,
+      "audio": 28.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.8
+   }
+  ]
+ },
+ "f02-lucky-eight": {
+  "duration": 28.58,
+  "segments": [
+   {
+    "start": 0,
+    "end": 5.36,
+    "words": [
+     {
+      "text": "The",
+      "start": 0.08,
+      "end": 0.16,
+      "audio": 0.08
+     },
+     {
+      "text": "Beijing",
+      "start": 0.24,
+      "end": 0.64,
+      "audio": 0.24
+     },
+     {
+      "text": "Olympics",
+      "start": 0.68,
+      "end": 1.2,
+      "audio": 0.68
+     },
+     {
+      "text": "opened",
+      "start": 1.36,
+      "end": 1.6,
+      "audio": 1.36
+     },
+     {
+      "text": "on",
+      "start": 1.64,
+      "end": 1.68,
+      "audio": 1.64
+     },
+     {
+      "text": "the",
+      "start": 1.76,
+      "end": 1.92,
+      "audio": 1.76
+     },
+     {
+      "text": "eighth",
+      "start": 2,
+      "end": 2.24,
+      "audio": 2
+     },
+     {
+      "text": "day",
+      "start": 2.32,
+      "end": 2.64,
+      "audio": 2.32
+     },
+     {
+      "text": "of",
+      "start": 2.72,
+      "end": 2.8,
+      "audio": 2.72
+     },
+     {
+      "text": "the",
+      "start": 2.92,
+      "end": 3.04,
+      "audio": 2.92
+     },
+     {
+      "text": "eighth",
+      "start": 3.12,
+      "end": 3.28,
+      "audio": 3.12
+     },
+     {
+      "text": "month",
+      "start": 3.36,
+      "end": 3.76,
+      "audio": 3.36
+     },
+     {
+      "text": "of",
+      "start": 3.84,
+      "end": 3.92,
+      "audio": 3.84
+     },
+     {
+      "text": "2008.",
+      "start": 4,
+      "end": 5.36,
+      "audio": 4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 5.36
+   },
+   {
+    "start": 5.44,
+    "end": 10,
+    "words": [
+     {
+      "text": "At",
+      "start": 5.44,
+      "end": 5.52,
+      "audio": 5.44
+     },
+     {
+      "text": "eight",
+      "start": 5.6,
+      "end": 5.84,
+      "audio": 5.6
+     },
+     {
+      "text": "in",
+      "start": 5.92,
+      "end": 6,
+      "audio": 5.92
+     },
+     {
+      "text": "the",
+      "start": 6.04,
+      "end": 6.08,
+      "audio": 6.04
+     },
+     {
+      "text": "evening.",
+      "start": 6.16,
+      "end": 6.96,
+      "audio": 6.16
+     },
+     {
+      "text": "Not",
+      "start": 7.12,
+      "end": 7.28,
+      "audio": 7.12
+     },
+     {
+      "text": "eight-oh-eight,",
+      "start": 7.4,
+      "end": 8.16,
+      "audio": 7.4
+     },
+     {
+      "text": "like",
+      "start": 8.24,
+      "end": 8.32,
+      "audio": 8.24
+     },
+     {
+      "text": "the",
+      "start": 8.4,
+      "end": 8.44,
+      "audio": 8.4
+     },
+     {
+      "text": "internet",
+      "start": 8.48,
+      "end": 8.8,
+      "audio": 8.48
+     },
+     {
+      "text": "keeps",
+      "start": 8.88,
+      "end": 9.12,
+      "audio": 8.88
+     },
+     {
+      "text": "saying.",
+      "start": 9.16,
+      "end": 10,
+      "audio": 9.16
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 10
+   },
+   {
+    "start": 10.08,
+    "end": 12.16,
+    "words": [
+     {
+      "text": "None",
+      "start": 10.08,
+      "end": 10.24,
+      "audio": 10.08
+     },
+     {
+      "text": "of",
+      "start": 10.32,
+      "end": 10.4,
+      "audio": 10.32
+     },
+     {
+      "text": "that",
+      "start": 10.52,
+      "end": 10.64,
+      "audio": 10.52
+     },
+     {
+      "text": "was",
+      "start": 10.68,
+      "end": 10.72,
+      "audio": 10.68
+     },
+     {
+      "text": "a",
+      "start": 10.88,
+      "end": 10.933,
+      "audio": 10.88
+     },
+     {
+      "text": "coincidence.",
+      "start": 10.987,
+      "end": 12.16,
+      "audio": 10.987
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.16
+   },
+   {
+    "start": 12.24,
+    "end": 19.36,
+    "words": [
+     {
+      "text": "In",
+      "start": 12.24,
+      "end": 12.32,
+      "audio": 12.24
+     },
+     {
+      "text": "Mandarin,",
+      "start": 12.36,
+      "end": 13.16,
+      "audio": 12.36
+     },
+     {
+      "text": "eight",
+      "start": 13.2,
+      "end": 13.6,
+      "audio": 13.2
+     },
+     {
+      "text": "is",
+      "start": 13.72,
+      "end": 13.84,
+      "audio": 13.72
+     },
+     {
+      "text": "bā.",
+      "start": 13.88,
+      "end": 14.72,
+      "audio": 13.88
+     },
+     {
+      "text": "It",
+      "start": 14.8,
+      "end": 14.88,
+      "audio": 14.8
+     },
+     {
+      "text": "sounds",
+      "start": 15,
+      "end": 15.12,
+      "audio": 15
+     },
+     {
+      "text": "a",
+      "start": 15.28,
+      "end": 15.36,
+      "audio": 15.28
+     },
+     {
+      "text": "lot",
+      "start": 15.44,
+      "end": 15.52,
+      "audio": 15.44
+     },
+     {
+      "text": "like",
+      "start": 15.64,
+      "end": 15.76,
+      "audio": 15.64
+     },
+     {
+      "text": "fā,",
+      "start": 15.92,
+      "end": 16.64,
+      "audio": 15.92
+     },
+     {
+      "text": "a",
+      "start": 16.68,
+      "end": 16.72,
+      "audio": 16.68
+     },
+     {
+      "text": "word",
+      "start": 16.8,
+      "end": 17.04,
+      "audio": 16.8
+     },
+     {
+      "text": "tied",
+      "start": 17.12,
+      "end": 17.28,
+      "audio": 17.12
+     },
+     {
+      "text": "to",
+      "start": 17.36,
+      "end": 17.52,
+      "audio": 17.36
+     },
+     {
+      "text": "wealth",
+      "start": 17.72,
+      "end": 17.92,
+      "audio": 17.72
+     },
+     {
+      "text": "and",
+      "start": 18,
+      "end": 18.08,
+      "audio": 18
+     },
+     {
+      "text": "prosperity.",
+      "start": 18.2,
+      "end": 19.36,
+      "audio": 18.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 19.36
+   },
+   {
+    "start": 19.44,
+    "end": 23.44,
+    "words": [
+     {
+      "text": "People",
+      "start": 19.44,
+      "end": 19.68,
+      "audio": 19.44
+     },
+     {
+      "text": "pay",
+      "start": 19.76,
+      "end": 19.92,
+      "audio": 19.76
+     },
+     {
+      "text": "extra",
+      "start": 20,
+      "end": 20.4,
+      "audio": 20
+     },
+     {
+      "text": "for",
+      "start": 20.52,
+      "end": 20.64,
+      "audio": 20.52
+     },
+     {
+      "text": "phone",
+      "start": 20.76,
+      "end": 20.88,
+      "audio": 20.76
+     },
+     {
+      "text": "numbers",
+      "start": 21.04,
+      "end": 21.2,
+      "audio": 21.04
+     },
+     {
+      "text": "and",
+      "start": 21.28,
+      "end": 21.36,
+      "audio": 21.28
+     },
+     {
+      "text": "license",
+      "start": 21.56,
+      "end": 21.76,
+      "audio": 21.56
+     },
+     {
+      "text": "plates",
+      "start": 21.84,
+      "end": 22.16,
+      "audio": 21.84
+     },
+     {
+      "text": "full",
+      "start": 22.32,
+      "end": 22.4,
+      "audio": 22.32
+     },
+     {
+      "text": "of",
+      "start": 22.48,
+      "end": 22.56,
+      "audio": 22.48
+     },
+     {
+      "text": "eights.",
+      "start": 22.6,
+      "end": 23.44,
+      "audio": 22.6
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 23.44
+   },
+   {
+    "start": 23.52,
+    "end": 27.68,
+    "words": [
+     {
+      "text": "If",
+      "start": 23.52,
+      "end": 23.6,
+      "audio": 23.52
+     },
+     {
+      "text": "you",
+      "start": 23.68,
+      "end": 23.76,
+      "audio": 23.68
+     },
+     {
+      "text": "could",
+      "start": 23.84,
+      "end": 23.92,
+      "audio": 23.84
+     },
+     {
+      "text": "pick",
+      "start": 24.08,
+      "end": 24.24,
+      "audio": 24.08
+     },
+     {
+      "text": "one",
+      "start": 24.32,
+      "end": 24.48,
+      "audio": 24.32
+     },
+     {
+      "text": "lucky",
+      "start": 24.56,
+      "end": 24.8,
+      "audio": 24.56
+     },
+     {
+      "text": "number",
+      "start": 24.88,
+      "end": 25.12,
+      "audio": 24.88
+     },
+     {
+      "text": "for",
+      "start": 25.2,
+      "end": 25.28,
+      "audio": 25.2
+     },
+     {
+      "text": "the",
+      "start": 25.36,
+      "end": 25.44,
+      "audio": 25.36
+     },
+     {
+      "text": "rest",
+      "start": 25.52,
+      "end": 25.68,
+      "audio": 25.52
+     },
+     {
+      "text": "of",
+      "start": 25.76,
+      "end": 25.84,
+      "audio": 25.76
+     },
+     {
+      "text": "your",
+      "start": 25.92,
+      "end": 26,
+      "audio": 25.92
+     },
+     {
+      "text": "life,",
+      "start": 26.2,
+      "end": 26.72,
+      "audio": 26.2
+     },
+     {
+      "text": "which",
+      "start": 26.8,
+      "end": 26.88,
+      "audio": 26.8
+     },
+     {
+      "text": "would",
+      "start": 26.96,
+      "end": 27.04,
+      "audio": 26.96
+     },
+     {
+      "text": "it",
+      "start": 27.08,
+      "end": 27.12,
+      "audio": 27.08
+     },
+     {
+      "text": "be?",
+      "start": 27.2,
+      "end": 27.68,
+      "audio": 27.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 27.68
+   }
+  ]
+ },
+ "f03-watch-1010": {
+  "duration": 28.82,
+  "segments": [
+   {
+    "start": 0,
+    "end": 4.64,
+    "words": [
+     {
+      "text": "Look",
+      "start": 0.16,
+      "end": 0.24,
+      "audio": 0.16
+     },
+     {
+      "text": "at",
+      "start": 0.32,
+      "end": 0.4,
+      "audio": 0.32
+     },
+     {
+      "text": "almost",
+      "start": 0.48,
+      "end": 0.88,
+      "audio": 0.48
+     },
+     {
+      "text": "any",
+      "start": 1.04,
+      "end": 1.2,
+      "audio": 1.04
+     },
+     {
+      "text": "watch",
+      "start": 1.36,
+      "end": 1.6,
+      "audio": 1.36
+     },
+     {
+      "text": "ad.",
+      "start": 1.68,
+      "end": 2.16,
+      "audio": 1.68
+     },
+     {
+      "text": "The",
+      "start": 2.4,
+      "end": 2.48,
+      "audio": 2.4
+     },
+     {
+      "text": "time",
+      "start": 2.64,
+      "end": 2.8,
+      "audio": 2.64
+     },
+     {
+      "text": "is",
+      "start": 2.88,
+      "end": 3.12,
+      "audio": 2.88
+     },
+     {
+      "text": "ten",
+      "start": 3.24,
+      "end": 3.36,
+      "audio": 3.24
+     },
+     {
+      "text": "past",
+      "start": 3.44,
+      "end": 3.76,
+      "audio": 3.44
+     },
+     {
+      "text": "ten.",
+      "start": 3.92,
+      "end": 4.64,
+      "audio": 3.92
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.64
+   },
+   {
+    "start": 4.68,
+    "end": 8.32,
+    "words": [
+     {
+      "text": "There's",
+      "start": 4.68,
+      "end": 4.8,
+      "audio": 4.68
+     },
+     {
+      "text": "a",
+      "start": 4.96,
+      "end": 4.987,
+      "audio": 4.96
+     },
+     {
+      "text": "famous",
+      "start": 5.013,
+      "end": 5.28,
+      "audio": 5.013
+     },
+     {
+      "text": "story",
+      "start": 5.36,
+      "end": 5.76,
+      "audio": 5.36
+     },
+     {
+      "text": "that",
+      "start": 5.8,
+      "end": 5.84,
+      "audio": 5.8
+     },
+     {
+      "text": "it",
+      "start": 5.92,
+      "end": 6.08,
+      "audio": 5.92
+     },
+     {
+      "text": "marks",
+      "start": 6.2,
+      "end": 6.32,
+      "audio": 6.2
+     },
+     {
+      "text": "the",
+      "start": 6.4,
+      "end": 6.48,
+      "audio": 6.4
+     },
+     {
+      "text": "moment",
+      "start": 6.64,
+      "end": 6.8,
+      "audio": 6.64
+     },
+     {
+      "text": "Lincoln",
+      "start": 6.88,
+      "end": 7.28,
+      "audio": 6.88
+     },
+     {
+      "text": "was",
+      "start": 7.36,
+      "end": 7.44,
+      "audio": 7.36
+     },
+     {
+      "text": "shot.",
+      "start": 7.52,
+      "end": 8.32,
+      "audio": 7.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 8.32
+   },
+   {
+    "start": 8.4,
+    "end": 12.16,
+    "words": [
+     {
+      "text": "Nice",
+      "start": 8.4,
+      "end": 8.64,
+      "audio": 8.4
+     },
+     {
+      "text": "story.",
+      "start": 8.88,
+      "end": 9.6,
+      "audio": 8.88
+     },
+     {
+      "text": "Watchmakers",
+      "start": 9.76,
+      "end": 10.24,
+      "audio": 9.76
+     },
+     {
+      "text": "give",
+      "start": 10.32,
+      "end": 10.4,
+      "audio": 10.32
+     },
+     {
+      "text": "a",
+      "start": 10.52,
+      "end": 10.64,
+      "audio": 10.52
+     },
+     {
+      "text": "much",
+      "start": 10.76,
+      "end": 10.88,
+      "audio": 10.76
+     },
+     {
+      "text": "simpler",
+      "start": 10.96,
+      "end": 11.28,
+      "audio": 10.96
+     },
+     {
+      "text": "reason.",
+      "start": 11.48,
+      "end": 12.16,
+      "audio": 11.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.16
+   },
+   {
+    "start": 12.28,
+    "end": 17.12,
+    "words": [
+     {
+      "text": "Old",
+      "start": 12.28,
+      "end": 12.4,
+      "audio": 12.28
+     },
+     {
+      "text": "ads",
+      "start": 12.48,
+      "end": 12.72,
+      "audio": 12.48
+     },
+     {
+      "text": "often",
+      "start": 12.8,
+      "end": 13.04,
+      "audio": 12.8
+     },
+     {
+      "text": "used",
+      "start": 13.12,
+      "end": 13.44,
+      "audio": 13.12
+     },
+     {
+      "text": "eight-twenty.",
+      "start": 13.52,
+      "end": 14.72,
+      "audio": 13.52
+     },
+     {
+      "text": "But",
+      "start": 14.84,
+      "end": 14.96,
+      "audio": 14.84
+     },
+     {
+      "text": "eight-twenty",
+      "start": 15.08,
+      "end": 15.68,
+      "audio": 15.08
+     },
+     {
+      "text": "looks",
+      "start": 15.8,
+      "end": 15.92,
+      "audio": 15.8
+     },
+     {
+      "text": "like",
+      "start": 15.96,
+      "end": 16,
+      "audio": 15.96
+     },
+     {
+      "text": "a",
+      "start": 16.08,
+      "end": 16.24,
+      "audio": 16.08
+     },
+     {
+      "text": "frown.",
+      "start": 16.28,
+      "end": 17.12,
+      "audio": 16.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 17.12
+   },
+   {
+    "start": 17.2,
+    "end": 23.36,
+    "words": [
+     {
+      "text": "Ten-ten",
+      "start": 17.2,
+      "end": 17.92,
+      "audio": 17.2
+     },
+     {
+      "text": "looks",
+      "start": 18.04,
+      "end": 18.16,
+      "audio": 18.04
+     },
+     {
+      "text": "like",
+      "start": 18.2,
+      "end": 18.24,
+      "audio": 18.2
+     },
+     {
+      "text": "a",
+      "start": 18.32,
+      "end": 18.4,
+      "audio": 18.32
+     },
+     {
+      "text": "smile.",
+      "start": 18.48,
+      "end": 19.36,
+      "audio": 18.48
+     },
+     {
+      "text": "The",
+      "start": 19.4,
+      "end": 19.44,
+      "audio": 19.4
+     },
+     {
+      "text": "hands",
+      "start": 19.52,
+      "end": 19.84,
+      "audio": 19.52
+     },
+     {
+      "text": "frame",
+      "start": 20,
+      "end": 20.32,
+      "audio": 20
+     },
+     {
+      "text": "the",
+      "start": 20.36,
+      "end": 20.4,
+      "audio": 20.36
+     },
+     {
+      "text": "logo,",
+      "start": 20.64,
+      "end": 21.04,
+      "audio": 20.64
+     },
+     {
+      "text": "and",
+      "start": 21.08,
+      "end": 21.12,
+      "audio": 21.08
+     },
+     {
+      "text": "they",
+      "start": 21.2,
+      "end": 21.44,
+      "audio": 21.2
+     },
+     {
+      "text": "never",
+      "start": 21.6,
+      "end": 21.76,
+      "audio": 21.6
+     },
+     {
+      "text": "cover",
+      "start": 21.88,
+      "end": 22,
+      "audio": 21.88
+     },
+     {
+      "text": "the",
+      "start": 22.04,
+      "end": 22.08,
+      "audio": 22.04
+     },
+     {
+      "text": "little",
+      "start": 22.2,
+      "end": 22.32,
+      "audio": 22.2
+     },
+     {
+      "text": "dials.",
+      "start": 22.4,
+      "end": 23.36,
+      "audio": 22.4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 23.36
+   },
+   {
+    "start": 23.48,
+    "end": 25.2,
+    "words": [
+     {
+      "text": "Now",
+      "start": 23.48,
+      "end": 23.6,
+      "audio": 23.48
+     },
+     {
+      "text": "you'll",
+      "start": 23.64,
+      "end": 23.84,
+      "audio": 23.64
+     },
+     {
+      "text": "see",
+      "start": 23.88,
+      "end": 23.92,
+      "audio": 23.88
+     },
+     {
+      "text": "it",
+      "start": 24,
+      "end": 24.16,
+      "audio": 24
+     },
+     {
+      "text": "everywhere.",
+      "start": 24.24,
+      "end": 25.2,
+      "audio": 24.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.2
+   },
+   {
+    "start": 25.28,
+    "end": 27.92,
+    "words": [
+     {
+      "text": "Check",
+      "start": 25.28,
+      "end": 25.44,
+      "audio": 25.28
+     },
+     {
+      "text": "the",
+      "start": 25.52,
+      "end": 25.6,
+      "audio": 25.52
+     },
+     {
+      "text": "next",
+      "start": 25.72,
+      "end": 25.84,
+      "audio": 25.72
+     },
+     {
+      "text": "ad",
+      "start": 25.92,
+      "end": 26,
+      "audio": 25.92
+     },
+     {
+      "text": "you",
+      "start": 26.08,
+      "end": 26.24,
+      "audio": 26.08
+     },
+     {
+      "text": "see,",
+      "start": 26.44,
+      "end": 26.693,
+      "audio": 26.44
+     },
+     {
+      "text": "and",
+      "start": 26.747,
+      "end": 26.8,
+      "audio": 26.747
+     },
+     {
+      "text": "tell",
+      "start": 26.88,
+      "end": 26.96,
+      "audio": 26.88
+     },
+     {
+      "text": "me",
+      "start": 27.04,
+      "end": 27.08,
+      "audio": 27.04
+     },
+     {
+      "text": "if",
+      "start": 27.12,
+      "end": 27.2,
+      "audio": 27.12
+     },
+     {
+      "text": "I'm",
+      "start": 27.28,
+      "end": 27.36,
+      "audio": 27.28
+     },
+     {
+      "text": "wrong.",
+      "start": 27.44,
+      "end": 27.92,
+      "audio": 27.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 27.92
+   }
+  ]
+ },
+ "f04-apollo-13": {
+  "duration": 27.06,
+  "segments": [
+   {
+    "start": 0,
+    "end": 5.68,
+    "words": [
+     {
+      "text": "Apollo",
+      "start": 0.4,
+      "end": 0.48,
+      "audio": 0.4
+     },
+     {
+      "text": "13",
+      "start": 0.56,
+      "end": 1.12,
+      "audio": 0.56
+     },
+     {
+      "text": "might",
+      "start": 1.28,
+      "end": 1.52,
+      "audio": 1.28
+     },
+     {
+      "text": "be",
+      "start": 1.6,
+      "end": 1.68,
+      "audio": 1.6
+     },
+     {
+      "text": "the",
+      "start": 1.76,
+      "end": 1.8,
+      "audio": 1.76
+     },
+     {
+      "text": "unluckiest",
+      "start": 1.84,
+      "end": 2.56,
+      "audio": 1.84
+     },
+     {
+      "text": "number",
+      "start": 2.64,
+      "end": 2.88,
+      "audio": 2.64
+     },
+     {
+      "text": "in",
+      "start": 2.96,
+      "end": 3.04,
+      "audio": 2.96
+     },
+     {
+      "text": "space",
+      "start": 3.2,
+      "end": 3.36,
+      "audio": 3.2
+     },
+     {
+      "text": "history.",
+      "start": 3.44,
+      "end": 4.2,
+      "audio": 3.44
+     },
+     {
+      "text": "Look",
+      "start": 4.48,
+      "end": 4.56,
+      "audio": 4.48
+     },
+     {
+      "text": "at",
+      "start": 4.6,
+      "end": 4.64,
+      "audio": 4.6
+     },
+     {
+      "text": "the",
+      "start": 4.72,
+      "end": 4.8,
+      "audio": 4.72
+     },
+     {
+      "text": "details.",
+      "start": 5.12,
+      "end": 5.68,
+      "audio": 5.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 5.68
+   },
+   {
+    "start": 5.92,
+    "end": 9.36,
+    "words": [
+     {
+      "text": "It",
+      "start": 5.92,
+      "end": 6.08,
+      "audio": 5.92
+     },
+     {
+      "text": "launched",
+      "start": 6.16,
+      "end": 6.56,
+      "audio": 6.16
+     },
+     {
+      "text": "at",
+      "start": 6.68,
+      "end": 6.8,
+      "audio": 6.68
+     },
+     {
+      "text": "thirteen",
+      "start": 6.84,
+      "end": 7.2,
+      "audio": 6.84
+     },
+     {
+      "text": "thirteen,",
+      "start": 7.44,
+      "end": 8.16,
+      "audio": 7.44
+     },
+     {
+      "text": "Houston",
+      "start": 8.36,
+      "end": 8.56,
+      "audio": 8.36
+     },
+     {
+      "text": "time.",
+      "start": 8.64,
+      "end": 9.36,
+      "audio": 8.64
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 9.36
+   },
+   {
+    "start": 9.44,
+    "end": 14.48,
+    "words": [
+     {
+      "text": "Two",
+      "start": 9.44,
+      "end": 9.52,
+      "audio": 9.44
+     },
+     {
+      "text": "days",
+      "start": 9.6,
+      "end": 9.76,
+      "audio": 9.6
+     },
+     {
+      "text": "later,",
+      "start": 9.84,
+      "end": 10.4,
+      "audio": 9.84
+     },
+     {
+      "text": "an",
+      "start": 10.48,
+      "end": 10.56,
+      "audio": 10.48
+     },
+     {
+      "text": "oxygen",
+      "start": 10.64,
+      "end": 11.04,
+      "audio": 10.64
+     },
+     {
+      "text": "tank",
+      "start": 11.12,
+      "end": 11.28,
+      "audio": 11.12
+     },
+     {
+      "text": "exploded.",
+      "start": 11.36,
+      "end": 12.56,
+      "audio": 11.36
+     },
+     {
+      "text": "On",
+      "start": 12.68,
+      "end": 12.8,
+      "audio": 12.68
+     },
+     {
+      "text": "April",
+      "start": 12.88,
+      "end": 13.2,
+      "audio": 12.88
+     },
+     {
+      "text": "the",
+      "start": 13.28,
+      "end": 13.36,
+      "audio": 13.28
+     },
+     {
+      "text": "thirteenth.",
+      "start": 13.44,
+      "end": 14.48,
+      "audio": 13.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 14.48
+   },
+   {
+    "start": 14.56,
+    "end": 18.4,
+    "words": [
+     {
+      "text": "Two",
+      "start": 14.56,
+      "end": 14.72,
+      "audio": 14.56
+     },
+     {
+      "text": "hundred",
+      "start": 14.8,
+      "end": 15.04,
+      "audio": 14.8
+     },
+     {
+      "text": "thousand",
+      "start": 15.36,
+      "end": 15.68,
+      "audio": 15.36
+     },
+     {
+      "text": "miles",
+      "start": 15.76,
+      "end": 16,
+      "audio": 15.76
+     },
+     {
+      "text": "from",
+      "start": 16.08,
+      "end": 16.24,
+      "audio": 16.08
+     },
+     {
+      "text": "home,",
+      "start": 16.4,
+      "end": 16.72,
+      "audio": 16.4
+     },
+     {
+      "text": "with",
+      "start": 16.8,
+      "end": 16.88,
+      "audio": 16.8
+     },
+     {
+      "text": "the",
+      "start": 16.96,
+      "end": 17.04,
+      "audio": 16.96
+     },
+     {
+      "text": "power",
+      "start": 17.2,
+      "end": 17.36,
+      "audio": 17.2
+     },
+     {
+      "text": "failing.",
+      "start": 17.52,
+      "end": 18.4,
+      "audio": 17.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 18.4
+   },
+   {
+    "start": 18.48,
+    "end": 21.72,
+    "words": [
+     {
+      "text": "And",
+      "start": 18.48,
+      "end": 18.56,
+      "audio": 18.48
+     },
+     {
+      "text": "yet,",
+      "start": 18.64,
+      "end": 19.2,
+      "audio": 18.64
+     },
+     {
+      "text": "all",
+      "start": 19.36,
+      "end": 19.52,
+      "audio": 19.36
+     },
+     {
+      "text": "three",
+      "start": 19.6,
+      "end": 19.68,
+      "audio": 19.6
+     },
+     {
+      "text": "astronauts",
+      "start": 19.76,
+      "end": 20.4,
+      "audio": 19.76
+     },
+     {
+      "text": "made",
+      "start": 20.48,
+      "end": 20.56,
+      "audio": 20.48
+     },
+     {
+      "text": "it",
+      "start": 20.64,
+      "end": 20.72,
+      "audio": 20.64
+     },
+     {
+      "text": "back",
+      "start": 20.8,
+      "end": 20.88,
+      "audio": 20.8
+     },
+     {
+      "text": "alive.",
+      "start": 20.96,
+      "end": 21.72,
+      "audio": 20.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 21.72
+   },
+   {
+    "start": 22.133,
+    "end": 26.16,
+    "words": [
+     {
+      "text": "So",
+      "start": 22.133,
+      "end": 22.16,
+      "audio": 22.133
+     },
+     {
+      "text": "was",
+      "start": 22.24,
+      "end": 22.4,
+      "audio": 22.24
+     },
+     {
+      "text": "thirteen",
+      "start": 22.44,
+      "end": 22.88,
+      "audio": 22.44
+     },
+     {
+      "text": "unlucky?",
+      "start": 22.96,
+      "end": 23.84,
+      "audio": 22.96
+     },
+     {
+      "text": "Or",
+      "start": 24,
+      "end": 24.16,
+      "audio": 24
+     },
+     {
+      "text": "the",
+      "start": 24.32,
+      "end": 24.4,
+      "audio": 24.32
+     },
+     {
+      "text": "luckiest",
+      "start": 24.56,
+      "end": 25.04,
+      "audio": 24.56
+     },
+     {
+      "text": "number",
+      "start": 25.12,
+      "end": 25.36,
+      "audio": 25.12
+     },
+     {
+      "text": "on",
+      "start": 25.44,
+      "end": 25.52,
+      "audio": 25.44
+     },
+     {
+      "text": "board?",
+      "start": 25.72,
+      "end": 26.16,
+      "audio": 25.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 26.16
+   }
+  ]
+ },
+ "f05-616": {
+  "duration": 30.82,
+  "segments": [
+   {
+    "start": 0,
+    "end": 6.24,
+    "words": [
+     {
+      "text": "Everyone",
+      "start": 0.08,
+      "end": 0.48,
+      "audio": 0.08
+     },
+     {
+      "text": "knows",
+      "start": 0.64,
+      "end": 1.04,
+      "audio": 0.64
+     },
+     {
+      "text": "six",
+      "start": 1.12,
+      "end": 1.36,
+      "audio": 1.12
+     },
+     {
+      "text": "six",
+      "start": 1.44,
+      "end": 1.68,
+      "audio": 1.44
+     },
+     {
+      "text": "six.",
+      "start": 1.88,
+      "end": 2.36,
+      "audio": 1.88
+     },
+     {
+      "text": "But",
+      "start": 2.64,
+      "end": 2.72,
+      "audio": 2.64
+     },
+     {
+      "text": "the",
+      "start": 2.8,
+      "end": 2.88,
+      "audio": 2.8
+     },
+     {
+      "text": "oldest",
+      "start": 2.96,
+      "end": 3.28,
+      "audio": 2.96
+     },
+     {
+      "text": "copy",
+      "start": 3.44,
+      "end": 3.6,
+      "audio": 3.44
+     },
+     {
+      "text": "we",
+      "start": 3.68,
+      "end": 3.76,
+      "audio": 3.68
+     },
+     {
+      "text": "have",
+      "start": 3.84,
+      "end": 4,
+      "audio": 3.84
+     },
+     {
+      "text": "of",
+      "start": 4.04,
+      "end": 4.08,
+      "audio": 4.04
+     },
+     {
+      "text": "that",
+      "start": 4.16,
+      "end": 4.32,
+      "audio": 4.16
+     },
+     {
+      "text": "verse",
+      "start": 4.4,
+      "end": 4.72,
+      "audio": 4.4
+     },
+     {
+      "text": "says",
+      "start": 4.84,
+      "end": 4.96,
+      "audio": 4.84
+     },
+     {
+      "text": "something",
+      "start": 5.12,
+      "end": 5.28,
+      "audio": 5.12
+     },
+     {
+      "text": "else.",
+      "start": 5.36,
+      "end": 6.24,
+      "audio": 5.36
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 6.24
+   },
+   {
+    "start": 6.28,
+    "end": 11.04,
+    "words": [
+     {
+      "text": "It's",
+      "start": 6.28,
+      "end": 6.4,
+      "audio": 6.28
+     },
+     {
+      "text": "a",
+      "start": 6.44,
+      "end": 6.48,
+      "audio": 6.44
+     },
+     {
+      "text": "scrap",
+      "start": 6.56,
+      "end": 6.8,
+      "audio": 6.56
+     },
+     {
+      "text": "of",
+      "start": 6.88,
+      "end": 6.96,
+      "audio": 6.88
+     },
+     {
+      "text": "papyrus",
+      "start": 7.147,
+      "end": 7.52,
+      "audio": 7.147
+     },
+     {
+      "text": "from",
+      "start": 7.6,
+      "end": 7.76,
+      "audio": 7.6
+     },
+     {
+      "text": "Egypt,",
+      "start": 7.84,
+      "end": 8.48,
+      "audio": 7.84
+     },
+     {
+      "text": "written",
+      "start": 8.6,
+      "end": 8.72,
+      "audio": 8.6
+     },
+     {
+      "text": "about",
+      "start": 8.8,
+      "end": 9.04,
+      "audio": 8.8
+     },
+     {
+      "text": "seventeen",
+      "start": 9.12,
+      "end": 9.52,
+      "audio": 9.12
+     },
+     {
+      "text": "hundred",
+      "start": 9.6,
+      "end": 9.92,
+      "audio": 9.6
+     },
+     {
+      "text": "years",
+      "start": 10,
+      "end": 10.24,
+      "audio": 10
+     },
+     {
+      "text": "ago.",
+      "start": 10.4,
+      "end": 11.04,
+      "audio": 10.4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 11.04
+   },
+   {
+    "start": 11.12,
+    "end": 14.64,
+    "words": [
+     {
+      "text": "And",
+      "start": 11.12,
+      "end": 11.2,
+      "audio": 11.12
+     },
+     {
+      "text": "it",
+      "start": 11.28,
+      "end": 11.36,
+      "audio": 11.28
+     },
+     {
+      "text": "gives",
+      "start": 11.4,
+      "end": 11.6,
+      "audio": 11.4
+     },
+     {
+      "text": "the",
+      "start": 11.64,
+      "end": 11.68,
+      "audio": 11.64
+     },
+     {
+      "text": "number",
+      "start": 11.76,
+      "end": 11.92,
+      "audio": 11.76
+     },
+     {
+      "text": "of",
+      "start": 12,
+      "end": 12.08,
+      "audio": 12
+     },
+     {
+      "text": "the",
+      "start": 12.133,
+      "end": 12.187,
+      "audio": 12.133
+     },
+     {
+      "text": "beast",
+      "start": 12.24,
+      "end": 12.64,
+      "audio": 12.24
+     },
+     {
+      "text": "as",
+      "start": 12.76,
+      "end": 12.88,
+      "audio": 12.76
+     },
+     {
+      "text": "six",
+      "start": 12.96,
+      "end": 13.28,
+      "audio": 12.96
+     },
+     {
+      "text": "one",
+      "start": 13.36,
+      "end": 13.68,
+      "audio": 13.36
+     },
+     {
+      "text": "six.",
+      "start": 13.88,
+      "end": 14.64,
+      "audio": 13.88
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 14.64
+   },
+   {
+    "start": 14.72,
+    "end": 22.8,
+    "words": [
+     {
+      "text": "This",
+      "start": 14.72,
+      "end": 14.8,
+      "audio": 14.72
+     },
+     {
+      "text": "wasn't",
+      "start": 14.88,
+      "end": 15.12,
+      "audio": 14.88
+     },
+     {
+      "text": "news",
+      "start": 15.2,
+      "end": 15.44,
+      "audio": 15.2
+     },
+     {
+      "text": "to",
+      "start": 15.52,
+      "end": 15.6,
+      "audio": 15.52
+     },
+     {
+      "text": "everyone.",
+      "start": 15.88,
+      "end": 16.56,
+      "audio": 15.88
+     },
+     {
+      "text": "Back",
+      "start": 16.64,
+      "end": 16.72,
+      "audio": 16.64
+     },
+     {
+      "text": "in",
+      "start": 16.8,
+      "end": 16.84,
+      "audio": 16.8
+     },
+     {
+      "text": "the",
+      "start": 16.88,
+      "end": 17.04,
+      "audio": 16.88
+     },
+     {
+      "text": "second",
+      "start": 17.2,
+      "end": 17.36,
+      "audio": 17.2
+     },
+     {
+      "text": "century,",
+      "start": 17.44,
+      "end": 18.04,
+      "audio": 17.44
+     },
+     {
+      "text": "a",
+      "start": 18.08,
+      "end": 18.16,
+      "audio": 18.08
+     },
+     {
+      "text": "bishop",
+      "start": 18.32,
+      "end": 18.48,
+      "audio": 18.32
+     },
+     {
+      "text": "named",
+      "start": 18.56,
+      "end": 18.8,
+      "audio": 18.56
+     },
+     {
+      "text": "Irenaeus",
+      "start": 18.88,
+      "end": 19.52,
+      "audio": 18.88
+     },
+     {
+      "text": "knew",
+      "start": 19.6,
+      "end": 19.76,
+      "audio": 19.6
+     },
+     {
+      "text": "about",
+      "start": 19.84,
+      "end": 20.08,
+      "audio": 19.84
+     },
+     {
+      "text": "six",
+      "start": 20.16,
+      "end": 20.4,
+      "audio": 20.16
+     },
+     {
+      "text": "one",
+      "start": 20.52,
+      "end": 20.64,
+      "audio": 20.52
+     },
+     {
+      "text": "six,",
+      "start": 20.8,
+      "end": 21.12,
+      "audio": 20.8
+     },
+     {
+      "text": "and",
+      "start": 21.2,
+      "end": 21.28,
+      "audio": 21.2
+     },
+     {
+      "text": "argued",
+      "start": 21.36,
+      "end": 21.6,
+      "audio": 21.36
+     },
+     {
+      "text": "against",
+      "start": 21.68,
+      "end": 22.08,
+      "audio": 21.68
+     },
+     {
+      "text": "it.",
+      "start": 22.2,
+      "end": 22.8,
+      "audio": 22.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 22.8
+   },
+   {
+    "start": 22.92,
+    "end": 28,
+    "words": [
+     {
+      "text": "Most",
+      "start": 22.92,
+      "end": 23.04,
+      "audio": 22.92
+     },
+     {
+      "text": "Bibles",
+      "start": 23.12,
+      "end": 23.52,
+      "audio": 23.12
+     },
+     {
+      "text": "print",
+      "start": 23.6,
+      "end": 23.84,
+      "audio": 23.6
+     },
+     {
+      "text": "six",
+      "start": 23.92,
+      "end": 24.16,
+      "audio": 23.92
+     },
+     {
+      "text": "six",
+      "start": 24.32,
+      "end": 24.48,
+      "audio": 24.32
+     },
+     {
+      "text": "six.",
+      "start": 24.68,
+      "end": 25.28,
+      "audio": 24.68
+     },
+     {
+      "text": "Scholars",
+      "start": 25.36,
+      "end": 25.76,
+      "audio": 25.36
+     },
+     {
+      "text": "still",
+      "start": 25.92,
+      "end": 26.08,
+      "audio": 25.92
+     },
+     {
+      "text": "debate",
+      "start": 26.16,
+      "end": 26.56,
+      "audio": 26.16
+     },
+     {
+      "text": "which",
+      "start": 26.68,
+      "end": 26.8,
+      "audio": 26.68
+     },
+     {
+      "text": "came",
+      "start": 26.92,
+      "end": 27.04,
+      "audio": 26.92
+     },
+     {
+      "text": "first.",
+      "start": 27.12,
+      "end": 28,
+      "audio": 27.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28
+   },
+   {
+    "start": 28.08,
+    "end": 29.92,
+    "words": [
+     {
+      "text": "Did",
+      "start": 28.08,
+      "end": 28.24,
+      "audio": 28.08
+     },
+     {
+      "text": "you",
+      "start": 28.32,
+      "end": 28.4,
+      "audio": 28.32
+     },
+     {
+      "text": "know",
+      "start": 28.48,
+      "end": 28.56,
+      "audio": 28.48
+     },
+     {
+      "text": "about",
+      "start": 28.64,
+      "end": 28.88,
+      "audio": 28.64
+     },
+     {
+      "text": "six",
+      "start": 28.96,
+      "end": 29.12,
+      "audio": 28.96
+     },
+     {
+      "text": "one",
+      "start": 29.2,
+      "end": 29.36,
+      "audio": 29.2
+     },
+     {
+      "text": "six?",
+      "start": 29.52,
+      "end": 29.92,
+      "audio": 29.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 29.92
+   }
+  ]
+ },
+ "f06-who-invented-angel-numbers": {
+  "duration": 28.979999999999997,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.44,
+    "words": [
+     {
+      "text": "Angel",
+      "start": 0.08,
+      "end": 0.4,
+      "audio": 0.08
+     },
+     {
+      "text": "numbers",
+      "start": 0.48,
+      "end": 0.96,
+      "audio": 0.48
+     },
+     {
+      "text": "feel",
+      "start": 1.12,
+      "end": 1.36,
+      "audio": 1.12
+     },
+     {
+      "text": "ancient.",
+      "start": 1.6,
+      "end": 2.44,
+      "audio": 1.6
+     },
+     {
+      "text": "They're",
+      "start": 2.72,
+      "end": 2.88,
+      "audio": 2.72
+     },
+     {
+      "text": "not.",
+      "start": 3.04,
+      "end": 3.44,
+      "audio": 3.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.44
+   },
+   {
+    "start": 3.68,
+    "end": 9.84,
+    "words": [
+     {
+      "text": "Numerology",
+      "start": 3.68,
+      "end": 4.4,
+      "audio": 3.68
+     },
+     {
+      "text": "is",
+      "start": 4.48,
+      "end": 4.56,
+      "audio": 4.48
+     },
+     {
+      "text": "old.",
+      "start": 4.64,
+      "end": 5.36,
+      "audio": 4.64
+     },
+     {
+      "text": "Pythagoras",
+      "start": 5.48,
+      "end": 6.08,
+      "audio": 5.48
+     },
+     {
+      "text": "and",
+      "start": 6.12,
+      "end": 6.16,
+      "audio": 6.12
+     },
+     {
+      "text": "his",
+      "start": 6.24,
+      "end": 6.32,
+      "audio": 6.24
+     },
+     {
+      "text": "followers",
+      "start": 6.4,
+      "end": 6.8,
+      "audio": 6.4
+     },
+     {
+      "text": "believed",
+      "start": 6.88,
+      "end": 7.2,
+      "audio": 6.88
+     },
+     {
+      "text": "numbers",
+      "start": 7.4,
+      "end": 7.6,
+      "audio": 7.4
+     },
+     {
+      "text": "sat",
+      "start": 7.68,
+      "end": 7.84,
+      "audio": 7.68
+     },
+     {
+      "text": "at",
+      "start": 7.92,
+      "end": 8,
+      "audio": 7.92
+     },
+     {
+      "text": "the",
+      "start": 8.08,
+      "end": 8.16,
+      "audio": 8.08
+     },
+     {
+      "text": "heart",
+      "start": 8.24,
+      "end": 8.48,
+      "audio": 8.24
+     },
+     {
+      "text": "of",
+      "start": 8.6,
+      "end": 8.72,
+      "audio": 8.6
+     },
+     {
+      "text": "everything.",
+      "start": 8.8,
+      "end": 9.84,
+      "audio": 8.8
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 9.84
+   },
+   {
+    "start": 9.92,
+    "end": 14.32,
+    "words": [
+     {
+      "text": "But",
+      "start": 9.92,
+      "end": 10,
+      "audio": 9.92
+     },
+     {
+      "text": "reading",
+      "start": 10.2,
+      "end": 10.4,
+      "audio": 10.2
+     },
+     {
+      "text": "four",
+      "start": 10.48,
+      "end": 10.64,
+      "audio": 10.48
+     },
+     {
+      "text": "four",
+      "start": 10.8,
+      "end": 11.04,
+      "audio": 10.8
+     },
+     {
+      "text": "four",
+      "start": 11.16,
+      "end": 11.28,
+      "audio": 11.16
+     },
+     {
+      "text": "on",
+      "start": 11.32,
+      "end": 11.36,
+      "audio": 11.32
+     },
+     {
+      "text": "a",
+      "start": 11.44,
+      "end": 11.48,
+      "audio": 11.44
+     },
+     {
+      "text": "receipt",
+      "start": 11.52,
+      "end": 12,
+      "audio": 11.52
+     },
+     {
+      "text": "as",
+      "start": 12.04,
+      "end": 12.08,
+      "audio": 12.04
+     },
+     {
+      "text": "a",
+      "start": 12.16,
+      "end": 12.24,
+      "audio": 12.16
+     },
+     {
+      "text": "message?",
+      "start": 12.48,
+      "end": 13.12,
+      "audio": 12.48
+     },
+     {
+      "text": "That's",
+      "start": 13.24,
+      "end": 13.52,
+      "audio": 13.24
+     },
+     {
+      "text": "modern.",
+      "start": 13.68,
+      "end": 14.32,
+      "audio": 13.68
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 14.32
+   },
+   {
+    "start": 14.36,
+    "end": 19.92,
+    "words": [
+     {
+      "text": "The",
+      "start": 14.36,
+      "end": 14.4,
+      "audio": 14.36
+     },
+     {
+      "text": "idea",
+      "start": 14.48,
+      "end": 14.8,
+      "audio": 14.48
+     },
+     {
+      "text": "took",
+      "start": 14.88,
+      "end": 14.96,
+      "audio": 14.88
+     },
+     {
+      "text": "off",
+      "start": 15.08,
+      "end": 15.2,
+      "audio": 15.08
+     },
+     {
+      "text": "in",
+      "start": 15.24,
+      "end": 15.28,
+      "audio": 15.24
+     },
+     {
+      "text": "the",
+      "start": 15.36,
+      "end": 15.44,
+      "audio": 15.36
+     },
+     {
+      "text": "two",
+      "start": 15.56,
+      "end": 15.68,
+      "audio": 15.56
+     },
+     {
+      "text": "thousands,",
+      "start": 15.72,
+      "end": 16.48,
+      "audio": 15.72
+     },
+     {
+      "text": "through",
+      "start": 16.56,
+      "end": 16.64,
+      "audio": 16.56
+     },
+     {
+      "text": "the",
+      "start": 16.68,
+      "end": 16.72,
+      "audio": 16.68
+     },
+     {
+      "text": "books",
+      "start": 16.8,
+      "end": 16.96,
+      "audio": 16.8
+     },
+     {
+      "text": "of",
+      "start": 17.04,
+      "end": 17.12,
+      "audio": 17.04
+     },
+     {
+      "text": "a",
+      "start": 17.173,
+      "end": 17.227,
+      "audio": 17.173
+     },
+     {
+      "text": "New",
+      "start": 17.28,
+      "end": 17.44,
+      "audio": 17.28
+     },
+     {
+      "text": "Age",
+      "start": 17.56,
+      "end": 17.68,
+      "audio": 17.56
+     },
+     {
+      "text": "author",
+      "start": 17.88,
+      "end": 18.08,
+      "audio": 17.88
+     },
+     {
+      "text": "named",
+      "start": 18.2,
+      "end": 18.32,
+      "audio": 18.2
+     },
+     {
+      "text": "Doreen",
+      "start": 18.48,
+      "end": 18.88,
+      "audio": 18.48
+     },
+     {
+      "text": "Virtue.",
+      "start": 18.96,
+      "end": 19.92,
+      "audio": 18.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 19.92
+   },
+   {
+    "start": 20,
+    "end": 25.68,
+    "words": [
+     {
+      "text": "And",
+      "start": 20,
+      "end": 20.08,
+      "audio": 20
+     },
+     {
+      "text": "here's",
+      "start": 20.16,
+      "end": 20.32,
+      "audio": 20.16
+     },
+     {
+      "text": "the",
+      "start": 20.36,
+      "end": 20.4,
+      "audio": 20.36
+     },
+     {
+      "text": "twist.",
+      "start": 20.48,
+      "end": 21.28,
+      "audio": 20.48
+     },
+     {
+      "text": "In",
+      "start": 21.36,
+      "end": 21.44,
+      "audio": 21.36
+     },
+     {
+      "text": "2017,",
+      "start": 21.56,
+      "end": 22.56,
+      "audio": 21.56
+     },
+     {
+      "text": "she",
+      "start": 22.64,
+      "end": 22.72,
+      "audio": 22.64
+     },
+     {
+      "text": "became",
+      "start": 22.8,
+      "end": 22.96,
+      "audio": 22.8
+     },
+     {
+      "text": "a",
+      "start": 23.04,
+      "end": 23.12,
+      "audio": 23.04
+     },
+     {
+      "text": "Christian",
+      "start": 23.2,
+      "end": 23.68,
+      "audio": 23.2
+     },
+     {
+      "text": "and",
+      "start": 23.76,
+      "end": 23.84,
+      "audio": 23.76
+     },
+     {
+      "text": "renounced",
+      "start": 23.96,
+      "end": 24.4,
+      "audio": 23.96
+     },
+     {
+      "text": "her",
+      "start": 24.48,
+      "end": 24.56,
+      "audio": 24.48
+     },
+     {
+      "text": "New",
+      "start": 24.64,
+      "end": 24.72,
+      "audio": 24.64
+     },
+     {
+      "text": "Age",
+      "start": 24.8,
+      "end": 24.88,
+      "audio": 24.8
+     },
+     {
+      "text": "beliefs.",
+      "start": 24.96,
+      "end": 25.68,
+      "audio": 24.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.68
+   },
+   {
+    "start": 26.053,
+    "end": 28.08,
+    "words": [
+     {
+      "text": "Does",
+      "start": 26.053,
+      "end": 26.08,
+      "audio": 26.053
+     },
+     {
+      "text": "that",
+      "start": 26.2,
+      "end": 26.32,
+      "audio": 26.2
+     },
+     {
+      "text": "change",
+      "start": 26.48,
+      "end": 26.64,
+      "audio": 26.48
+     },
+     {
+      "text": "what",
+      "start": 26.72,
+      "end": 26.8,
+      "audio": 26.72
+     },
+     {
+      "text": "the",
+      "start": 26.84,
+      "end": 26.88,
+      "audio": 26.84
+     },
+     {
+      "text": "numbers",
+      "start": 27.04,
+      "end": 27.2,
+      "audio": 27.04
+     },
+     {
+      "text": "mean",
+      "start": 27.28,
+      "end": 27.44,
+      "audio": 27.28
+     },
+     {
+      "text": "to",
+      "start": 27.48,
+      "end": 27.52,
+      "audio": 27.48
+     },
+     {
+      "text": "you?",
+      "start": 27.6,
+      "end": 28.08,
+      "audio": 27.6
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.08
+   }
+  ]
+ },
+ "f07-why-1111-follows-you": {
+  "duration": 33.3,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.96,
+    "words": [
+     {
+      "text": "You",
+      "start": 0.16,
+      "end": 0.24,
+      "audio": 0.16
+     },
+     {
+      "text": "look",
+      "start": 0.32,
+      "end": 0.4,
+      "audio": 0.32
+     },
+     {
+      "text": "at",
+      "start": 0.44,
+      "end": 0.48,
+      "audio": 0.44
+     },
+     {
+      "text": "the",
+      "start": 0.52,
+      "end": 0.56,
+      "audio": 0.52
+     },
+     {
+      "text": "clock.",
+      "start": 0.64,
+      "end": 1.36,
+      "audio": 0.64
+     },
+     {
+      "text": "It's",
+      "start": 1.6,
+      "end": 1.76,
+      "audio": 1.6
+     },
+     {
+      "text": "eleven",
+      "start": 1.88,
+      "end": 2.08,
+      "audio": 1.88
+     },
+     {
+      "text": "eleven.",
+      "start": 2.24,
+      "end": 2.96,
+      "audio": 2.24
+     },
+     {
+      "text": "Again.",
+      "start": 3.2,
+      "end": 3.96,
+      "audio": 3.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.96
+   },
+   {
+    "start": 4.24,
+    "end": 7.08,
+    "words": [
+     {
+      "text": "There's",
+      "start": 4.24,
+      "end": 4.36,
+      "audio": 4.24
+     },
+     {
+      "text": "a",
+      "start": 4.4,
+      "end": 4.44,
+      "audio": 4.4
+     },
+     {
+      "text": "name",
+      "start": 4.48,
+      "end": 4.72,
+      "audio": 4.48
+     },
+     {
+      "text": "for",
+      "start": 4.8,
+      "end": 4.88,
+      "audio": 4.8
+     },
+     {
+      "text": "this.",
+      "start": 5.04,
+      "end": 5.36,
+      "audio": 5.04
+     },
+     {
+      "text": "The",
+      "start": 5.52,
+      "end": 5.6,
+      "audio": 5.52
+     },
+     {
+      "text": "frequency",
+      "start": 5.68,
+      "end": 6.24,
+      "audio": 5.68
+     },
+     {
+      "text": "illusion.",
+      "start": 6.32,
+      "end": 7.08,
+      "audio": 6.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 7.08
+   },
+   {
+    "start": 7.36,
+    "end": 15.68,
+    "words": [
+     {
+      "text": "Once",
+      "start": 7.36,
+      "end": 7.52,
+      "audio": 7.36
+     },
+     {
+      "text": "something",
+      "start": 7.6,
+      "end": 7.84,
+      "audio": 7.6
+     },
+     {
+      "text": "matters",
+      "start": 8,
+      "end": 8.32,
+      "audio": 8
+     },
+     {
+      "text": "to",
+      "start": 8.4,
+      "end": 8.48,
+      "audio": 8.4
+     },
+     {
+      "text": "you,",
+      "start": 8.56,
+      "end": 8.88,
+      "audio": 8.56
+     },
+     {
+      "text": "your",
+      "start": 8.96,
+      "end": 9.04,
+      "audio": 8.96
+     },
+     {
+      "text": "brain",
+      "start": 9.12,
+      "end": 9.44,
+      "audio": 9.12
+     },
+     {
+      "text": "starts",
+      "start": 9.52,
+      "end": 9.76,
+      "audio": 9.52
+     },
+     {
+      "text": "flagging",
+      "start": 9.92,
+      "end": 10.24,
+      "audio": 9.92
+     },
+     {
+      "text": "it.",
+      "start": 10.32,
+      "end": 10.72,
+      "audio": 10.32
+     },
+     {
+      "text": "You",
+      "start": 10.96,
+      "end": 11.04,
+      "audio": 10.96
+     },
+     {
+      "text": "never",
+      "start": 11.12,
+      "end": 11.28,
+      "audio": 11.12
+     },
+     {
+      "text": "notice",
+      "start": 11.36,
+      "end": 11.76,
+      "audio": 11.36
+     },
+     {
+      "text": "ten",
+      "start": 11.84,
+      "end": 12,
+      "audio": 11.84
+     },
+     {
+      "text": "forty-eight.",
+      "start": 12.16,
+      "end": 12.96,
+      "audio": 12.16
+     },
+     {
+      "text": "But",
+      "start": 13.12,
+      "end": 13.28,
+      "audio": 13.12
+     },
+     {
+      "text": "every",
+      "start": 13.36,
+      "end": 13.6,
+      "audio": 13.36
+     },
+     {
+      "text": "eleven",
+      "start": 13.68,
+      "end": 14,
+      "audio": 13.68
+     },
+     {
+      "text": "eleven",
+      "start": 14.16,
+      "end": 14.56,
+      "audio": 14.16
+     },
+     {
+      "text": "jumps",
+      "start": 14.8,
+      "end": 15.04,
+      "audio": 14.8
+     },
+     {
+      "text": "out.",
+      "start": 15.12,
+      "end": 15.68,
+      "audio": 15.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.68
+   },
+   {
+    "start": 15.92,
+    "end": 19.92,
+    "words": [
+     {
+      "text": "A",
+      "start": 15.92,
+      "end": 16,
+      "audio": 15.92
+     },
+     {
+      "text": "linguist,",
+      "start": 16.08,
+      "end": 16.72,
+      "audio": 16.08
+     },
+     {
+      "text": "Arnold",
+      "start": 16.84,
+      "end": 17.04,
+      "audio": 16.84
+     },
+     {
+      "text": "Zwicky,",
+      "start": 17.12,
+      "end": 17.68,
+      "audio": 17.12
+     },
+     {
+      "text": "gave",
+      "start": 17.72,
+      "end": 17.84,
+      "audio": 17.72
+     },
+     {
+      "text": "it",
+      "start": 17.92,
+      "end": 18,
+      "audio": 17.92
+     },
+     {
+      "text": "that",
+      "start": 18.08,
+      "end": 18.16,
+      "audio": 18.08
+     },
+     {
+      "text": "name",
+      "start": 18.24,
+      "end": 18.4,
+      "audio": 18.24
+     },
+     {
+      "text": "in",
+      "start": 18.44,
+      "end": 18.48,
+      "audio": 18.44
+     },
+     {
+      "text": "the",
+      "start": 18.52,
+      "end": 18.56,
+      "audio": 18.52
+     },
+     {
+      "text": "mid",
+      "start": 18.64,
+      "end": 18.72,
+      "audio": 18.64
+     },
+     {
+      "text": "two",
+      "start": 18.8,
+      "end": 18.96,
+      "audio": 18.8
+     },
+     {
+      "text": "thousands.",
+      "start": 19.04,
+      "end": 19.92,
+      "audio": 19.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 19.92
+   },
+   {
+    "start": 20.24,
+    "end": 28.88,
+    "words": [
+     {
+      "text": "So",
+      "start": 20.24,
+      "end": 20.48,
+      "audio": 20.24
+     },
+     {
+      "text": "is",
+      "start": 20.72,
+      "end": 20.8,
+      "audio": 20.72
+     },
+     {
+      "text": "it",
+      "start": 20.84,
+      "end": 20.88,
+      "audio": 20.84
+     },
+     {
+      "text": "just",
+      "start": 21.12,
+      "end": 21.28,
+      "audio": 21.12
+     },
+     {
+      "text": "your",
+      "start": 21.36,
+      "end": 21.44,
+      "audio": 21.36
+     },
+     {
+      "text": "brain?",
+      "start": 21.52,
+      "end": 22.2,
+      "audio": 21.52
+     },
+     {
+      "text": "Maybe.",
+      "start": 22.48,
+      "end": 23.08,
+      "audio": 22.48
+     },
+     {
+      "text": "But",
+      "start": 23.28,
+      "end": 23.36,
+      "audio": 23.28
+     },
+     {
+      "text": "your",
+      "start": 23.44,
+      "end": 23.52,
+      "audio": 23.44
+     },
+     {
+      "text": "brain",
+      "start": 23.6,
+      "end": 23.92,
+      "audio": 23.6
+     },
+     {
+      "text": "chose",
+      "start": 24.08,
+      "end": 24.48,
+      "audio": 24.08
+     },
+     {
+      "text": "to",
+      "start": 24.56,
+      "end": 24.6,
+      "audio": 24.56
+     },
+     {
+      "text": "notice.",
+      "start": 24.64,
+      "end": 25.4,
+      "audio": 24.64
+     },
+     {
+      "text": "The",
+      "start": 25.6,
+      "end": 25.68,
+      "audio": 25.6
+     },
+     {
+      "text": "real",
+      "start": 25.76,
+      "end": 25.92,
+      "audio": 25.76
+     },
+     {
+      "text": "question",
+      "start": 26,
+      "end": 26.4,
+      "audio": 26
+     },
+     {
+      "text": "is",
+      "start": 26.56,
+      "end": 26.64,
+      "audio": 26.56
+     },
+     {
+      "text": "what",
+      "start": 26.72,
+      "end": 26.88,
+      "audio": 26.72
+     },
+     {
+      "text": "you",
+      "start": 26.92,
+      "end": 26.96,
+      "audio": 26.92
+     },
+     {
+      "text": "were",
+      "start": 27.04,
+      "end": 27.2,
+      "audio": 27.04
+     },
+     {
+      "text": "thinking",
+      "start": 27.36,
+      "end": 27.52,
+      "audio": 27.36
+     },
+     {
+      "text": "about",
+      "start": 27.6,
+      "end": 27.84,
+      "audio": 27.6
+     },
+     {
+      "text": "when",
+      "start": 27.92,
+      "end": 28,
+      "audio": 27.92
+     },
+     {
+      "text": "you",
+      "start": 28.08,
+      "end": 28.16,
+      "audio": 28.08
+     },
+     {
+      "text": "saw",
+      "start": 28.24,
+      "end": 28.4,
+      "audio": 28.24
+     },
+     {
+      "text": "it.",
+      "start": 28.48,
+      "end": 28.88,
+      "audio": 28.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.88
+   },
+   {
+    "start": 29.253,
+    "end": 32.4,
+    "words": [
+     {
+      "text": "What",
+      "start": 29.253,
+      "end": 29.28,
+      "audio": 29.253
+     },
+     {
+      "text": "was",
+      "start": 29.36,
+      "end": 29.44,
+      "audio": 29.36
+     },
+     {
+      "text": "on",
+      "start": 29.52,
+      "end": 29.6,
+      "audio": 29.52
+     },
+     {
+      "text": "your",
+      "start": 29.68,
+      "end": 29.84,
+      "audio": 29.68
+     },
+     {
+      "text": "mind",
+      "start": 29.92,
+      "end": 30.16,
+      "audio": 29.92
+     },
+     {
+      "text": "the",
+      "start": 30.24,
+      "end": 30.32,
+      "audio": 30.24
+     },
+     {
+      "text": "last",
+      "start": 30.44,
+      "end": 30.56,
+      "audio": 30.44
+     },
+     {
+      "text": "time",
+      "start": 30.68,
+      "end": 30.8,
+      "audio": 30.68
+     },
+     {
+      "text": "you",
+      "start": 30.88,
+      "end": 31.12,
+      "audio": 30.88
+     },
+     {
+      "text": "saw",
+      "start": 31.16,
+      "end": 31.28,
+      "audio": 31.16
+     },
+     {
+      "text": "eleven",
+      "start": 31.36,
+      "end": 31.6,
+      "audio": 31.36
+     },
+     {
+      "text": "eleven?",
+      "start": 31.68,
+      "end": 32.4,
+      "audio": 31.68
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 32.4
+   }
+  ]
+ },
+ "f08-cat-zodiac": {
+  "duration": 28.66,
+  "segments": [
+   {
+    "start": 0,
+    "end": 4.96,
+    "words": [
+     {
+      "text": "There",
+      "start": 0.08,
+      "end": 0.24,
+      "audio": 0.08
+     },
+     {
+      "text": "are",
+      "start": 0.36,
+      "end": 0.48,
+      "audio": 0.36
+     },
+     {
+      "text": "twelve",
+      "start": 0.6,
+      "end": 1.04,
+      "audio": 0.6
+     },
+     {
+      "text": "animals",
+      "start": 1.04,
+      "end": 1.52,
+      "audio": 1.04
+     },
+     {
+      "text": "in",
+      "start": 1.56,
+      "end": 1.6,
+      "audio": 1.56
+     },
+     {
+      "text": "the",
+      "start": 1.64,
+      "end": 1.68,
+      "audio": 1.64
+     },
+     {
+      "text": "Chinese",
+      "start": 1.76,
+      "end": 2.08,
+      "audio": 1.76
+     },
+     {
+      "text": "zodiac.",
+      "start": 2.16,
+      "end": 2.96,
+      "audio": 2.16
+     },
+     {
+      "text": "The",
+      "start": 3.2,
+      "end": 3.28,
+      "audio": 3.2
+     },
+     {
+      "text": "cat",
+      "start": 3.36,
+      "end": 3.68,
+      "audio": 3.36
+     },
+     {
+      "text": "isn't",
+      "start": 3.84,
+      "end": 4.16,
+      "audio": 3.84
+     },
+     {
+      "text": "one",
+      "start": 4.2,
+      "end": 4.24,
+      "audio": 4.2
+     },
+     {
+      "text": "of",
+      "start": 4.32,
+      "end": 4.4,
+      "audio": 4.32
+     },
+     {
+      "text": "them.",
+      "start": 4.48,
+      "end": 4.96,
+      "audio": 4.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.96
+   },
+   {
+    "start": 5.28,
+    "end": 9.36,
+    "words": [
+     {
+      "text": "Legend",
+      "start": 5.28,
+      "end": 5.6,
+      "audio": 5.28
+     },
+     {
+      "text": "says",
+      "start": 5.68,
+      "end": 5.92,
+      "audio": 5.68
+     },
+     {
+      "text": "the",
+      "start": 6,
+      "end": 6.16,
+      "audio": 6
+     },
+     {
+      "text": "Jade",
+      "start": 6.2,
+      "end": 6.4,
+      "audio": 6.2
+     },
+     {
+      "text": "Emperor",
+      "start": 6.56,
+      "end": 6.96,
+      "audio": 6.56
+     },
+     {
+      "text": "called",
+      "start": 7.04,
+      "end": 7.2,
+      "audio": 7.04
+     },
+     {
+      "text": "a",
+      "start": 7.28,
+      "end": 7.36,
+      "audio": 7.28
+     },
+     {
+      "text": "great",
+      "start": 7.52,
+      "end": 7.68,
+      "audio": 7.52
+     },
+     {
+      "text": "race",
+      "start": 7.84,
+      "end": 8.08,
+      "audio": 7.84
+     },
+     {
+      "text": "across",
+      "start": 8.16,
+      "end": 8.4,
+      "audio": 8.16
+     },
+     {
+      "text": "a",
+      "start": 8.44,
+      "end": 8.48,
+      "audio": 8.44
+     },
+     {
+      "text": "river.",
+      "start": 8.56,
+      "end": 9.36,
+      "audio": 8.56
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 9.36
+   },
+   {
+    "start": 9.44,
+    "end": 13.36,
+    "words": [
+     {
+      "text": "The",
+      "start": 9.44,
+      "end": 9.52,
+      "audio": 9.44
+     },
+     {
+      "text": "rat",
+      "start": 9.6,
+      "end": 9.92,
+      "audio": 9.6
+     },
+     {
+      "text": "promised",
+      "start": 10,
+      "end": 10.32,
+      "audio": 10
+     },
+     {
+      "text": "to",
+      "start": 10.4,
+      "end": 10.48,
+      "audio": 10.4
+     },
+     {
+      "text": "wake",
+      "start": 10.56,
+      "end": 10.64,
+      "audio": 10.56
+     },
+     {
+      "text": "the",
+      "start": 10.72,
+      "end": 10.8,
+      "audio": 10.72
+     },
+     {
+      "text": "cat",
+      "start": 10.88,
+      "end": 11.12,
+      "audio": 10.88
+     },
+     {
+      "text": "on",
+      "start": 11.2,
+      "end": 11.28,
+      "audio": 11.2
+     },
+     {
+      "text": "race",
+      "start": 11.36,
+      "end": 11.6,
+      "audio": 11.36
+     },
+     {
+      "text": "day.",
+      "start": 11.72,
+      "end": 12.32,
+      "audio": 11.72
+     },
+     {
+      "text": "It",
+      "start": 12.4,
+      "end": 12.48,
+      "audio": 12.4
+     },
+     {
+      "text": "didn't.",
+      "start": 12.56,
+      "end": 13.36,
+      "audio": 12.56
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 13.36
+   },
+   {
+    "start": 13.4,
+    "end": 19.44,
+    "words": [
+     {
+      "text": "The",
+      "start": 13.4,
+      "end": 13.44,
+      "audio": 13.4
+     },
+     {
+      "text": "rat",
+      "start": 13.52,
+      "end": 13.76,
+      "audio": 13.52
+     },
+     {
+      "text": "came",
+      "start": 13.92,
+      "end": 14.08,
+      "audio": 13.92
+     },
+     {
+      "text": "first.",
+      "start": 14.32,
+      "end": 14.88,
+      "audio": 14.32
+     },
+     {
+      "text": "The",
+      "start": 14.96,
+      "end": 15.04,
+      "audio": 14.96
+     },
+     {
+      "text": "cat",
+      "start": 15.12,
+      "end": 15.36,
+      "audio": 15.12
+     },
+     {
+      "text": "came",
+      "start": 15.44,
+      "end": 15.68,
+      "audio": 15.44
+     },
+     {
+      "text": "too",
+      "start": 15.76,
+      "end": 15.84,
+      "audio": 15.76
+     },
+     {
+      "text": "late.",
+      "start": 15.92,
+      "end": 16.56,
+      "audio": 15.92
+     },
+     {
+      "text": "And",
+      "start": 16.64,
+      "end": 16.72,
+      "audio": 16.64
+     },
+     {
+      "text": "cats",
+      "start": 16.8,
+      "end": 17.04,
+      "audio": 16.8
+     },
+     {
+      "text": "have",
+      "start": 17.08,
+      "end": 17.12,
+      "audio": 17.08
+     },
+     {
+      "text": "been",
+      "start": 17.2,
+      "end": 17.36,
+      "audio": 17.2
+     },
+     {
+      "text": "chasing",
+      "start": 17.44,
+      "end": 17.76,
+      "audio": 17.44
+     },
+     {
+      "text": "rats",
+      "start": 17.84,
+      "end": 18.24,
+      "audio": 17.84
+     },
+     {
+      "text": "ever",
+      "start": 18.36,
+      "end": 18.48,
+      "audio": 18.36
+     },
+     {
+      "text": "since.",
+      "start": 18.56,
+      "end": 19.44,
+      "audio": 18.56
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 19.44
+   },
+   {
+    "start": 19.48,
+    "end": 25.12,
+    "words": [
+     {
+      "text": "But",
+      "start": 19.48,
+      "end": 19.52,
+      "audio": 19.48
+     },
+     {
+      "text": "in",
+      "start": 19.6,
+      "end": 19.68,
+      "audio": 19.6
+     },
+     {
+      "text": "Vietnam,",
+      "start": 19.84,
+      "end": 20.48,
+      "audio": 19.84
+     },
+     {
+      "text": "the",
+      "start": 20.56,
+      "end": 20.64,
+      "audio": 20.56
+     },
+     {
+      "text": "cat",
+      "start": 20.72,
+      "end": 20.96,
+      "audio": 20.72
+     },
+     {
+      "text": "made",
+      "start": 21.04,
+      "end": 21.28,
+      "audio": 21.04
+     },
+     {
+      "text": "it.",
+      "start": 21.4,
+      "end": 21.92,
+      "audio": 21.4
+     },
+     {
+      "text": "Their",
+      "start": 22.04,
+      "end": 22.16,
+      "audio": 22.04
+     },
+     {
+      "text": "zodiac",
+      "start": 22.24,
+      "end": 22.64,
+      "audio": 22.24
+     },
+     {
+      "text": "has",
+      "start": 22.72,
+      "end": 22.8,
+      "audio": 22.72
+     },
+     {
+      "text": "a",
+      "start": 22.88,
+      "end": 22.96,
+      "audio": 22.88
+     },
+     {
+      "text": "cat",
+      "start": 23.04,
+      "end": 23.36,
+      "audio": 23.04
+     },
+     {
+      "text": "where",
+      "start": 23.44,
+      "end": 23.6,
+      "audio": 23.44
+     },
+     {
+      "text": "China",
+      "start": 23.8,
+      "end": 24,
+      "audio": 23.8
+     },
+     {
+      "text": "has",
+      "start": 24.08,
+      "end": 24.24,
+      "audio": 24.08
+     },
+     {
+      "text": "the",
+      "start": 24.28,
+      "end": 24.32,
+      "audio": 24.28
+     },
+     {
+      "text": "rabbit.",
+      "start": 24.52,
+      "end": 25.12,
+      "audio": 24.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.12
+   },
+   {
+    "start": 25.2,
+    "end": 27.76,
+    "words": [
+     {
+      "text": "So,",
+      "start": 25.2,
+      "end": 25.76,
+      "audio": 25.2
+     },
+     {
+      "text": "team",
+      "start": 25.88,
+      "end": 26,
+      "audio": 25.88
+     },
+     {
+      "text": "cat",
+      "start": 26.08,
+      "end": 26.4,
+      "audio": 26.08
+     },
+     {
+      "text": "or",
+      "start": 26.64,
+      "end": 26.8,
+      "audio": 26.64
+     },
+     {
+      "text": "team",
+      "start": 26.88,
+      "end": 27.12,
+      "audio": 26.88
+     },
+     {
+      "text": "rabbit?",
+      "start": 27.32,
+      "end": 27.76,
+      "audio": 27.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 27.76
+   }
+  ]
+ },
+ "f09-seven-day-week": {
+  "duration": 37.14,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.48,
+    "words": [
+     {
+      "text": "Why",
+      "start": 0.16,
+      "end": 0.32,
+      "audio": 0.16
+     },
+     {
+      "text": "does",
+      "start": 0.4,
+      "end": 0.48,
+      "audio": 0.4
+     },
+     {
+      "text": "a",
+      "start": 0.56,
+      "end": 0.64,
+      "audio": 0.56
+     },
+     {
+      "text": "week",
+      "start": 0.72,
+      "end": 0.96,
+      "audio": 0.72
+     },
+     {
+      "text": "have",
+      "start": 1.04,
+      "end": 1.2,
+      "audio": 1.04
+     },
+     {
+      "text": "seven",
+      "start": 1.36,
+      "end": 1.6,
+      "audio": 1.36
+     },
+     {
+      "text": "days?",
+      "start": 1.68,
+      "end": 2.44,
+      "audio": 1.68
+     },
+     {
+      "text": "Look",
+      "start": 2.72,
+      "end": 2.88,
+      "audio": 2.72
+     },
+     {
+      "text": "up.",
+      "start": 2.96,
+      "end": 3.48,
+      "audio": 2.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.48
+   },
+   {
+    "start": 3.76,
+    "end": 13.64,
+    "words": [
+     {
+      "text": "Ancient",
+      "start": 3.76,
+      "end": 4.16,
+      "audio": 3.76
+     },
+     {
+      "text": "sky",
+      "start": 4.24,
+      "end": 4.56,
+      "audio": 4.24
+     },
+     {
+      "text": "watchers",
+      "start": 4.68,
+      "end": 5.04,
+      "audio": 4.68
+     },
+     {
+      "text": "could",
+      "start": 5.12,
+      "end": 5.2,
+      "audio": 5.12
+     },
+     {
+      "text": "see",
+      "start": 5.28,
+      "end": 5.44,
+      "audio": 5.28
+     },
+     {
+      "text": "seven",
+      "start": 5.6,
+      "end": 5.84,
+      "audio": 5.6
+     },
+     {
+      "text": "lights",
+      "start": 5.92,
+      "end": 6.32,
+      "audio": 5.92
+     },
+     {
+      "text": "moving",
+      "start": 6.4,
+      "end": 6.72,
+      "audio": 6.4
+     },
+     {
+      "text": "against",
+      "start": 6.8,
+      "end": 7.04,
+      "audio": 6.8
+     },
+     {
+      "text": "the",
+      "start": 7.08,
+      "end": 7.12,
+      "audio": 7.08
+     },
+     {
+      "text": "stars.",
+      "start": 7.2,
+      "end": 8,
+      "audio": 7.2
+     },
+     {
+      "text": "The",
+      "start": 8.24,
+      "end": 8.32,
+      "audio": 8.24
+     },
+     {
+      "text": "Sun,",
+      "start": 8.4,
+      "end": 8.8,
+      "audio": 8.4
+     },
+     {
+      "text": "the",
+      "start": 9.04,
+      "end": 9.12,
+      "audio": 9.04
+     },
+     {
+      "text": "Moon,",
+      "start": 9.2,
+      "end": 9.72,
+      "audio": 9.2
+     },
+     {
+      "text": "Mars,",
+      "start": 9.92,
+      "end": 10.4,
+      "audio": 9.92
+     },
+     {
+      "text": "Mercury,",
+      "start": 10.64,
+      "end": 11.36,
+      "audio": 10.64
+     },
+     {
+      "text": "Jupiter,",
+      "start": 11.44,
+      "end": 12.08,
+      "audio": 11.44
+     },
+     {
+      "text": "Venus",
+      "start": 12.16,
+      "end": 12.56,
+      "audio": 12.16
+     },
+     {
+      "text": "and",
+      "start": 12.64,
+      "end": 12.8,
+      "audio": 12.64
+     },
+     {
+      "text": "Saturn.",
+      "start": 12.88,
+      "end": 13.64,
+      "audio": 12.88
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 13.64
+   },
+   {
+    "start": 13.92,
+    "end": 16.8,
+    "words": [
+     {
+      "text": "Each",
+      "start": 13.92,
+      "end": 14.08,
+      "audio": 13.92
+     },
+     {
+      "text": "one",
+      "start": 14.16,
+      "end": 14.4,
+      "audio": 14.16
+     },
+     {
+      "text": "got",
+      "start": 14.48,
+      "end": 14.56,
+      "audio": 14.48
+     },
+     {
+      "text": "a",
+      "start": 14.64,
+      "end": 14.68,
+      "audio": 14.64
+     },
+     {
+      "text": "day.",
+      "start": 14.72,
+      "end": 15.32,
+      "audio": 14.72
+     },
+     {
+      "text": "You",
+      "start": 15.6,
+      "end": 15.64,
+      "audio": 15.6
+     },
+     {
+      "text": "can",
+      "start": 15.68,
+      "end": 15.76,
+      "audio": 15.68
+     },
+     {
+      "text": "still",
+      "start": 15.84,
+      "end": 16,
+      "audio": 15.84
+     },
+     {
+      "text": "hear",
+      "start": 16.08,
+      "end": 16.24,
+      "audio": 16.08
+     },
+     {
+      "text": "them.",
+      "start": 16.32,
+      "end": 16.8,
+      "audio": 16.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 16.8
+   },
+   {
+    "start": 17.12,
+    "end": 21.92,
+    "words": [
+     {
+      "text": "Sunday,",
+      "start": 17.12,
+      "end": 17.72,
+      "audio": 17.12
+     },
+     {
+      "text": "the",
+      "start": 17.84,
+      "end": 17.92,
+      "audio": 17.84
+     },
+     {
+      "text": "Sun.",
+      "start": 18,
+      "end": 18.4,
+      "audio": 18
+     },
+     {
+      "text": "Monday,",
+      "start": 18.88,
+      "end": 19.44,
+      "audio": 18.88
+     },
+     {
+      "text": "the",
+      "start": 19.52,
+      "end": 19.6,
+      "audio": 19.52
+     },
+     {
+      "text": "Moon.",
+      "start": 19.68,
+      "end": 20.08,
+      "audio": 19.68
+     },
+     {
+      "text": "Saturday,",
+      "start": 20.56,
+      "end": 21.28,
+      "audio": 20.56
+     },
+     {
+      "text": "Saturn.",
+      "start": 21.44,
+      "end": 21.92,
+      "audio": 21.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 21.92
+   },
+   {
+    "start": 22.48,
+    "end": 28.12,
+    "words": [
+     {
+      "text": "In",
+      "start": 22.48,
+      "end": 22.56,
+      "audio": 22.48
+     },
+     {
+      "text": "Spanish,",
+      "start": 22.64,
+      "end": 23.2,
+      "audio": 22.64
+     },
+     {
+      "text": "the",
+      "start": 23.28,
+      "end": 23.36,
+      "audio": 23.28
+     },
+     {
+      "text": "others",
+      "start": 23.48,
+      "end": 23.6,
+      "audio": 23.48
+     },
+     {
+      "text": "are",
+      "start": 23.68,
+      "end": 23.76,
+      "audio": 23.68
+     },
+     {
+      "text": "still",
+      "start": 23.88,
+      "end": 24,
+      "audio": 23.88
+     },
+     {
+      "text": "there.",
+      "start": 24.16,
+      "end": 24.6,
+      "audio": 24.16
+     },
+     {
+      "text": "Martes,",
+      "start": 24.88,
+      "end": 25.56,
+      "audio": 24.88
+     },
+     {
+      "text": "miércoles,",
+      "start": 25.68,
+      "end": 26.48,
+      "audio": 25.68
+     },
+     {
+      "text": "jueves,",
+      "start": 26.52,
+      "end": 27.2,
+      "audio": 26.52
+     },
+     {
+      "text": "viernes.",
+      "start": 27.28,
+      "end": 28.12,
+      "audio": 27.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.12
+   },
+   {
+    "start": 28.4,
+    "end": 33.36,
+    "words": [
+     {
+      "text": "English",
+      "start": 28.4,
+      "end": 28.8,
+      "audio": 28.4
+     },
+     {
+      "text": "swapped",
+      "start": 28.88,
+      "end": 29.12,
+      "audio": 28.88
+     },
+     {
+      "text": "them",
+      "start": 29.2,
+      "end": 29.28,
+      "audio": 29.2
+     },
+     {
+      "text": "for",
+      "start": 29.36,
+      "end": 29.44,
+      "audio": 29.36
+     },
+     {
+      "text": "Norse",
+      "start": 29.52,
+      "end": 29.84,
+      "audio": 29.52
+     },
+     {
+      "text": "gods.",
+      "start": 29.92,
+      "end": 30.52,
+      "audio": 29.92
+     },
+     {
+      "text": "Tiw,",
+      "start": 30.72,
+      "end": 31.12,
+      "audio": 30.72
+     },
+     {
+      "text": "Woden,",
+      "start": 31.36,
+      "end": 32,
+      "audio": 31.36
+     },
+     {
+      "text": "Thor",
+      "start": 32.08,
+      "end": 32.4,
+      "audio": 32.08
+     },
+     {
+      "text": "and",
+      "start": 32.48,
+      "end": 32.64,
+      "audio": 32.48
+     },
+     {
+      "text": "Frigg.",
+      "start": 32.72,
+      "end": 33.36,
+      "audio": 32.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 33.36
+   },
+   {
+    "start": 33.733,
+    "end": 36.24,
+    "words": [
+     {
+      "text": "What's",
+      "start": 33.733,
+      "end": 33.84,
+      "audio": 33.733
+     },
+     {
+      "text": "your",
+      "start": 33.96,
+      "end": 34.08,
+      "audio": 33.96
+     },
+     {
+      "text": "favorite",
+      "start": 34.24,
+      "end": 34.4,
+      "audio": 34.24
+     },
+     {
+      "text": "day",
+      "start": 34.48,
+      "end": 34.56,
+      "audio": 34.48
+     },
+     {
+      "text": "of",
+      "start": 34.6,
+      "end": 34.64,
+      "audio": 34.6
+     },
+     {
+      "text": "the",
+      "start": 34.72,
+      "end": 34.76,
+      "audio": 34.72
+     },
+     {
+      "text": "week?",
+      "start": 34.8,
+      "end": 35.12,
+      "audio": 34.8
+     },
+     {
+      "text": "And",
+      "start": 35.44,
+      "end": 35.52,
+      "audio": 35.44
+     },
+     {
+      "text": "why?",
+      "start": 35.6,
+      "end": 36.24,
+      "audio": 35.6
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 36.24
+   }
+  ]
+ },
+ "f10-birthstones-1912": {
+  "duration": 31.939999999999998,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.36,
+    "words": [
+     {
+      "text": "Your",
+      "start": 0.16,
+      "end": 0.4,
+      "audio": 0.16
+     },
+     {
+      "text": "birthstone",
+      "start": 0.48,
+      "end": 1.04,
+      "audio": 0.48
+     },
+     {
+      "text": "was",
+      "start": 1.16,
+      "end": 1.28,
+      "audio": 1.16
+     },
+     {
+      "text": "chosen",
+      "start": 1.44,
+      "end": 1.6,
+      "audio": 1.44
+     },
+     {
+      "text": "at",
+      "start": 1.68,
+      "end": 1.76,
+      "audio": 1.68
+     },
+     {
+      "text": "a",
+      "start": 1.84,
+      "end": 1.92,
+      "audio": 1.84
+     },
+     {
+      "text": "jewelers'",
+      "start": 2,
+      "end": 2.44,
+      "audio": 2
+     },
+     {
+      "text": "meeting.",
+      "start": 2.48,
+      "end": 3.36,
+      "audio": 2.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.36
+   },
+   {
+    "start": 3.44,
+    "end": 10.88,
+    "words": [
+     {
+      "text": "In",
+      "start": 3.44,
+      "end": 3.52,
+      "audio": 3.44
+     },
+     {
+      "text": "1912,",
+      "start": 3.6,
+      "end": 4.64,
+      "audio": 3.6
+     },
+     {
+      "text": "the",
+      "start": 4.72,
+      "end": 4.88,
+      "audio": 4.72
+     },
+     {
+      "text": "American",
+      "start": 5.04,
+      "end": 5.2,
+      "audio": 5.04
+     },
+     {
+      "text": "National",
+      "start": 5.28,
+      "end": 5.6,
+      "audio": 5.28
+     },
+     {
+      "text": "Association",
+      "start": 5.96,
+      "end": 6.32,
+      "audio": 5.96
+     },
+     {
+      "text": "of",
+      "start": 6.36,
+      "end": 6.4,
+      "audio": 6.36
+     },
+     {
+      "text": "Jewelers",
+      "start": 6.56,
+      "end": 6.96,
+      "audio": 6.56
+     },
+     {
+      "text": "met",
+      "start": 7.04,
+      "end": 7.2,
+      "audio": 7.04
+     },
+     {
+      "text": "in",
+      "start": 7.28,
+      "end": 7.36,
+      "audio": 7.28
+     },
+     {
+      "text": "Kansas",
+      "start": 7.56,
+      "end": 7.76,
+      "audio": 7.56
+     },
+     {
+      "text": "City",
+      "start": 7.84,
+      "end": 8.48,
+      "audio": 7.84
+     },
+     {
+      "text": "and",
+      "start": 8.52,
+      "end": 8.56,
+      "audio": 8.52
+     },
+     {
+      "text": "agreed",
+      "start": 8.64,
+      "end": 8.96,
+      "audio": 8.64
+     },
+     {
+      "text": "on",
+      "start": 9.04,
+      "end": 9.28,
+      "audio": 9.04
+     },
+     {
+      "text": "one",
+      "start": 9.36,
+      "end": 9.6,
+      "audio": 9.36
+     },
+     {
+      "text": "official",
+      "start": 9.84,
+      "end": 10.08,
+      "audio": 9.84
+     },
+     {
+      "text": "list.",
+      "start": 10.28,
+      "end": 10.88,
+      "audio": 10.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 10.88
+   },
+   {
+    "start": 10.96,
+    "end": 17.227,
+    "words": [
+     {
+      "text": "Older",
+      "start": 10.96,
+      "end": 11.28,
+      "audio": 10.96
+     },
+     {
+      "text": "traditions",
+      "start": 11.36,
+      "end": 11.84,
+      "audio": 11.36
+     },
+     {
+      "text": "tied",
+      "start": 11.88,
+      "end": 12.16,
+      "audio": 11.88
+     },
+     {
+      "text": "twelve",
+      "start": 12.24,
+      "end": 12.48,
+      "audio": 12.24
+     },
+     {
+      "text": "stones",
+      "start": 12.64,
+      "end": 12.96,
+      "audio": 12.64
+     },
+     {
+      "text": "to",
+      "start": 13.04,
+      "end": 13.12,
+      "audio": 13.04
+     },
+     {
+      "text": "the",
+      "start": 13.16,
+      "end": 13.2,
+      "audio": 13.16
+     },
+     {
+      "text": "months,",
+      "start": 13.28,
+      "end": 14,
+      "audio": 13.28
+     },
+     {
+      "text": "and",
+      "start": 14.08,
+      "end": 14.16,
+      "audio": 14.08
+     },
+     {
+      "text": "to",
+      "start": 14.24,
+      "end": 14.32,
+      "audio": 14.24
+     },
+     {
+      "text": "the",
+      "start": 14.36,
+      "end": 14.4,
+      "audio": 14.36
+     },
+     {
+      "text": "twelve",
+      "start": 14.48,
+      "end": 14.64,
+      "audio": 14.48
+     },
+     {
+      "text": "stones",
+      "start": 14.8,
+      "end": 15.04,
+      "audio": 14.8
+     },
+     {
+      "text": "of",
+      "start": 15.12,
+      "end": 15.2,
+      "audio": 15.12
+     },
+     {
+      "text": "Aaron's",
+      "start": 15.28,
+      "end": 15.6,
+      "audio": 15.28
+     },
+     {
+      "text": "breastplate",
+      "start": 15.68,
+      "end": 16.16,
+      "audio": 15.68
+     },
+     {
+      "text": "in",
+      "start": 16.2,
+      "end": 16.24,
+      "audio": 16.2
+     },
+     {
+      "text": "the",
+      "start": 16.32,
+      "end": 16.4,
+      "audio": 16.32
+     },
+     {
+      "text": "Bible.",
+      "start": 16.44,
+      "end": 17.227,
+      "audio": 16.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 17.227
+   },
+   {
+    "start": 17.253,
+    "end": 22.2,
+    "words": [
+     {
+      "text": "But",
+      "start": 17.253,
+      "end": 17.28,
+      "audio": 17.253
+     },
+     {
+      "text": "the",
+      "start": 17.36,
+      "end": 17.44,
+      "audio": 17.36
+     },
+     {
+      "text": "list",
+      "start": 17.56,
+      "end": 17.68,
+      "audio": 17.56
+     },
+     {
+      "text": "most",
+      "start": 17.76,
+      "end": 18,
+      "audio": 17.76
+     },
+     {
+      "text": "people",
+      "start": 18.16,
+      "end": 18.32,
+      "audio": 18.16
+     },
+     {
+      "text": "use",
+      "start": 18.4,
+      "end": 18.48,
+      "audio": 18.4
+     },
+     {
+      "text": "today",
+      "start": 18.56,
+      "end": 19.04,
+      "audio": 18.56
+     },
+     {
+      "text": "is",
+      "start": 19.08,
+      "end": 19.12,
+      "audio": 19.08
+     },
+     {
+      "text": "a",
+      "start": 19.36,
+      "end": 19.467,
+      "audio": 19.36
+     },
+     {
+      "text": "modern",
+      "start": 19.573,
+      "end": 19.68,
+      "audio": 19.573
+     },
+     {
+      "text": "standard.",
+      "start": 19.76,
+      "end": 20.587,
+      "audio": 19.76
+     },
+     {
+      "text": "And",
+      "start": 20.613,
+      "end": 20.64,
+      "audio": 20.613
+     },
+     {
+      "text": "it",
+      "start": 20.72,
+      "end": 20.8,
+      "audio": 20.72
+     },
+     {
+      "text": "still",
+      "start": 20.88,
+      "end": 21.2,
+      "audio": 20.88
+     },
+     {
+      "text": "changes.",
+      "start": 21.68,
+      "end": 22.2,
+      "audio": 21.68
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 22.2
+   },
+   {
+    "start": 22.24,
+    "end": 27.931,
+    "words": [
+     {
+      "text": "Tanzanite",
+      "start": 22.24,
+      "end": 22.88,
+      "audio": 22.24
+     },
+     {
+      "text": "joined",
+      "start": 22.96,
+      "end": 23.04,
+      "audio": 22.96
+     },
+     {
+      "text": "December",
+      "start": 23.12,
+      "end": 23.6,
+      "audio": 23.12
+     },
+     {
+      "text": "in",
+      "start": 23.68,
+      "end": 23.76,
+      "audio": 23.68
+     },
+     {
+      "text": "2002.",
+      "start": 23.84,
+      "end": 25.08,
+      "audio": 23.84
+     },
+     {
+      "text": "Spinel",
+      "start": 25.12,
+      "end": 25.6,
+      "audio": 25.12
+     },
+     {
+      "text": "joined",
+      "start": 25.68,
+      "end": 25.92,
+      "audio": 25.68
+     },
+     {
+      "text": "August",
+      "start": 26,
+      "end": 26.4,
+      "audio": 26
+     },
+     {
+      "text": "in",
+      "start": 26.48,
+      "end": 26.56,
+      "audio": 26.48
+     },
+     {
+      "text": "2016.",
+      "start": 26.72,
+      "end": 27.931,
+      "audio": 26.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 27.931
+   },
+   {
+    "start": 28,
+    "end": 31.04,
+    "words": [
+     {
+      "text": "Do",
+      "start": 28,
+      "end": 28.08,
+      "audio": 28
+     },
+     {
+      "text": "you",
+      "start": 28.12,
+      "end": 28.16,
+      "audio": 28.12
+     },
+     {
+      "text": "actually",
+      "start": 28.24,
+      "end": 28.56,
+      "audio": 28.24
+     },
+     {
+      "text": "like",
+      "start": 28.72,
+      "end": 28.88,
+      "audio": 28.72
+     },
+     {
+      "text": "your",
+      "start": 28.96,
+      "end": 29.12,
+      "audio": 28.96
+     },
+     {
+      "text": "birthstone?",
+      "start": 29.24,
+      "end": 30.04,
+      "audio": 29.24
+     },
+     {
+      "text": "Tell",
+      "start": 30.08,
+      "end": 30.24,
+      "audio": 30.08
+     },
+     {
+      "text": "me",
+      "start": 30.28,
+      "end": 30.32,
+      "audio": 30.28
+     },
+     {
+      "text": "your",
+      "start": 30.4,
+      "end": 30.48,
+      "audio": 30.4
+     },
+     {
+      "text": "month.",
+      "start": 30.64,
+      "end": 31.04,
+      "audio": 30.64
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 31.04
+   }
+  ]
+ },
+ "p01-pick-a-door": {
+  "duration": 39.34,
+  "segments": [
+   {
+    "start": 0,
+    "end": 2.24,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.4,
+      "audio": 0.36
+     },
+     {
+      "text": "video.",
+      "start": 0.48,
+      "end": 1.12,
+      "audio": 0.48
+     },
+     {
+      "text": "Pick",
+      "start": 1.36,
+      "end": 1.44,
+      "audio": 1.36
+     },
+     {
+      "text": "a",
+      "start": 1.52,
+      "end": 1.56,
+      "audio": 1.52
+     },
+     {
+      "text": "door.",
+      "start": 1.6,
+      "end": 2.24,
+      "audio": 1.6
+     }
+    ],
+    "hold": 2.2,
+    "audioEnd": 2.24
+   },
+   {
+    "start": 4.76,
+    "end": 5.720000000000001,
+    "words": [
+     {
+      "text": "Door",
+      "start": 4.76,
+      "end": 4.92,
+      "audio": 2.56
+     },
+     {
+      "text": "one.",
+      "start": 5.08,
+      "end": 5.720000000000001,
+      "audio": 2.88
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.5200000000000005
+   },
+   {
+    "start": 6.04,
+    "end": 15.68,
+    "words": [
+     {
+      "text": "One",
+      "start": 6.04,
+      "end": 6.36,
+      "audio": 3.84
+     },
+     {
+      "text": "is",
+      "start": 6.5200000000000005,
+      "end": 6.6000000000000005,
+      "audio": 4.32
+     },
+     {
+      "text": "the",
+      "start": 6.640000000000001,
+      "end": 6.680000000000001,
+      "audio": 4.44
+     },
+     {
+      "text": "number",
+      "start": 6.76,
+      "end": 7,
+      "audio": 4.56
+     },
+     {
+      "text": "of",
+      "start": 7.04,
+      "end": 7.08,
+      "audio": 4.84
+     },
+     {
+      "text": "beginnings.",
+      "start": 7.16,
+      "end": 8.120000000000001,
+      "audio": 4.96
+     },
+     {
+      "text": "You've",
+      "start": 8.36,
+      "end": 8.440000000000001,
+      "audio": 6.16
+     },
+     {
+      "text": "been",
+      "start": 8.52,
+      "end": 8.68,
+      "audio": 6.32
+     },
+     {
+      "text": "waiting",
+      "start": 8.76,
+      "end": 9.16,
+      "audio": 6.56
+     },
+     {
+      "text": "for",
+      "start": 9.2,
+      "end": 9.24,
+      "audio": 7
+     },
+     {
+      "text": "the",
+      "start": 9.32,
+      "end": 9.48,
+      "audio": 7.12
+     },
+     {
+      "text": "right",
+      "start": 9.600000000000001,
+      "end": 9.719999999999999,
+      "audio": 7.4
+     },
+     {
+      "text": "moment.",
+      "start": 9.8,
+      "end": 10.52,
+      "audio": 7.6
+     },
+     {
+      "text": "This",
+      "start": 10.760000000000002,
+      "end": 10.84,
+      "audio": 8.56
+     },
+     {
+      "text": "is",
+      "start": 10.920000000000002,
+      "end": 11,
+      "audio": 8.72
+     },
+     {
+      "text": "your",
+      "start": 11.080000000000002,
+      "end": 11.239999999999998,
+      "audio": 8.88
+     },
+     {
+      "text": "nudge",
+      "start": 11.280000000000001,
+      "end": 11.559999999999999,
+      "audio": 9.08
+     },
+     {
+      "text": "to",
+      "start": 11.64,
+      "end": 11.719999999999999,
+      "audio": 9.44
+     },
+     {
+      "text": "take",
+      "start": 11.84,
+      "end": 11.96,
+      "audio": 9.64
+     },
+     {
+      "text": "one",
+      "start": 12.04,
+      "end": 12.280000000000001,
+      "audio": 9.84
+     },
+     {
+      "text": "small",
+      "start": 12.440000000000001,
+      "end": 12.760000000000002,
+      "audio": 10.24
+     },
+     {
+      "text": "first",
+      "start": 13,
+      "end": 13.239999999999998,
+      "audio": 10.8
+     },
+     {
+      "text": "step,",
+      "start": 13.440000000000001,
+      "end": 13.879999999999999,
+      "audio": 11.24
+     },
+     {
+      "text": "yourself,",
+      "start": 14,
+      "end": 14.760000000000002,
+      "audio": 11.8
+     },
+     {
+      "text": "today.",
+      "start": 15,
+      "end": 15.68,
+      "audio": 12.8
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 13.48
+   },
+   {
+    "start": 16.12,
+    "end": 17.28,
+    "words": [
+     {
+      "text": "Door",
+      "start": 16.12,
+      "end": 16.2,
+      "audio": 13.92
+     },
+     {
+      "text": "two.",
+      "start": 16.52,
+      "end": 17.28,
+      "audio": 14.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.080000000000002
+   },
+   {
+    "start": 17.48,
+    "end": 26.279999999999998,
+    "words": [
+     {
+      "text": "Two",
+      "start": 17.48,
+      "end": 17.56,
+      "audio": 15.28
+     },
+     {
+      "text": "is",
+      "start": 17.8,
+      "end": 18.04,
+      "audio": 15.6
+     },
+     {
+      "text": "balance",
+      "start": 18.279999999999998,
+      "end": 18.36,
+      "audio": 16.08
+     },
+     {
+      "text": "and",
+      "start": 18.52,
+      "end": 18.72,
+      "audio": 16.32
+     },
+     {
+      "text": "partnership.",
+      "start": 18.919999999999998,
+      "end": 19.84,
+      "audio": 16.72
+     },
+     {
+      "text": "Something",
+      "start": 20.04,
+      "end": 20.12,
+      "audio": 17.84
+     },
+     {
+      "text": "you",
+      "start": 20.2,
+      "end": 20.279999999999998,
+      "audio": 18
+     },
+     {
+      "text": "want",
+      "start": 20.599999999999998,
+      "end": 20.68,
+      "audio": 18.4
+     },
+     {
+      "text": "needs",
+      "start": 20.84,
+      "end": 21.04,
+      "audio": 18.64
+     },
+     {
+      "text": "another",
+      "start": 21.24,
+      "end": 21.48,
+      "audio": 19.04
+     },
+     {
+      "text": "person,",
+      "start": 21.72,
+      "end": 22.04,
+      "audio": 19.52
+     },
+     {
+      "text": "or",
+      "start": 22.12,
+      "end": 22.2,
+      "audio": 19.92
+     },
+     {
+      "text": "more",
+      "start": 22.279999999999998,
+      "end": 22.36,
+      "audio": 20.08
+     },
+     {
+      "text": "time.",
+      "start": 22.68,
+      "end": 23.2,
+      "audio": 20.48
+     },
+     {
+      "text": "Don't",
+      "start": 23.24,
+      "end": 23.56,
+      "audio": 21.04
+     },
+     {
+      "text": "force",
+      "start": 23.72,
+      "end": 23.84,
+      "audio": 21.52
+     },
+     {
+      "text": "it.",
+      "start": 23.96,
+      "end": 24.32,
+      "audio": 21.76
+     },
+     {
+      "text": "Let",
+      "start": 24.36,
+      "end": 24.439999999999998,
+      "audio": 22.16
+     },
+     {
+      "text": "it",
+      "start": 24.52,
+      "end": 24.599999999999998,
+      "audio": 22.32
+     },
+     {
+      "text": "meet",
+      "start": 24.759999999999998,
+      "end": 24.84,
+      "audio": 22.56
+     },
+     {
+      "text": "you",
+      "start": 24.919999999999998,
+      "end": 25.08,
+      "audio": 22.72
+     },
+     {
+      "text": "halfway.",
+      "start": 25.24,
+      "end": 26.279999999999998,
+      "audio": 23.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 24.08
+   },
+   {
+    "start": 26.439999999999998,
+    "end": 27.4,
+    "words": [
+     {
+      "text": "Door",
+      "start": 26.439999999999998,
+      "end": 26.52,
+      "audio": 24.24
+     },
+     {
+      "text": "three.",
+      "start": 26.84,
+      "end": 27.4,
+      "audio": 24.64
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.2
+   },
+   {
+    "start": 27.8,
+    "end": 35.160000000000004,
+    "words": [
+     {
+      "text": "Three",
+      "start": 27.8,
+      "end": 27.88,
+      "audio": 25.6
+     },
+     {
+      "text": "is",
+      "start": 27.96,
+      "end": 28.32,
+      "audio": 25.76
+     },
+     {
+      "text": "expression.",
+      "start": 28.68,
+      "end": 29.12,
+      "audio": 26.48
+     },
+     {
+      "text": "There's",
+      "start": 29.16,
+      "end": 29.48,
+      "audio": 26.96
+     },
+     {
+      "text": "something",
+      "start": 29.64,
+      "end": 29.72,
+      "audio": 27.44
+     },
+     {
+      "text": "you've",
+      "start": 29.759999999999998,
+      "end": 29.88,
+      "audio": 27.56
+     },
+     {
+      "text": "been",
+      "start": 30.04,
+      "end": 30.24,
+      "audio": 27.84
+     },
+     {
+      "text": "holding",
+      "start": 30.439999999999998,
+      "end": 30.599999999999998,
+      "audio": 28.24
+     },
+     {
+      "text": "back.",
+      "start": 30.759999999999998,
+      "end": 31.32,
+      "audio": 28.56
+     },
+     {
+      "text": "Say",
+      "start": 31.48,
+      "end": 31.56,
+      "audio": 29.28
+     },
+     {
+      "text": "it,",
+      "start": 31.72,
+      "end": 32.2,
+      "audio": 29.52
+     },
+     {
+      "text": "write",
+      "start": 32.36,
+      "end": 32.44,
+      "audio": 30.16
+     },
+     {
+      "text": "it,",
+      "start": 32.6,
+      "end": 33,
+      "audio": 30.4
+     },
+     {
+      "text": "make",
+      "start": 33.24,
+      "end": 33.36,
+      "audio": 31.04
+     },
+     {
+      "text": "it.",
+      "start": 33.480000000000004,
+      "end": 34.04,
+      "audio": 31.28
+     },
+     {
+      "text": "Lightly.",
+      "start": 34.28,
+      "end": 35.160000000000004,
+      "audio": 32.08
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 32.96
+   },
+   {
+    "start": 35.32,
+    "end": 38.440000000000005,
+    "words": [
+     {
+      "text": "Which",
+      "start": 35.32,
+      "end": 35.400000000000006,
+      "audio": 33.12
+     },
+     {
+      "text": "door",
+      "start": 35.480000000000004,
+      "end": 35.56,
+      "audio": 33.28
+     },
+     {
+      "text": "did",
+      "start": 35.64,
+      "end": 35.720000000000006,
+      "audio": 33.44
+     },
+     {
+      "text": "you",
+      "start": 35.88,
+      "end": 36,
+      "audio": 33.68
+     },
+     {
+      "text": "pick?",
+      "start": 36.120000000000005,
+      "end": 36.68,
+      "audio": 33.92
+     },
+     {
+      "text": "One,",
+      "start": 36.84,
+      "end": 37.28,
+      "audio": 34.64
+     },
+     {
+      "text": "two",
+      "start": 37.400000000000006,
+      "end": 37.64,
+      "audio": 35.2
+     },
+     {
+      "text": "or",
+      "start": 37.800000000000004,
+      "end": 37.96,
+      "audio": 35.6
+     },
+     {
+      "text": "three?",
+      "start": 38.120000000000005,
+      "end": 38.440000000000005,
+      "audio": 35.92
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 36.24
+   }
+  ]
+ },
+ "p02-pick-a-moon": {
+  "duration": 43.660000000000004,
+  "segments": [
+   {
+    "start": 0,
+    "end": 2.4,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.4,
+      "audio": 0.36
+     },
+     {
+      "text": "video.",
+      "start": 0.48,
+      "end": 1.16,
+      "audio": 0.48
+     },
+     {
+      "text": "Pick",
+      "start": 1.44,
+      "end": 1.52,
+      "audio": 1.44
+     },
+     {
+      "text": "a",
+      "start": 1.6,
+      "end": 1.68,
+      "audio": 1.6
+     },
+     {
+      "text": "moon.",
+      "start": 1.76,
+      "end": 2.4,
+      "audio": 1.76
+     }
+    ],
+    "hold": 2.2,
+    "audioEnd": 2.4
+   },
+   {
+    "start": 4.92,
+    "end": 7.6000000000000005,
+    "words": [
+     {
+      "text": "The",
+      "start": 4.92,
+      "end": 5,
+      "audio": 2.72
+     },
+     {
+      "text": "first",
+      "start": 5.16,
+      "end": 5.48,
+      "audio": 2.96
+     },
+     {
+      "text": "moon.",
+      "start": 5.5600000000000005,
+      "end": 6.16,
+      "audio": 3.36
+     },
+     {
+      "text": "The",
+      "start": 6.44,
+      "end": 6.5200000000000005,
+      "audio": 4.24
+     },
+     {
+      "text": "new",
+      "start": 6.6000000000000005,
+      "end": 6.76,
+      "audio": 4.4
+     },
+     {
+      "text": "moon.",
+      "start": 6.84,
+      "end": 7.6000000000000005,
+      "audio": 4.64
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 5.4
+   },
+   {
+    "start": 8.04,
+    "end": 17.84,
+    "words": [
+     {
+      "text": "The",
+      "start": 8.04,
+      "end": 8.08,
+      "audio": 5.84
+     },
+     {
+      "text": "new",
+      "start": 8.120000000000001,
+      "end": 8.280000000000001,
+      "audio": 5.92
+     },
+     {
+      "text": "moon",
+      "start": 8.36,
+      "end": 8.600000000000001,
+      "audio": 6.16
+     },
+     {
+      "text": "is",
+      "start": 8.68,
+      "end": 8.76,
+      "audio": 6.48
+     },
+     {
+      "text": "the",
+      "start": 8.84,
+      "end": 9,
+      "audio": 6.64
+     },
+     {
+      "text": "dark",
+      "start": 9.120000000000001,
+      "end": 9.24,
+      "audio": 6.92
+     },
+     {
+      "text": "start",
+      "start": 9.4,
+      "end": 9.719999999999999,
+      "audio": 7.2
+     },
+     {
+      "text": "of",
+      "start": 9.76,
+      "end": 9.8,
+      "audio": 7.56
+     },
+     {
+      "text": "the",
+      "start": 9.879999999999999,
+      "end": 9.92,
+      "audio": 7.68
+     },
+     {
+      "text": "cycle,",
+      "start": 9.96,
+      "end": 10.760000000000002,
+      "audio": 7.76
+     },
+     {
+      "text": "traditionally",
+      "start": 10.879999999999999,
+      "end": 11.399999999999999,
+      "audio": 8.68
+     },
+     {
+      "text": "a",
+      "start": 11.48,
+      "end": 11.559999999999999,
+      "audio": 9.28
+     },
+     {
+      "text": "time",
+      "start": 11.68,
+      "end": 11.8,
+      "audio": 9.48
+     },
+     {
+      "text": "to",
+      "start": 11.879999999999999,
+      "end": 11.96,
+      "audio": 9.68
+     },
+     {
+      "text": "set",
+      "start": 12.04,
+      "end": 12.120000000000001,
+      "audio": 9.84
+     },
+     {
+      "text": "intentions.",
+      "start": 12.2,
+      "end": 13.2,
+      "audio": 10
+     },
+     {
+      "text": "Whatever",
+      "start": 13.48,
+      "end": 13.8,
+      "audio": 11.28
+     },
+     {
+      "text": "you've",
+      "start": 13.879999999999999,
+      "end": 13.96,
+      "audio": 11.68
+     },
+     {
+      "text": "been",
+      "start": 14.04,
+      "end": 14.2,
+      "audio": 11.84
+     },
+     {
+      "text": "circling,",
+      "start": 14.32,
+      "end": 15,
+      "audio": 12.12
+     },
+     {
+      "text": "write",
+      "start": 15.080000000000002,
+      "end": 15.32,
+      "audio": 12.88
+     },
+     {
+      "text": "it",
+      "start": 15.36,
+      "end": 15.399999999999999,
+      "audio": 13.16
+     },
+     {
+      "text": "down",
+      "start": 15.48,
+      "end": 15.64,
+      "audio": 13.28
+     },
+     {
+      "text": "tonight,",
+      "start": 15.719999999999999,
+      "end": 16.36,
+      "audio": 13.52
+     },
+     {
+      "text": "in",
+      "start": 16.48,
+      "end": 16.6,
+      "audio": 14.28
+     },
+     {
+      "text": "one",
+      "start": 16.68,
+      "end": 16.76,
+      "audio": 14.48
+     },
+     {
+      "text": "sentence.",
+      "start": 16.92,
+      "end": 17.84,
+      "audio": 14.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.64
+   },
+   {
+    "start": 18.2,
+    "end": 20.52,
+    "words": [
+     {
+      "text": "The",
+      "start": 18.2,
+      "end": 18.279999999999998,
+      "audio": 16
+     },
+     {
+      "text": "second",
+      "start": 18.439999999999998,
+      "end": 18.759999999999998,
+      "audio": 16.24
+     },
+     {
+      "text": "moon.",
+      "start": 18.84,
+      "end": 19.4,
+      "audio": 16.64
+     },
+     {
+      "text": "The",
+      "start": 19.64,
+      "end": 19.72,
+      "audio": 17.44
+     },
+     {
+      "text": "half",
+      "start": 19.8,
+      "end": 20.12,
+      "audio": 17.6
+     },
+     {
+      "text": "moon.",
+      "start": 20.2,
+      "end": 20.52,
+      "audio": 18
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 18.32
+   },
+   {
+    "start": 21.16,
+    "end": 29.8,
+    "words": [
+     {
+      "text": "The",
+      "start": 21.16,
+      "end": 21.24,
+      "audio": 18.96
+     },
+     {
+      "text": "first",
+      "start": 21.32,
+      "end": 21.56,
+      "audio": 19.12
+     },
+     {
+      "text": "quarter",
+      "start": 21.64,
+      "end": 22.04,
+      "audio": 19.44
+     },
+     {
+      "text": "is",
+      "start": 22.12,
+      "end": 22.279999999999998,
+      "audio": 19.92
+     },
+     {
+      "text": "half",
+      "start": 22.36,
+      "end": 22.599999999999998,
+      "audio": 20.16
+     },
+     {
+      "text": "light,",
+      "start": 22.68,
+      "end": 23.16,
+      "audio": 20.48
+     },
+     {
+      "text": "half",
+      "start": 23.279999999999998,
+      "end": 23.4,
+      "audio": 21.08
+     },
+     {
+      "text": "dark.",
+      "start": 23.48,
+      "end": 24.279999999999998,
+      "audio": 21.28
+     },
+     {
+      "text": "It's",
+      "start": 24.32,
+      "end": 24.52,
+      "audio": 22.12
+     },
+     {
+      "text": "read",
+      "start": 24.68,
+      "end": 24.84,
+      "audio": 22.48
+     },
+     {
+      "text": "as",
+      "start": 24.88,
+      "end": 24.919999999999998,
+      "audio": 22.68
+     },
+     {
+      "text": "a",
+      "start": 25,
+      "end": 25.08,
+      "audio": 22.8
+     },
+     {
+      "text": "moment",
+      "start": 25.16,
+      "end": 25.4,
+      "audio": 22.96
+     },
+     {
+      "text": "of",
+      "start": 25.48,
+      "end": 25.56,
+      "audio": 23.28
+     },
+     {
+      "text": "decision.",
+      "start": 25.84,
+      "end": 26.52,
+      "audio": 23.64
+     },
+     {
+      "text": "You",
+      "start": 26.599999999999998,
+      "end": 26.759999999999998,
+      "audio": 24.4
+     },
+     {
+      "text": "already",
+      "start": 26.84,
+      "end": 27.24,
+      "audio": 24.64
+     },
+     {
+      "text": "know",
+      "start": 27.32,
+      "end": 27.4,
+      "audio": 25.12
+     },
+     {
+      "text": "which",
+      "start": 27.48,
+      "end": 27.64,
+      "audio": 25.28
+     },
+     {
+      "text": "way",
+      "start": 27.72,
+      "end": 27.8,
+      "audio": 25.52
+     },
+     {
+      "text": "you're",
+      "start": 27.84,
+      "end": 27.96,
+      "audio": 25.64
+     },
+     {
+      "text": "leaning.",
+      "start": 28.04,
+      "end": 28.759999999999998,
+      "audio": 25.84
+     },
+     {
+      "text": "Trust",
+      "start": 28.96,
+      "end": 29.16,
+      "audio": 26.76
+     },
+     {
+      "text": "it.",
+      "start": 29.279999999999998,
+      "end": 29.8,
+      "audio": 27.08
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 27.6
+   },
+   {
+    "start": 30.2,
+    "end": 32.92,
+    "words": [
+     {
+      "text": "The",
+      "start": 30.2,
+      "end": 30.36,
+      "audio": 28
+     },
+     {
+      "text": "third",
+      "start": 30.599999999999998,
+      "end": 30.68,
+      "audio": 28.4
+     },
+     {
+      "text": "moon.",
+      "start": 31,
+      "end": 31.439999999999998,
+      "audio": 28.8
+     },
+     {
+      "text": "The",
+      "start": 31.48,
+      "end": 31.64,
+      "audio": 29.28
+     },
+     {
+      "text": "full",
+      "start": 31.88,
+      "end": 31.96,
+      "audio": 29.68
+     },
+     {
+      "text": "moon.",
+      "start": 32.28,
+      "end": 32.92,
+      "audio": 30.08
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 30.720000000000002
+   },
+   {
+    "start": 33,
+    "end": 41.400000000000006,
+    "words": [
+     {
+      "text": "The",
+      "start": 33,
+      "end": 33.08,
+      "audio": 30.8
+     },
+     {
+      "text": "full",
+      "start": 33.24,
+      "end": 33.32,
+      "audio": 31.04
+     },
+     {
+      "text": "moon",
+      "start": 33.56,
+      "end": 33.64,
+      "audio": 31.36
+     },
+     {
+      "text": "is",
+      "start": 33.72,
+      "end": 33.800000000000004,
+      "audio": 31.52
+     },
+     {
+      "text": "the",
+      "start": 33.88,
+      "end": 33.96,
+      "audio": 31.68
+     },
+     {
+      "text": "peak,",
+      "start": 34.28,
+      "end": 34.64,
+      "audio": 32.08
+     },
+     {
+      "text": "and",
+      "start": 34.68,
+      "end": 34.760000000000005,
+      "audio": 32.48
+     },
+     {
+      "text": "what",
+      "start": 34.84,
+      "end": 34.92,
+      "audio": 32.64
+     },
+     {
+      "text": "comes",
+      "start": 35.080000000000005,
+      "end": 35.160000000000004,
+      "audio": 32.88
+     },
+     {
+      "text": "after",
+      "start": 35.400000000000006,
+      "end": 35.480000000000004,
+      "audio": 33.2
+     },
+     {
+      "text": "a",
+      "start": 35.56,
+      "end": 35.720000000000006,
+      "audio": 33.36
+     },
+     {
+      "text": "peak",
+      "start": 35.88,
+      "end": 36.120000000000005,
+      "audio": 33.68
+     },
+     {
+      "text": "is",
+      "start": 36.28,
+      "end": 36.6,
+      "audio": 34.08
+     },
+     {
+      "text": "release.",
+      "start": 36.92,
+      "end": 37.400000000000006,
+      "audio": 34.72
+     },
+     {
+      "text": "Something",
+      "start": 37.800000000000004,
+      "end": 37.88,
+      "audio": 35.6
+     },
+     {
+      "text": "has",
+      "start": 37.96,
+      "end": 38.040000000000006,
+      "audio": 35.76
+     },
+     {
+      "text": "run",
+      "start": 38.2,
+      "end": 38.28,
+      "audio": 36
+     },
+     {
+      "text": "its",
+      "start": 38.36,
+      "end": 38.440000000000005,
+      "audio": 36.16
+     },
+     {
+      "text": "course.",
+      "start": 38.92,
+      "end": 39.28,
+      "audio": 36.72
+     },
+     {
+      "text": "You're",
+      "start": 39.32,
+      "end": 39.480000000000004,
+      "audio": 37.12
+     },
+     {
+      "text": "allowed",
+      "start": 39.88,
+      "end": 39.96,
+      "audio": 37.68
+     },
+     {
+      "text": "to",
+      "start": 40.040000000000006,
+      "end": 40.080000000000005,
+      "audio": 37.84
+     },
+     {
+      "text": "put",
+      "start": 40.120000000000005,
+      "end": 40.2,
+      "audio": 37.92
+     },
+     {
+      "text": "it",
+      "start": 40.28,
+      "end": 40.36,
+      "audio": 38.08
+     },
+     {
+      "text": "down.",
+      "start": 40.68,
+      "end": 41.400000000000006,
+      "audio": 38.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 39.2
+   },
+   {
+    "start": 41.56,
+    "end": 42.760000000000005,
+    "words": [
+     {
+      "text": "Which",
+      "start": 41.56,
+      "end": 41.64,
+      "audio": 39.36
+     },
+     {
+      "text": "moon",
+      "start": 41.800000000000004,
+      "end": 41.88,
+      "audio": 39.6
+     },
+     {
+      "text": "did",
+      "start": 41.96,
+      "end": 42.040000000000006,
+      "audio": 39.76
+     },
+     {
+      "text": "you",
+      "start": 42.120000000000005,
+      "end": 42.2,
+      "audio": 39.92
+     },
+     {
+      "text": "pick?",
+      "start": 42.440000000000005,
+      "end": 42.760000000000005,
+      "audio": 40.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 40.56
+   }
+  ]
+ },
+ "p03-pick-a-crystal": {
+  "duration": 41.02,
+  "segments": [
+   {
+    "start": 0,
+    "end": 2.56,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "the",
+      "start": 0.4,
+      "end": 0.44,
+      "audio": 0.4
+     },
+     {
+      "text": "video.",
+      "start": 0.48,
+      "end": 1.16,
+      "audio": 0.48
+     },
+     {
+      "text": "Pick",
+      "start": 1.44,
+      "end": 1.6,
+      "audio": 1.44
+     },
+     {
+      "text": "a",
+      "start": 1.68,
+      "end": 1.72,
+      "audio": 1.68
+     },
+     {
+      "text": "crystal.",
+      "start": 1.76,
+      "end": 2.56,
+      "audio": 1.76
+     }
+    ],
+    "hold": 2.2,
+    "audioEnd": 2.56
+   },
+   {
+    "start": 5.08,
+    "end": 7.48,
+    "words": [
+     {
+      "text": "The",
+      "start": 5.08,
+      "end": 5.16,
+      "audio": 2.88
+     },
+     {
+      "text": "first",
+      "start": 5.24,
+      "end": 5.48,
+      "audio": 3.04
+     },
+     {
+      "text": "crystal.",
+      "start": 5.5600000000000005,
+      "end": 6.24,
+      "audio": 3.36
+     },
+     {
+      "text": "Amethyst.",
+      "start": 6.5200000000000005,
+      "end": 7.48,
+      "audio": 4.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 5.28
+   },
+   {
+    "start": 7.72,
+    "end": 17.88,
+    "words": [
+     {
+      "text": "In",
+      "start": 7.72,
+      "end": 7.8,
+      "audio": 5.52
+     },
+     {
+      "text": "crystal",
+      "start": 7.88,
+      "end": 8.2,
+      "audio": 5.68
+     },
+     {
+      "text": "lore,",
+      "start": 8.36,
+      "end": 8.84,
+      "audio": 6.16
+     },
+     {
+      "text": "amethyst",
+      "start": 8.92,
+      "end": 9.48,
+      "audio": 6.72
+     },
+     {
+      "text": "is",
+      "start": 9.56,
+      "end": 9.64,
+      "audio": 7.36
+     },
+     {
+      "text": "the",
+      "start": 9.719999999999999,
+      "end": 9.8,
+      "audio": 7.52
+     },
+     {
+      "text": "stone",
+      "start": 9.879999999999999,
+      "end": 10.2,
+      "audio": 7.68
+     },
+     {
+      "text": "of",
+      "start": 10.280000000000001,
+      "end": 10.36,
+      "audio": 8.08
+     },
+     {
+      "text": "calm.",
+      "start": 10.440000000000001,
+      "end": 11.2,
+      "audio": 8.24
+     },
+     {
+      "text": "You've",
+      "start": 11.48,
+      "end": 11.64,
+      "audio": 9.28
+     },
+     {
+      "text": "been",
+      "start": 11.719999999999999,
+      "end": 11.8,
+      "audio": 9.52
+     },
+     {
+      "text": "running",
+      "start": 11.879999999999999,
+      "end": 12.04,
+      "audio": 9.68
+     },
+     {
+      "text": "on",
+      "start": 12.120000000000001,
+      "end": 12.280000000000001,
+      "audio": 9.92
+     },
+     {
+      "text": "too",
+      "start": 12.36,
+      "end": 12.52,
+      "audio": 10.16
+     },
+     {
+      "text": "little",
+      "start": 12.600000000000001,
+      "end": 12.760000000000002,
+      "audio": 10.4
+     },
+     {
+      "text": "sleep",
+      "start": 12.920000000000002,
+      "end": 13.32,
+      "audio": 10.72
+     },
+     {
+      "text": "and",
+      "start": 13.440000000000001,
+      "end": 13.559999999999999,
+      "audio": 11.24
+     },
+     {
+      "text": "too",
+      "start": 13.64,
+      "end": 13.719999999999999,
+      "audio": 11.44
+     },
+     {
+      "text": "much",
+      "start": 13.8,
+      "end": 13.96,
+      "audio": 11.6
+     },
+     {
+      "text": "noise.",
+      "start": 14.120000000000001,
+      "end": 15,
+      "audio": 11.92
+     },
+     {
+      "text": "Tonight,",
+      "start": 15.239999999999998,
+      "end": 15.8,
+      "audio": 13.04
+     },
+     {
+      "text": "choose",
+      "start": 15.879999999999999,
+      "end": 16.12,
+      "audio": 13.68
+     },
+     {
+      "text": "rest",
+      "start": 16.28,
+      "end": 16.68,
+      "audio": 14.08
+     },
+     {
+      "text": "on",
+      "start": 16.76,
+      "end": 16.84,
+      "audio": 14.56
+     },
+     {
+      "text": "purpose.",
+      "start": 17,
+      "end": 17.88,
+      "audio": 14.8
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.68
+   },
+   {
+    "start": 18.2,
+    "end": 20.88,
+    "words": [
+     {
+      "text": "The",
+      "start": 18.2,
+      "end": 18.36,
+      "audio": 16
+     },
+     {
+      "text": "second",
+      "start": 18.439999999999998,
+      "end": 18.68,
+      "audio": 16.24
+     },
+     {
+      "text": "crystal.",
+      "start": 18.759999999999998,
+      "end": 19.52,
+      "audio": 16.56
+     },
+     {
+      "text": "Rose",
+      "start": 19.8,
+      "end": 20.04,
+      "audio": 17.6
+     },
+     {
+      "text": "quartz.",
+      "start": 20.12,
+      "end": 20.88,
+      "audio": 17.92
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 18.68
+   },
+   {
+    "start": 21.16,
+    "end": 28.68,
+    "words": [
+     {
+      "text": "Rose",
+      "start": 21.16,
+      "end": 21.4,
+      "audio": 18.96
+     },
+     {
+      "text": "quartz",
+      "start": 21.48,
+      "end": 21.8,
+      "audio": 19.28
+     },
+     {
+      "text": "is",
+      "start": 21.88,
+      "end": 21.96,
+      "audio": 19.68
+     },
+     {
+      "text": "the",
+      "start": 22.04,
+      "end": 22.12,
+      "audio": 19.84
+     },
+     {
+      "text": "stone",
+      "start": 22.2,
+      "end": 22.439999999999998,
+      "audio": 20
+     },
+     {
+      "text": "of",
+      "start": 22.52,
+      "end": 22.68,
+      "audio": 20.32
+     },
+     {
+      "text": "gentle",
+      "start": 22.759999999999998,
+      "end": 23.16,
+      "audio": 20.56
+     },
+     {
+      "text": "love,",
+      "start": 23.24,
+      "end": 23.88,
+      "audio": 21.04
+     },
+     {
+      "text": "and",
+      "start": 23.919999999999998,
+      "end": 23.96,
+      "audio": 21.72
+     },
+     {
+      "text": "it",
+      "start": 24.04,
+      "end": 24.12,
+      "audio": 21.84
+     },
+     {
+      "text": "starts",
+      "start": 24.2,
+      "end": 24.599999999999998,
+      "audio": 22
+     },
+     {
+      "text": "at",
+      "start": 24.68,
+      "end": 24.759999999999998,
+      "audio": 22.48
+     },
+     {
+      "text": "home.",
+      "start": 24.84,
+      "end": 25.72,
+      "audio": 22.64
+     },
+     {
+      "text": "Talk",
+      "start": 25.84,
+      "end": 25.96,
+      "audio": 23.64
+     },
+     {
+      "text": "to",
+      "start": 26,
+      "end": 26.04,
+      "audio": 23.8
+     },
+     {
+      "text": "yourself",
+      "start": 26.12,
+      "end": 26.439999999999998,
+      "audio": 23.92
+     },
+     {
+      "text": "today",
+      "start": 26.64,
+      "end": 26.84,
+      "audio": 24.44
+     },
+     {
+      "text": "the",
+      "start": 26.919999999999998,
+      "end": 27,
+      "audio": 24.72
+     },
+     {
+      "text": "way",
+      "start": 27.08,
+      "end": 27.16,
+      "audio": 24.88
+     },
+     {
+      "text": "you'd",
+      "start": 27.2,
+      "end": 27.4,
+      "audio": 25
+     },
+     {
+      "text": "talk",
+      "start": 27.52,
+      "end": 27.64,
+      "audio": 25.32
+     },
+     {
+      "text": "to",
+      "start": 27.68,
+      "end": 27.72,
+      "audio": 25.48
+     },
+     {
+      "text": "a",
+      "start": 27.8,
+      "end": 27.88,
+      "audio": 25.6
+     },
+     {
+      "text": "friend.",
+      "start": 28.12,
+      "end": 28.68,
+      "audio": 25.92
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 26.48
+   },
+   {
+    "start": 29,
+    "end": 31.48,
+    "words": [
+     {
+      "text": "The",
+      "start": 29,
+      "end": 29.16,
+      "audio": 26.8
+     },
+     {
+      "text": "third",
+      "start": 29.24,
+      "end": 29.4,
+      "audio": 27.04
+     },
+     {
+      "text": "crystal.",
+      "start": 29.48,
+      "end": 30.2,
+      "audio": 27.28
+     },
+     {
+      "text": "Citrine.",
+      "start": 30.439999999999998,
+      "end": 31.48,
+      "audio": 28.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 29.28
+   },
+   {
+    "start": 31.56,
+    "end": 38.6,
+    "words": [
+     {
+      "text": "Citrine",
+      "start": 31.56,
+      "end": 32.04,
+      "audio": 29.36
+     },
+     {
+      "text": "is",
+      "start": 32.120000000000005,
+      "end": 32.2,
+      "audio": 29.92
+     },
+     {
+      "text": "the",
+      "start": 32.28,
+      "end": 32.36,
+      "audio": 30.08
+     },
+     {
+      "text": "stone",
+      "start": 32.44,
+      "end": 32.68,
+      "audio": 30.24
+     },
+     {
+      "text": "of",
+      "start": 32.800000000000004,
+      "end": 32.92,
+      "audio": 30.6
+     },
+     {
+      "text": "warmth",
+      "start": 33,
+      "end": 33.4,
+      "audio": 30.8
+     },
+     {
+      "text": "and",
+      "start": 33.480000000000004,
+      "end": 33.56,
+      "audio": 31.28
+     },
+     {
+      "text": "confidence.",
+      "start": 33.64,
+      "end": 34.760000000000005,
+      "audio": 31.44
+     },
+     {
+      "text": "You've",
+      "start": 34.800000000000004,
+      "end": 34.92,
+      "audio": 32.6
+     },
+     {
+      "text": "been",
+      "start": 35,
+      "end": 35.080000000000005,
+      "audio": 32.8
+     },
+     {
+      "text": "playing",
+      "start": 35.24,
+      "end": 35.400000000000006,
+      "audio": 33.04
+     },
+     {
+      "text": "small.",
+      "start": 35.56,
+      "end": 36.440000000000005,
+      "audio": 33.36
+     },
+     {
+      "text": "Share",
+      "start": 36.52,
+      "end": 36.760000000000005,
+      "audio": 34.32
+     },
+     {
+      "text": "the",
+      "start": 36.84,
+      "end": 36.92,
+      "audio": 34.64
+     },
+     {
+      "text": "thing",
+      "start": 37,
+      "end": 37.080000000000005,
+      "audio": 34.8
+     },
+     {
+      "text": "you're",
+      "start": 37.120000000000005,
+      "end": 37.24,
+      "audio": 34.92
+     },
+     {
+      "text": "proud",
+      "start": 37.32,
+      "end": 37.64,
+      "audio": 35.12
+     },
+     {
+      "text": "of.",
+      "start": 37.720000000000006,
+      "end": 38.6,
+      "audio": 35.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 36.4
+   },
+   {
+    "start": 38.720000000000006,
+    "end": 40.120000000000005,
+    "words": [
+     {
+      "text": "Which",
+      "start": 38.720000000000006,
+      "end": 38.84,
+      "audio": 36.52
+     },
+     {
+      "text": "crystal",
+      "start": 38.88,
+      "end": 39.160000000000004,
+      "audio": 36.68
+     },
+     {
+      "text": "did",
+      "start": 39.24,
+      "end": 39.400000000000006,
+      "audio": 37.04
+     },
+     {
+      "text": "you",
+      "start": 39.480000000000004,
+      "end": 39.56,
+      "audio": 37.28
+     },
+     {
+      "text": "pick?",
+      "start": 39.720000000000006,
+      "end": 40.120000000000005,
+      "audio": 37.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 37.92
+   }
+  ]
+ },
+ "p04-pick-a-time": {
+  "duration": 38.22,
+  "segments": [
+   {
+    "start": 0,
+    "end": 2.36,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "the",
+      "start": 0.36,
+      "end": 0.4,
+      "audio": 0.36
+     },
+     {
+      "text": "video.",
+      "start": 0.48,
+      "end": 1.12,
+      "audio": 0.48
+     },
+     {
+      "text": "Pick",
+      "start": 1.36,
+      "end": 1.44,
+      "audio": 1.36
+     },
+     {
+      "text": "a",
+      "start": 1.52,
+      "end": 1.56,
+      "audio": 1.52
+     },
+     {
+      "text": "time.",
+      "start": 1.6,
+      "end": 2.36,
+      "audio": 1.6
+     }
+    ],
+    "hold": 2.2,
+    "audioEnd": 2.36
+   },
+   {
+    "start": 4.92,
+    "end": 6.28,
+    "words": [
+     {
+      "text": "Eleven",
+      "start": 4.92,
+      "end": 5.24,
+      "audio": 2.72
+     },
+     {
+      "text": "eleven.",
+      "start": 5.48,
+      "end": 6.28,
+      "audio": 3.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.08
+   },
+   {
+    "start": 6.6000000000000005,
+    "end": 16.32,
+    "words": [
+     {
+      "text": "Four",
+      "start": 6.6000000000000005,
+      "end": 6.84,
+      "audio": 4.4
+     },
+     {
+      "text": "ones",
+      "start": 6.92,
+      "end": 7.16,
+      "audio": 4.72
+     },
+     {
+      "text": "in",
+      "start": 7.2,
+      "end": 7.24,
+      "audio": 5
+     },
+     {
+      "text": "a",
+      "start": 7.28,
+      "end": 7.32,
+      "audio": 5.08
+     },
+     {
+      "text": "row,",
+      "start": 7.4,
+      "end": 7.96,
+      "audio": 5.2
+     },
+     {
+      "text": "read",
+      "start": 8.04,
+      "end": 8.280000000000001,
+      "audio": 5.84
+     },
+     {
+      "text": "as",
+      "start": 8.36,
+      "end": 8.440000000000001,
+      "audio": 6.16
+     },
+     {
+      "text": "a",
+      "start": 8.48,
+      "end": 8.52,
+      "audio": 6.28
+     },
+     {
+      "text": "moment",
+      "start": 8.68,
+      "end": 9,
+      "audio": 6.48
+     },
+     {
+      "text": "of",
+      "start": 9.04,
+      "end": 9.08,
+      "audio": 6.84
+     },
+     {
+      "text": "awakening.",
+      "start": 9.16,
+      "end": 10.120000000000001,
+      "audio": 6.96
+     },
+     {
+      "text": "Notice",
+      "start": 10.440000000000001,
+      "end": 10.760000000000002,
+      "audio": 8.24
+     },
+     {
+      "text": "where",
+      "start": 10.84,
+      "end": 10.920000000000002,
+      "audio": 8.64
+     },
+     {
+      "text": "your",
+      "start": 11,
+      "end": 11.080000000000002,
+      "audio": 8.8
+     },
+     {
+      "text": "attention",
+      "start": 11.32,
+      "end": 11.559999999999999,
+      "audio": 9.12
+     },
+     {
+      "text": "is",
+      "start": 11.64,
+      "end": 11.8,
+      "audio": 9.44
+     },
+     {
+      "text": "right",
+      "start": 11.879999999999999,
+      "end": 12.120000000000001,
+      "audio": 9.68
+     },
+     {
+      "text": "now.",
+      "start": 12.2,
+      "end": 12.719999999999999,
+      "audio": 10
+     },
+     {
+      "text": "If",
+      "start": 13,
+      "end": 13.080000000000002,
+      "audio": 10.8
+     },
+     {
+      "text": "you",
+      "start": 13.16,
+      "end": 13.239999999999998,
+      "audio": 10.96
+     },
+     {
+      "text": "could",
+      "start": 13.32,
+      "end": 13.399999999999999,
+      "audio": 11.12
+     },
+     {
+      "text": "wish",
+      "start": 13.48,
+      "end": 13.64,
+      "audio": 11.28
+     },
+     {
+      "text": "for",
+      "start": 13.719999999999999,
+      "end": 13.96,
+      "audio": 11.52
+     },
+     {
+      "text": "one",
+      "start": 14.04,
+      "end": 14.2,
+      "audio": 11.84
+     },
+     {
+      "text": "thing,",
+      "start": 14.36,
+      "end": 15,
+      "audio": 12.16
+     },
+     {
+      "text": "name",
+      "start": 15.080000000000002,
+      "end": 15.239999999999998,
+      "audio": 12.88
+     },
+     {
+      "text": "it",
+      "start": 15.32,
+      "end": 15.399999999999999,
+      "audio": 13.12
+     },
+     {
+      "text": "clearly.",
+      "start": 15.48,
+      "end": 16.32,
+      "audio": 13.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 14.120000000000001
+   },
+   {
+    "start": 16.68,
+    "end": 18.12,
+    "words": [
+     {
+      "text": "Twelve",
+      "start": 16.68,
+      "end": 17,
+      "audio": 14.48
+     },
+     {
+      "text": "twelve.",
+      "start": 17.16,
+      "end": 18.12,
+      "audio": 14.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.920000000000002
+   },
+   {
+    "start": 18.279999999999998,
+    "end": 25.56,
+    "words": [
+     {
+      "text": "One",
+      "start": 18.279999999999998,
+      "end": 18.439999999999998,
+      "audio": 16.08
+     },
+     {
+      "text": "and",
+      "start": 18.56,
+      "end": 18.68,
+      "audio": 16.36
+     },
+     {
+      "text": "two,",
+      "start": 18.84,
+      "end": 19.24,
+      "audio": 16.64
+     },
+     {
+      "text": "taking",
+      "start": 19.32,
+      "end": 19.64,
+      "audio": 17.12
+     },
+     {
+      "text": "turns.",
+      "start": 19.84,
+      "end": 20.439999999999998,
+      "audio": 17.64
+     },
+     {
+      "text": "You",
+      "start": 20.68,
+      "end": 20.919999999999998,
+      "audio": 18.48
+     },
+     {
+      "text": "and",
+      "start": 21.08,
+      "end": 21.16,
+      "audio": 18.88
+     },
+     {
+      "text": "other",
+      "start": 21.24,
+      "end": 21.4,
+      "audio": 19.04
+     },
+     {
+      "text": "people.",
+      "start": 21.48,
+      "end": 22.16,
+      "audio": 19.28
+     },
+     {
+      "text": "Are",
+      "start": 22.439999999999998,
+      "end": 22.52,
+      "audio": 20.24
+     },
+     {
+      "text": "you",
+      "start": 22.599999999999998,
+      "end": 22.759999999999998,
+      "audio": 20.4
+     },
+     {
+      "text": "giving",
+      "start": 22.867,
+      "end": 23.08,
+      "audio": 20.667
+     },
+     {
+      "text": "to",
+      "start": 23.12,
+      "end": 23.16,
+      "audio": 20.92
+     },
+     {
+      "text": "them",
+      "start": 23.24,
+      "end": 23.48,
+      "audio": 21.04
+     },
+     {
+      "text": "and",
+      "start": 23.56,
+      "end": 23.72,
+      "audio": 21.36
+     },
+     {
+      "text": "to",
+      "start": 23.759999999999998,
+      "end": 23.8,
+      "audio": 21.56
+     },
+     {
+      "text": "yourself",
+      "start": 23.88,
+      "end": 24.439999999999998,
+      "audio": 21.68
+     },
+     {
+      "text": "in",
+      "start": 24.56,
+      "end": 24.68,
+      "audio": 22.36
+     },
+     {
+      "text": "fair",
+      "start": 24.759999999999998,
+      "end": 24.84,
+      "audio": 22.56
+     },
+     {
+      "text": "measure?",
+      "start": 24.919999999999998,
+      "end": 25.56,
+      "audio": 22.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 23.36
+   },
+   {
+    "start": 25.88,
+    "end": 27.72,
+    "words": [
+     {
+      "text": "Twenty-two",
+      "start": 25.88,
+      "end": 26.52,
+      "audio": 23.68
+     },
+     {
+      "text": "twenty-two.",
+      "start": 26.599999999999998,
+      "end": 27.72,
+      "audio": 24.4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 25.52
+   },
+   {
+    "start": 27.8,
+    "end": 35.64,
+    "words": [
+     {
+      "text": "Only",
+      "start": 27.8,
+      "end": 28.12,
+      "audio": 25.6
+     },
+     {
+      "text": "twos,",
+      "start": 28.2,
+      "end": 28.919999999999998,
+      "audio": 26
+     },
+     {
+      "text": "the",
+      "start": 28.96,
+      "end": 29,
+      "audio": 26.76
+     },
+     {
+      "text": "digit",
+      "start": 29.16,
+      "end": 29.48,
+      "audio": 26.96
+     },
+     {
+      "text": "of",
+      "start": 29.56,
+      "end": 29.64,
+      "audio": 27.36
+     },
+     {
+      "text": "trust.",
+      "start": 29.72,
+      "end": 30.599999999999998,
+      "audio": 27.52
+     },
+     {
+      "text": "Read",
+      "start": 30.68,
+      "end": 30.919999999999998,
+      "audio": 28.48
+     },
+     {
+      "text": "as",
+      "start": 31,
+      "end": 31.08,
+      "audio": 28.8
+     },
+     {
+      "text": "reassurance.",
+      "start": 31.16,
+      "end": 32.52,
+      "audio": 28.96
+     },
+     {
+      "text": "What",
+      "start": 32.6,
+      "end": 32.68,
+      "audio": 30.4
+     },
+     {
+      "text": "you're",
+      "start": 32.72,
+      "end": 32.92,
+      "audio": 30.52
+     },
+     {
+      "text": "building",
+      "start": 33.160000000000004,
+      "end": 33.4,
+      "audio": 30.96
+     },
+     {
+      "text": "is",
+      "start": 33.480000000000004,
+      "end": 33.56,
+      "audio": 31.28
+     },
+     {
+      "text": "steady",
+      "start": 33.76,
+      "end": 33.96,
+      "audio": 31.56
+     },
+     {
+      "text": "enough",
+      "start": 34,
+      "end": 34.28,
+      "audio": 31.8
+     },
+     {
+      "text": "to",
+      "start": 34.36,
+      "end": 34.440000000000005,
+      "audio": 32.16
+     },
+     {
+      "text": "leave",
+      "start": 34.56,
+      "end": 34.68,
+      "audio": 32.36
+     },
+     {
+      "text": "overnight.",
+      "start": 34.760000000000005,
+      "end": 35.64,
+      "audio": 32.56
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 33.44
+   },
+   {
+    "start": 35.96,
+    "end": 37.32,
+    "words": [
+     {
+      "text": "Which",
+      "start": 35.96,
+      "end": 36.2,
+      "audio": 33.76
+     },
+     {
+      "text": "time",
+      "start": 36.32,
+      "end": 36.440000000000005,
+      "audio": 34.12
+     },
+     {
+      "text": "did",
+      "start": 36.52,
+      "end": 36.6,
+      "audio": 34.32
+     },
+     {
+      "text": "you",
+      "start": 36.64,
+      "end": 36.68,
+      "audio": 34.44
+     },
+     {
+      "text": "pick?",
+      "start": 36.760000000000005,
+      "end": 37.32,
+      "audio": 34.56
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 35.12
+   }
+  ]
+ },
+ "m01-birth-month-moon": {
+  "duration": 39.94,
+  "segments": [
+   {
+    "start": 0,
+    "end": 4.12,
+    "words": [
+     {
+      "text": "Find",
+      "start": 0.08,
+      "end": 0.32,
+      "audio": 0.08
+     },
+     {
+      "text": "your",
+      "start": 0.4,
+      "end": 0.56,
+      "audio": 0.4
+     },
+     {
+      "text": "birth",
+      "start": 0.64,
+      "end": 0.96,
+      "audio": 0.64
+     },
+     {
+      "text": "month.",
+      "start": 1.04,
+      "end": 1.68,
+      "audio": 1.04
+     },
+     {
+      "text": "This",
+      "start": 1.92,
+      "end": 2,
+      "audio": 1.92
+     },
+     {
+      "text": "is",
+      "start": 2.08,
+      "end": 2.16,
+      "audio": 2.08
+     },
+     {
+      "text": "the",
+      "start": 2.24,
+      "end": 2.32,
+      "audio": 2.24
+     },
+     {
+      "text": "full",
+      "start": 2.4,
+      "end": 2.56,
+      "audio": 2.4
+     },
+     {
+      "text": "moon",
+      "start": 2.64,
+      "end": 2.88,
+      "audio": 2.64
+     },
+     {
+      "text": "named",
+      "start": 2.96,
+      "end": 3.2,
+      "audio": 2.96
+     },
+     {
+      "text": "after",
+      "start": 3.28,
+      "end": 3.52,
+      "audio": 3.28
+     },
+     {
+      "text": "it.",
+      "start": 3.6,
+      "end": 4.12,
+      "audio": 3.6
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.12
+   },
+   {
+    "start": 4.48,
+    "end": 11.12,
+    "words": [
+     {
+      "text": "January,",
+      "start": 4.48,
+      "end": 5.2,
+      "audio": 4.48
+     },
+     {
+      "text": "the",
+      "start": 5.36,
+      "end": 5.44,
+      "audio": 5.36
+     },
+     {
+      "text": "Wolf",
+      "start": 5.52,
+      "end": 5.76,
+      "audio": 5.52
+     },
+     {
+      "text": "Moon.",
+      "start": 5.84,
+      "end": 6.52,
+      "audio": 5.84
+     },
+     {
+      "text": "February,",
+      "start": 6.8,
+      "end": 7.52,
+      "audio": 6.8
+     },
+     {
+      "text": "the",
+      "start": 7.68,
+      "end": 7.76,
+      "audio": 7.68
+     },
+     {
+      "text": "Snow",
+      "start": 7.84,
+      "end": 8.08,
+      "audio": 7.84
+     },
+     {
+      "text": "Moon.",
+      "start": 8.16,
+      "end": 8.8,
+      "audio": 8.16
+     },
+     {
+      "text": "March,",
+      "start": 9.12,
+      "end": 9.76,
+      "audio": 9.12
+     },
+     {
+      "text": "the",
+      "start": 9.92,
+      "end": 10,
+      "audio": 9.92
+     },
+     {
+      "text": "Worm",
+      "start": 10.08,
+      "end": 10.4,
+      "audio": 10.08
+     },
+     {
+      "text": "Moon.",
+      "start": 10.48,
+      "end": 11.12,
+      "audio": 10.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 11.12
+   },
+   {
+    "start": 11.44,
+    "end": 17.96,
+    "words": [
+     {
+      "text": "April,",
+      "start": 11.44,
+      "end": 12.08,
+      "audio": 11.44
+     },
+     {
+      "text": "the",
+      "start": 12.24,
+      "end": 12.32,
+      "audio": 12.24
+     },
+     {
+      "text": "Pink",
+      "start": 12.4,
+      "end": 12.64,
+      "audio": 12.4
+     },
+     {
+      "text": "Moon.",
+      "start": 12.72,
+      "end": 13.36,
+      "audio": 12.72
+     },
+     {
+      "text": "May,",
+      "start": 13.68,
+      "end": 14.24,
+      "audio": 13.68
+     },
+     {
+      "text": "the",
+      "start": 14.4,
+      "end": 14.48,
+      "audio": 14.4
+     },
+     {
+      "text": "Flower",
+      "start": 14.56,
+      "end": 14.88,
+      "audio": 14.56
+     },
+     {
+      "text": "Moon.",
+      "start": 14.96,
+      "end": 15.6,
+      "audio": 14.96
+     },
+     {
+      "text": "June,",
+      "start": 15.92,
+      "end": 16.48,
+      "audio": 15.92
+     },
+     {
+      "text": "the",
+      "start": 16.64,
+      "end": 16.72,
+      "audio": 16.64
+     },
+     {
+      "text": "Strawberry",
+      "start": 16.8,
+      "end": 17.28,
+      "audio": 16.8
+     },
+     {
+      "text": "Moon.",
+      "start": 17.36,
+      "end": 17.96,
+      "audio": 17.36
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 17.96
+   },
+   {
+    "start": 18.24,
+    "end": 24.84,
+    "words": [
+     {
+      "text": "July,",
+      "start": 18.24,
+      "end": 18.8,
+      "audio": 18.24
+     },
+     {
+      "text": "the",
+      "start": 19.04,
+      "end": 19.12,
+      "audio": 19.04
+     },
+     {
+      "text": "Buck",
+      "start": 19.2,
+      "end": 19.44,
+      "audio": 19.2
+     },
+     {
+      "text": "Moon.",
+      "start": 19.52,
+      "end": 20.12,
+      "audio": 19.52
+     },
+     {
+      "text": "August,",
+      "start": 20.4,
+      "end": 21.08,
+      "audio": 20.4
+     },
+     {
+      "text": "the",
+      "start": 21.2,
+      "end": 21.28,
+      "audio": 21.2
+     },
+     {
+      "text": "Sturgeon",
+      "start": 21.36,
+      "end": 21.84,
+      "audio": 21.36
+     },
+     {
+      "text": "Moon.",
+      "start": 21.92,
+      "end": 22.52,
+      "audio": 21.92
+     },
+     {
+      "text": "September,",
+      "start": 22.8,
+      "end": 23.56,
+      "audio": 22.8
+     },
+     {
+      "text": "the",
+      "start": 23.68,
+      "end": 23.76,
+      "audio": 23.68
+     },
+     {
+      "text": "Corn",
+      "start": 23.84,
+      "end": 24.16,
+      "audio": 23.84
+     },
+     {
+      "text": "Moon.",
+      "start": 24.24,
+      "end": 24.84,
+      "audio": 24.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 24.84
+   },
+   {
+    "start": 25.12,
+    "end": 31.8,
+    "words": [
+     {
+      "text": "October,",
+      "start": 25.12,
+      "end": 25.88,
+      "audio": 25.12
+     },
+     {
+      "text": "the",
+      "start": 26,
+      "end": 26.08,
+      "audio": 26
+     },
+     {
+      "text": "Hunter's",
+      "start": 26.16,
+      "end": 26.48,
+      "audio": 26.16
+     },
+     {
+      "text": "Moon.",
+      "start": 26.56,
+      "end": 27.16,
+      "audio": 26.56
+     },
+     {
+      "text": "November,",
+      "start": 27.44,
+      "end": 28.16,
+      "audio": 27.44
+     },
+     {
+      "text": "the",
+      "start": 28.32,
+      "end": 28.4,
+      "audio": 28.32
+     },
+     {
+      "text": "Beaver",
+      "start": 28.48,
+      "end": 28.72,
+      "audio": 28.48
+     },
+     {
+      "text": "Moon.",
+      "start": 28.8,
+      "end": 29.2,
+      "audio": 28.8
+     },
+     {
+      "text": "December,",
+      "start": 29.68,
+      "end": 30.4,
+      "audio": 29.68
+     },
+     {
+      "text": "the",
+      "start": 30.56,
+      "end": 30.64,
+      "audio": 30.56
+     },
+     {
+      "text": "Cold",
+      "start": 30.72,
+      "end": 31.04,
+      "audio": 30.72
+     },
+     {
+      "text": "Moon.",
+      "start": 31.12,
+      "end": 31.8,
+      "audio": 31.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 31.8
+   },
+   {
+    "start": 32.16,
+    "end": 35.92,
+    "words": [
+     {
+      "text": "Most",
+      "start": 32.16,
+      "end": 32.32,
+      "audio": 32.16
+     },
+     {
+      "text": "of",
+      "start": 32.4,
+      "end": 32.48,
+      "audio": 32.4
+     },
+     {
+      "text": "these",
+      "start": 32.56,
+      "end": 32.64,
+      "audio": 32.56
+     },
+     {
+      "text": "names",
+      "start": 32.72,
+      "end": 32.96,
+      "audio": 32.72
+     },
+     {
+      "text": "reached",
+      "start": 33.04,
+      "end": 33.28,
+      "audio": 33.04
+     },
+     {
+      "text": "us",
+      "start": 33.36,
+      "end": 33.44,
+      "audio": 33.36
+     },
+     {
+      "text": "through",
+      "start": 33.52,
+      "end": 33.76,
+      "audio": 33.52
+     },
+     {
+      "text": "old",
+      "start": 33.88,
+      "end": 34,
+      "audio": 33.88
+     },
+     {
+      "text": "American",
+      "start": 34.24,
+      "end": 34.48,
+      "audio": 34.24
+     },
+     {
+      "text": "farmers'",
+      "start": 34.64,
+      "end": 35,
+      "audio": 34.64
+     },
+     {
+      "text": "almanacs.",
+      "start": 35.04,
+      "end": 35.92,
+      "audio": 35.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 35.92
+   },
+   {
+    "start": 36.24,
+    "end": 39.04,
+    "words": [
+     {
+      "text": "Which",
+      "start": 36.24,
+      "end": 36.4,
+      "audio": 36.24
+     },
+     {
+      "text": "moon",
+      "start": 36.48,
+      "end": 36.64,
+      "audio": 36.48
+     },
+     {
+      "text": "is",
+      "start": 36.72,
+      "end": 36.8,
+      "audio": 36.72
+     },
+     {
+      "text": "yours?",
+      "start": 36.84,
+      "end": 37.44,
+      "audio": 36.84
+     },
+     {
+      "text": "And",
+      "start": 37.6,
+      "end": 37.84,
+      "audio": 37.6
+     },
+     {
+      "text": "does",
+      "start": 38.08,
+      "end": 38.24,
+      "audio": 38.08
+     },
+     {
+      "text": "it",
+      "start": 38.28,
+      "end": 38.32,
+      "audio": 38.28
+     },
+     {
+      "text": "suit",
+      "start": 38.4,
+      "end": 38.56,
+      "audio": 38.4
+     },
+     {
+      "text": "you?",
+      "start": 38.64,
+      "end": 39.04,
+      "audio": 38.64
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 39.04
+   }
+  ]
+ },
+ "m02-birth-month-birthstone": {
+  "duration": 36.339999999999996,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.92,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.4,
+      "audio": 0.08
+     },
+     {
+      "text": "on",
+      "start": 0.48,
+      "end": 0.56,
+      "audio": 0.48
+     },
+     {
+      "text": "your",
+      "start": 0.64,
+      "end": 0.72,
+      "audio": 0.64
+     },
+     {
+      "text": "birth",
+      "start": 0.88,
+      "end": 1.2,
+      "audio": 0.88
+     },
+     {
+      "text": "month.",
+      "start": 1.28,
+      "end": 1.92,
+      "audio": 1.28
+     },
+     {
+      "text": "This",
+      "start": 2.16,
+      "end": 2.48,
+      "audio": 2.16
+     },
+     {
+      "text": "is",
+      "start": 2.56,
+      "end": 2.64,
+      "audio": 2.56
+     },
+     {
+      "text": "your",
+      "start": 2.72,
+      "end": 2.8,
+      "audio": 2.72
+     },
+     {
+      "text": "birthstone.",
+      "start": 2.88,
+      "end": 3.92,
+      "audio": 2.88
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.92
+   },
+   {
+    "start": 4.24,
+    "end": 10,
+    "words": [
+     {
+      "text": "January,",
+      "start": 4.24,
+      "end": 5,
+      "audio": 4.24
+     },
+     {
+      "text": "garnet.",
+      "start": 5.2,
+      "end": 5.96,
+      "audio": 5.2
+     },
+     {
+      "text": "February,",
+      "start": 6.24,
+      "end": 6.96,
+      "audio": 6.24
+     },
+     {
+      "text": "amethyst.",
+      "start": 7.12,
+      "end": 7.84,
+      "audio": 7.12
+     },
+     {
+      "text": "March,",
+      "start": 8.32,
+      "end": 8.96,
+      "audio": 8.32
+     },
+     {
+      "text": "aquamarine.",
+      "start": 9.12,
+      "end": 10,
+      "audio": 9.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 10
+   },
+   {
+    "start": 10.48,
+    "end": 15.52,
+    "words": [
+     {
+      "text": "April,",
+      "start": 10.48,
+      "end": 11.12,
+      "audio": 10.48
+     },
+     {
+      "text": "diamond.",
+      "start": 11.28,
+      "end": 12.12,
+      "audio": 11.28
+     },
+     {
+      "text": "May,",
+      "start": 12.4,
+      "end": 12.96,
+      "audio": 12.4
+     },
+     {
+      "text": "emerald.",
+      "start": 13.12,
+      "end": 13.92,
+      "audio": 13.12
+     },
+     {
+      "text": "June,",
+      "start": 14.16,
+      "end": 14.64,
+      "audio": 14.16
+     },
+     {
+      "text": "pearl.",
+      "start": 14.88,
+      "end": 15.52,
+      "audio": 14.88
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.52
+   },
+   {
+    "start": 15.84,
+    "end": 21.08,
+    "words": [
+     {
+      "text": "July,",
+      "start": 15.84,
+      "end": 16.48,
+      "audio": 15.84
+     },
+     {
+      "text": "ruby.",
+      "start": 16.64,
+      "end": 17.32,
+      "audio": 16.64
+     },
+     {
+      "text": "August,",
+      "start": 17.52,
+      "end": 18.2,
+      "audio": 17.52
+     },
+     {
+      "text": "peridot.",
+      "start": 18.32,
+      "end": 18.96,
+      "audio": 18.32
+     },
+     {
+      "text": "September,",
+      "start": 19.36,
+      "end": 20.16,
+      "audio": 19.36
+     },
+     {
+      "text": "sapphire.",
+      "start": 20.32,
+      "end": 21.08,
+      "audio": 20.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 21.08
+   },
+   {
+    "start": 21.28,
+    "end": 26.64,
+    "words": [
+     {
+      "text": "October,",
+      "start": 21.28,
+      "end": 22.04,
+      "audio": 21.28
+     },
+     {
+      "text": "opal.",
+      "start": 22.16,
+      "end": 22.64,
+      "audio": 22.16
+     },
+     {
+      "text": "November,",
+      "start": 23.04,
+      "end": 23.72,
+      "audio": 23.04
+     },
+     {
+      "text": "topaz.",
+      "start": 23.84,
+      "end": 24.68,
+      "audio": 23.84
+     },
+     {
+      "text": "December,",
+      "start": 24.88,
+      "end": 25.56,
+      "audio": 24.88
+     },
+     {
+      "text": "turquoise.",
+      "start": 25.68,
+      "end": 26.64,
+      "audio": 25.68
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 26.64
+   },
+   {
+    "start": 26.96,
+    "end": 32.44,
+    "words": [
+     {
+      "text": "Some",
+      "start": 26.96,
+      "end": 27.12,
+      "audio": 26.96
+     },
+     {
+      "text": "months",
+      "start": 27.2,
+      "end": 27.44,
+      "audio": 27.2
+     },
+     {
+      "text": "have",
+      "start": 27.52,
+      "end": 27.6,
+      "audio": 27.52
+     },
+     {
+      "text": "more",
+      "start": 27.68,
+      "end": 27.84,
+      "audio": 27.68
+     },
+     {
+      "text": "than",
+      "start": 27.92,
+      "end": 28,
+      "audio": 27.92
+     },
+     {
+      "text": "one.",
+      "start": 28.08,
+      "end": 28.4,
+      "audio": 28.08
+     },
+     {
+      "text": "June",
+      "start": 28.8,
+      "end": 29.12,
+      "audio": 28.8
+     },
+     {
+      "text": "also",
+      "start": 29.2,
+      "end": 29.52,
+      "audio": 29.2
+     },
+     {
+      "text": "has",
+      "start": 29.6,
+      "end": 29.76,
+      "audio": 29.6
+     },
+     {
+      "text": "moonstone.",
+      "start": 29.84,
+      "end": 30.48,
+      "audio": 29.84
+     },
+     {
+      "text": "October",
+      "start": 30.8,
+      "end": 31.36,
+      "audio": 30.8
+     },
+     {
+      "text": "has",
+      "start": 31.44,
+      "end": 31.6,
+      "audio": 31.44
+     },
+     {
+      "text": "tourmaline.",
+      "start": 31.68,
+      "end": 32.44,
+      "audio": 31.68
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 32.44
+   },
+   {
+    "start": 32.773,
+    "end": 35.44,
+    "words": [
+     {
+      "text": "If",
+      "start": 32.773,
+      "end": 32.8,
+      "audio": 32.773
+     },
+     {
+      "text": "you",
+      "start": 32.84,
+      "end": 32.88,
+      "audio": 32.84
+     },
+     {
+      "text": "could",
+      "start": 32.96,
+      "end": 33.12,
+      "audio": 32.96
+     },
+     {
+      "text": "swap",
+      "start": 33.28,
+      "end": 33.44,
+      "audio": 33.28
+     },
+     {
+      "text": "yours,",
+      "start": 33.52,
+      "end": 34.16,
+      "audio": 33.52
+     },
+     {
+      "text": "which",
+      "start": 34.24,
+      "end": 34.32,
+      "audio": 34.24
+     },
+     {
+      "text": "one",
+      "start": 34.4,
+      "end": 34.48,
+      "audio": 34.4
+     },
+     {
+      "text": "would",
+      "start": 34.56,
+      "end": 34.64,
+      "audio": 34.56
+     },
+     {
+      "text": "you",
+      "start": 34.72,
+      "end": 34.8,
+      "audio": 34.72
+     },
+     {
+      "text": "take?",
+      "start": 34.96,
+      "end": 35.44,
+      "audio": 34.96
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 35.44
+   }
+  ]
+ },
+ "m03-life-path-20-seconds": {
+  "duration": 44.5,
+  "segments": [
+   {
+    "start": 0,
+    "end": 4.08,
+    "words": [
+     {
+      "text": "Your",
+      "start": 0.08,
+      "end": 0.24,
+      "audio": 0.08
+     },
+     {
+      "text": "life",
+      "start": 0.32,
+      "end": 0.56,
+      "audio": 0.32
+     },
+     {
+      "text": "path",
+      "start": 0.64,
+      "end": 0.8,
+      "audio": 0.64
+     },
+     {
+      "text": "number",
+      "start": 0.88,
+      "end": 1.12,
+      "audio": 0.88
+     },
+     {
+      "text": "takes",
+      "start": 1.2,
+      "end": 1.52,
+      "audio": 1.2
+     },
+     {
+      "text": "twenty",
+      "start": 1.6,
+      "end": 1.92,
+      "audio": 1.6
+     },
+     {
+      "text": "seconds.",
+      "start": 2.08,
+      "end": 2.84,
+      "audio": 2.08
+     },
+     {
+      "text": "Grab",
+      "start": 3.04,
+      "end": 3.2,
+      "audio": 3.04
+     },
+     {
+      "text": "your",
+      "start": 3.28,
+      "end": 3.36,
+      "audio": 3.28
+     },
+     {
+      "text": "birthday.",
+      "start": 3.6,
+      "end": 4.08,
+      "audio": 3.6
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.08
+   },
+   {
+    "start": 4.32,
+    "end": 7.12,
+    "words": [
+     {
+      "text": "Let's",
+      "start": 4.32,
+      "end": 4.48,
+      "audio": 4.32
+     },
+     {
+      "text": "use",
+      "start": 4.56,
+      "end": 4.72,
+      "audio": 4.56
+     },
+     {
+      "text": "July",
+      "start": 4.88,
+      "end": 5.12,
+      "audio": 4.88
+     },
+     {
+      "text": "the",
+      "start": 5.2,
+      "end": 5.28,
+      "audio": 5.2
+     },
+     {
+      "text": "fourth,",
+      "start": 5.36,
+      "end": 5.8,
+      "audio": 5.36
+     },
+     {
+      "text": "1990.",
+      "start": 5.84,
+      "end": 7.12,
+      "audio": 5.84
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 7.12
+   },
+   {
+    "start": 7.28,
+    "end": 12.96,
+    "words": [
+     {
+      "text": "Reduce",
+      "start": 7.28,
+      "end": 7.68,
+      "audio": 7.28
+     },
+     {
+      "text": "each",
+      "start": 7.76,
+      "end": 8,
+      "audio": 7.76
+     },
+     {
+      "text": "part",
+      "start": 8.08,
+      "end": 8.4,
+      "audio": 8.08
+     },
+     {
+      "text": "to",
+      "start": 8.52,
+      "end": 8.64,
+      "audio": 8.52
+     },
+     {
+      "text": "one",
+      "start": 8.76,
+      "end": 8.88,
+      "audio": 8.76
+     },
+     {
+      "text": "digit.",
+      "start": 8.96,
+      "end": 9.6,
+      "audio": 8.96
+     },
+     {
+      "text": "The",
+      "start": 9.84,
+      "end": 9.92,
+      "audio": 9.84
+     },
+     {
+      "text": "month",
+      "start": 10,
+      "end": 10.32,
+      "audio": 10
+     },
+     {
+      "text": "is",
+      "start": 10.48,
+      "end": 10.64,
+      "audio": 10.48
+     },
+     {
+      "text": "seven.",
+      "start": 10.72,
+      "end": 11.32,
+      "audio": 10.72
+     },
+     {
+      "text": "The",
+      "start": 11.52,
+      "end": 11.6,
+      "audio": 11.52
+     },
+     {
+      "text": "day",
+      "start": 11.68,
+      "end": 12,
+      "audio": 11.68
+     },
+     {
+      "text": "is",
+      "start": 12.16,
+      "end": 12.24,
+      "audio": 12.16
+     },
+     {
+      "text": "four.",
+      "start": 12.4,
+      "end": 12.96,
+      "audio": 12.4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.96
+   },
+   {
+    "start": 13.2,
+    "end": 21.84,
+    "words": [
+     {
+      "text": "The",
+      "start": 13.2,
+      "end": 13.28,
+      "audio": 13.2
+     },
+     {
+      "text": "year:",
+      "start": 13.36,
+      "end": 13.96,
+      "audio": 13.36
+     },
+     {
+      "text": "one",
+      "start": 14.24,
+      "end": 14.4,
+      "audio": 14.24
+     },
+     {
+      "text": "plus",
+      "start": 14.48,
+      "end": 14.72,
+      "audio": 14.48
+     },
+     {
+      "text": "nine",
+      "start": 14.8,
+      "end": 15.12,
+      "audio": 14.8
+     },
+     {
+      "text": "plus",
+      "start": 15.2,
+      "end": 15.36,
+      "audio": 15.2
+     },
+     {
+      "text": "nine",
+      "start": 15.52,
+      "end": 15.76,
+      "audio": 15.52
+     },
+     {
+      "text": "plus",
+      "start": 15.84,
+      "end": 16.08,
+      "audio": 15.84
+     },
+     {
+      "text": "zero",
+      "start": 16.16,
+      "end": 16.56,
+      "audio": 16.16
+     },
+     {
+      "text": "is",
+      "start": 16.72,
+      "end": 16.88,
+      "audio": 16.72
+     },
+     {
+      "text": "nineteen.",
+      "start": 16.96,
+      "end": 17.88,
+      "audio": 16.96
+     },
+     {
+      "text": "One",
+      "start": 18.16,
+      "end": 18.24,
+      "audio": 18.16
+     },
+     {
+      "text": "plus",
+      "start": 18.32,
+      "end": 18.48,
+      "audio": 18.32
+     },
+     {
+      "text": "nine",
+      "start": 18.64,
+      "end": 18.88,
+      "audio": 18.64
+     },
+     {
+      "text": "is",
+      "start": 19.04,
+      "end": 19.12,
+      "audio": 19.04
+     },
+     {
+      "text": "ten.",
+      "start": 19.2,
+      "end": 19.84,
+      "audio": 19.2
+     },
+     {
+      "text": "One",
+      "start": 20.08,
+      "end": 20.16,
+      "audio": 20.08
+     },
+     {
+      "text": "plus",
+      "start": 20.24,
+      "end": 20.4,
+      "audio": 20.24
+     },
+     {
+      "text": "zero",
+      "start": 20.48,
+      "end": 20.88,
+      "audio": 20.48
+     },
+     {
+      "text": "is",
+      "start": 21.04,
+      "end": 21.12,
+      "audio": 21.04
+     },
+     {
+      "text": "one.",
+      "start": 21.28,
+      "end": 21.84,
+      "audio": 21.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 21.84
+   },
+   {
+    "start": 22.08,
+    "end": 28.2,
+    "words": [
+     {
+      "text": "Now",
+      "start": 22.08,
+      "end": 22.24,
+      "audio": 22.08
+     },
+     {
+      "text": "add",
+      "start": 22.32,
+      "end": 22.48,
+      "audio": 22.32
+     },
+     {
+      "text": "them.",
+      "start": 22.56,
+      "end": 23.04,
+      "audio": 22.56
+     },
+     {
+      "text": "Seven",
+      "start": 23.28,
+      "end": 23.6,
+      "audio": 23.28
+     },
+     {
+      "text": "plus",
+      "start": 23.68,
+      "end": 23.92,
+      "audio": 23.68
+     },
+     {
+      "text": "four",
+      "start": 24,
+      "end": 24.32,
+      "audio": 24
+     },
+     {
+      "text": "plus",
+      "start": 24.48,
+      "end": 24.64,
+      "audio": 24.48
+     },
+     {
+      "text": "one",
+      "start": 24.72,
+      "end": 24.96,
+      "audio": 24.72
+     },
+     {
+      "text": "is",
+      "start": 25.12,
+      "end": 25.28,
+      "audio": 25.12
+     },
+     {
+      "text": "twelve.",
+      "start": 25.36,
+      "end": 26.12,
+      "audio": 25.36
+     },
+     {
+      "text": "One",
+      "start": 26.32,
+      "end": 26.48,
+      "audio": 26.32
+     },
+     {
+      "text": "plus",
+      "start": 26.64,
+      "end": 26.8,
+      "audio": 26.64
+     },
+     {
+      "text": "two",
+      "start": 26.92,
+      "end": 27.04,
+      "audio": 26.92
+     },
+     {
+      "text": "is",
+      "start": 27.28,
+      "end": 27.44,
+      "audio": 27.28
+     },
+     {
+      "text": "three.",
+      "start": 27.52,
+      "end": 28.2,
+      "audio": 27.52
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.2
+   },
+   {
+    "start": 28.56,
+    "end": 34.2,
+    "words": [
+     {
+      "text": "Life",
+      "start": 28.56,
+      "end": 28.8,
+      "audio": 28.56
+     },
+     {
+      "text": "path",
+      "start": 28.88,
+      "end": 29.12,
+      "audio": 28.88
+     },
+     {
+      "text": "three.",
+      "start": 29.28,
+      "end": 29.88,
+      "audio": 29.28
+     },
+     {
+      "text": "The",
+      "start": 30.08,
+      "end": 30.12,
+      "audio": 30.08
+     },
+     {
+      "text": "communicator.",
+      "start": 30.16,
+      "end": 31.28,
+      "audio": 30.16
+     },
+     {
+      "text": "Creative,",
+      "start": 31.52,
+      "end": 32.24,
+      "audio": 31.52
+     },
+     {
+      "text": "expressive,",
+      "start": 32.32,
+      "end": 33.28,
+      "audio": 32.32
+     },
+     {
+      "text": "joyful.",
+      "start": 33.44,
+      "end": 34.2,
+      "audio": 33.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 34.2
+   },
+   {
+    "start": 34.48,
+    "end": 41.2,
+    "words": [
+     {
+      "text": "One",
+      "start": 34.48,
+      "end": 34.64,
+      "audio": 34.48
+     },
+     {
+      "text": "rule.",
+      "start": 34.72,
+      "end": 35.24,
+      "audio": 34.72
+     },
+     {
+      "text": "If",
+      "start": 35.44,
+      "end": 35.52,
+      "audio": 35.44
+     },
+     {
+      "text": "you",
+      "start": 35.56,
+      "end": 35.6,
+      "audio": 35.56
+     },
+     {
+      "text": "land",
+      "start": 35.68,
+      "end": 35.84,
+      "audio": 35.68
+     },
+     {
+      "text": "on",
+      "start": 35.92,
+      "end": 36,
+      "audio": 35.92
+     },
+     {
+      "text": "eleven,",
+      "start": 36.08,
+      "end": 36.64,
+      "audio": 36.08
+     },
+     {
+      "text": "twenty-two",
+      "start": 36.8,
+      "end": 37.2,
+      "audio": 36.8
+     },
+     {
+      "text": "or",
+      "start": 37.36,
+      "end": 37.6,
+      "audio": 37.36
+     },
+     {
+      "text": "thirty-three,",
+      "start": 37.707,
+      "end": 38.56,
+      "audio": 37.707
+     },
+     {
+      "text": "stop.",
+      "start": 38.72,
+      "end": 39.12,
+      "audio": 38.72
+     },
+     {
+      "text": "Those",
+      "start": 39.52,
+      "end": 39.76,
+      "audio": 39.52
+     },
+     {
+      "text": "are",
+      "start": 39.84,
+      "end": 40,
+      "audio": 39.84
+     },
+     {
+      "text": "master",
+      "start": 40.08,
+      "end": 40.4,
+      "audio": 40.08
+     },
+     {
+      "text": "numbers.",
+      "start": 40.48,
+      "end": 41.2,
+      "audio": 40.48
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 41.2
+   },
+   {
+    "start": 41.52,
+    "end": 43.6,
+    "words": [
+     {
+      "text": "Now",
+      "start": 41.52,
+      "end": 41.68,
+      "audio": 41.52
+     },
+     {
+      "text": "do",
+      "start": 41.76,
+      "end": 41.84,
+      "audio": 41.76
+     },
+     {
+      "text": "yours.",
+      "start": 41.92,
+      "end": 42.56,
+      "audio": 41.92
+     },
+     {
+      "text": "What",
+      "start": 42.72,
+      "end": 42.8,
+      "audio": 42.72
+     },
+     {
+      "text": "did",
+      "start": 42.88,
+      "end": 42.96,
+      "audio": 42.88
+     },
+     {
+      "text": "you",
+      "start": 43.04,
+      "end": 43.12,
+      "audio": 43.04
+     },
+     {
+      "text": "get?",
+      "start": 43.24,
+      "end": 43.6,
+      "audio": 43.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 43.6
+   }
+  ]
+ },
+ "m04-chinese-zodiac-year": {
+  "duration": 32.42,
+  "segments": [
+   {
+    "start": 0,
+    "end": 4.48,
+    "words": [
+     {
+      "text": "Pause",
+      "start": 0.08,
+      "end": 0.4,
+      "audio": 0.08
+     },
+     {
+      "text": "on",
+      "start": 0.48,
+      "end": 0.56,
+      "audio": 0.48
+     },
+     {
+      "text": "your",
+      "start": 0.68,
+      "end": 0.8,
+      "audio": 0.68
+     },
+     {
+      "text": "birth",
+      "start": 0.96,
+      "end": 1.12,
+      "audio": 0.96
+     },
+     {
+      "text": "year.",
+      "start": 1.2,
+      "end": 1.72,
+      "audio": 1.2
+     },
+     {
+      "text": "This",
+      "start": 2,
+      "end": 2.4,
+      "audio": 2
+     },
+     {
+      "text": "is",
+      "start": 2.48,
+      "end": 2.56,
+      "audio": 2.48
+     },
+     {
+      "text": "your",
+      "start": 2.64,
+      "end": 2.8,
+      "audio": 2.64
+     },
+     {
+      "text": "Chinese",
+      "start": 3.04,
+      "end": 3.28,
+      "audio": 3.04
+     },
+     {
+      "text": "zodiac",
+      "start": 3.32,
+      "end": 3.68,
+      "audio": 3.32
+     },
+     {
+      "text": "animal.",
+      "start": 3.76,
+      "end": 4.48,
+      "audio": 3.76
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 4.48
+   },
+   {
+    "start": 4.88,
+    "end": 8.56,
+    "words": [
+     {
+      "text": "Rat.",
+      "start": 4.88,
+      "end": 5.56,
+      "audio": 4.88
+     },
+     {
+      "text": "Ox.",
+      "start": 5.84,
+      "end": 6.56,
+      "audio": 5.84
+     },
+     {
+      "text": "Tiger.",
+      "start": 6.8,
+      "end": 7.56,
+      "audio": 6.8
+     },
+     {
+      "text": "Rabbit.",
+      "start": 7.84,
+      "end": 8.56,
+      "audio": 7.84
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 8.56
+   },
+   {
+    "start": 8.8,
+    "end": 12.48,
+    "words": [
+     {
+      "text": "Dragon.",
+      "start": 8.8,
+      "end": 9.56,
+      "audio": 8.8
+     },
+     {
+      "text": "Snake.",
+      "start": 9.84,
+      "end": 10.56,
+      "audio": 9.84
+     },
+     {
+      "text": "Horse.",
+      "start": 10.8,
+      "end": 11.6,
+      "audio": 10.8
+     },
+     {
+      "text": "Goat.",
+      "start": 11.84,
+      "end": 12.48,
+      "audio": 11.84
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.48
+   },
+   {
+    "start": 12.72,
+    "end": 16.16,
+    "words": [
+     {
+      "text": "Monkey.",
+      "start": 12.72,
+      "end": 13.44,
+      "audio": 12.72
+     },
+     {
+      "text": "Rooster.",
+      "start": 13.68,
+      "end": 14.4,
+      "audio": 13.68
+     },
+     {
+      "text": "Dog.",
+      "start": 14.64,
+      "end": 15.2,
+      "audio": 14.64
+     },
+     {
+      "text": "Pig.",
+      "start": 15.44,
+      "end": 16.16,
+      "audio": 15.44
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 16.16
+   },
+   {
+    "start": 16.48,
+    "end": 24.32,
+    "words": [
+     {
+      "text": "Born",
+      "start": 16.48,
+      "end": 16.64,
+      "audio": 16.48
+     },
+     {
+      "text": "in",
+      "start": 16.76,
+      "end": 16.88,
+      "audio": 16.76
+     },
+     {
+      "text": "January",
+      "start": 17.16,
+      "end": 17.44,
+      "audio": 17.16
+     },
+     {
+      "text": "or",
+      "start": 17.52,
+      "end": 17.76,
+      "audio": 17.52
+     },
+     {
+      "text": "early",
+      "start": 17.84,
+      "end": 18,
+      "audio": 17.84
+     },
+     {
+      "text": "February?",
+      "start": 18.16,
+      "end": 18.96,
+      "audio": 18.16
+     },
+     {
+      "text": "Careful.",
+      "start": 19.28,
+      "end": 20.16,
+      "audio": 19.28
+     },
+     {
+      "text": "The",
+      "start": 20.2,
+      "end": 20.24,
+      "audio": 20.2
+     },
+     {
+      "text": "year",
+      "start": 20.32,
+      "end": 20.56,
+      "audio": 20.32
+     },
+     {
+      "text": "starts",
+      "start": 20.64,
+      "end": 21.04,
+      "audio": 20.64
+     },
+     {
+      "text": "at",
+      "start": 21.12,
+      "end": 21.2,
+      "audio": 21.12
+     },
+     {
+      "text": "Lunar",
+      "start": 21.28,
+      "end": 21.52,
+      "audio": 21.28
+     },
+     {
+      "text": "New",
+      "start": 21.6,
+      "end": 21.76,
+      "audio": 21.6
+     },
+     {
+      "text": "Year,",
+      "start": 21.84,
+      "end": 22.24,
+      "audio": 21.84
+     },
+     {
+      "text": "so",
+      "start": 22.32,
+      "end": 22.4,
+      "audio": 22.32
+     },
+     {
+      "text": "you",
+      "start": 22.48,
+      "end": 22.64,
+      "audio": 22.48
+     },
+     {
+      "text": "might",
+      "start": 22.76,
+      "end": 22.88,
+      "audio": 22.76
+     },
+     {
+      "text": "be",
+      "start": 22.92,
+      "end": 22.96,
+      "audio": 22.92
+     },
+     {
+      "text": "the",
+      "start": 23.04,
+      "end": 23.12,
+      "audio": 23.04
+     },
+     {
+      "text": "animal",
+      "start": 23.28,
+      "end": 23.44,
+      "audio": 23.28
+     },
+     {
+      "text": "before.",
+      "start": 23.72,
+      "end": 24.32,
+      "audio": 23.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 24.32
+   },
+   {
+    "start": 24.64,
+    "end": 29.68,
+    "words": [
+     {
+      "text": "Twenty",
+      "start": 24.64,
+      "end": 24.8,
+      "audio": 24.64
+     },
+     {
+      "text": "twenty-six",
+      "start": 24.96,
+      "end": 25.68,
+      "audio": 24.96
+     },
+     {
+      "text": "is",
+      "start": 25.76,
+      "end": 25.84,
+      "audio": 25.76
+     },
+     {
+      "text": "the",
+      "start": 25.92,
+      "end": 26,
+      "audio": 25.92
+     },
+     {
+      "text": "Year",
+      "start": 26.08,
+      "end": 26.24,
+      "audio": 26.08
+     },
+     {
+      "text": "of",
+      "start": 26.28,
+      "end": 26.32,
+      "audio": 26.28
+     },
+     {
+      "text": "the",
+      "start": 26.4,
+      "end": 26.48,
+      "audio": 26.4
+     },
+     {
+      "text": "Horse.",
+      "start": 26.56,
+      "end": 27.44,
+      "audio": 26.56
+     },
+     {
+      "text": "Twenty",
+      "start": 27.52,
+      "end": 27.68,
+      "audio": 27.52
+     },
+     {
+      "text": "twenty-seven",
+      "start": 27.76,
+      "end": 28.48,
+      "audio": 27.76
+     },
+     {
+      "text": "belongs",
+      "start": 28.64,
+      "end": 28.96,
+      "audio": 28.64
+     },
+     {
+      "text": "to",
+      "start": 29.04,
+      "end": 29.08,
+      "audio": 29.04
+     },
+     {
+      "text": "the",
+      "start": 29.12,
+      "end": 29.2,
+      "audio": 29.12
+     },
+     {
+      "text": "Goat.",
+      "start": 29.28,
+      "end": 29.68,
+      "audio": 29.28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 29.68
+   },
+   {
+    "start": 30.36,
+    "end": 31.52,
+    "words": [
+     {
+      "text": "Which",
+      "start": 30.36,
+      "end": 30.4,
+      "audio": 30.36
+     },
+     {
+      "text": "animal",
+      "start": 30.56,
+      "end": 30.72,
+      "audio": 30.56
+     },
+     {
+      "text": "are",
+      "start": 30.8,
+      "end": 30.88,
+      "audio": 30.8
+     },
+     {
+      "text": "you?",
+      "start": 31.04,
+      "end": 31.52,
+      "audio": 31.04
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 31.52
+   }
+  ]
+ },
+ "t01-11-11-day": {
+  "duration": 29.54,
+  "segments": [
+   {
+    "start": 0,
+    "end": 3.52,
+    "words": [
+     {
+      "text": "The",
+      "start": 0.08,
+      "end": 0.16,
+      "audio": 0.08
+     },
+     {
+      "text": "eleventh",
+      "start": 0.32,
+      "end": 0.72,
+      "audio": 0.32
+     },
+     {
+      "text": "of",
+      "start": 0.8,
+      "end": 0.88,
+      "audio": 0.8
+     },
+     {
+      "text": "November.",
+      "start": 0.96,
+      "end": 1.68,
+      "audio": 0.96
+     },
+     {
+      "text": "Eleven,",
+      "start": 2.16,
+      "end": 2.88,
+      "audio": 2.16
+     },
+     {
+      "text": "eleven.",
+      "start": 3,
+      "end": 3.52,
+      "audio": 3
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 3.52
+   },
+   {
+    "start": 4.08,
+    "end": 7.88,
+    "words": [
+     {
+      "text": "For",
+      "start": 4.08,
+      "end": 4.16,
+      "audio": 4.08
+     },
+     {
+      "text": "a",
+      "start": 4.24,
+      "end": 4.28,
+      "audio": 4.24
+     },
+     {
+      "text": "lot",
+      "start": 4.32,
+      "end": 4.4,
+      "audio": 4.32
+     },
+     {
+      "text": "of",
+      "start": 4.48,
+      "end": 4.56,
+      "audio": 4.48
+     },
+     {
+      "text": "people,",
+      "start": 4.64,
+      "end": 5.12,
+      "audio": 4.64
+     },
+     {
+      "text": "it's",
+      "start": 5.2,
+      "end": 5.36,
+      "audio": 5.2
+     },
+     {
+      "text": "the",
+      "start": 5.48,
+      "end": 5.6,
+      "audio": 5.48
+     },
+     {
+      "text": "biggest",
+      "start": 5.68,
+      "end": 5.92,
+      "audio": 5.68
+     },
+     {
+      "text": "day",
+      "start": 6,
+      "end": 6.08,
+      "audio": 6
+     },
+     {
+      "text": "of",
+      "start": 6.16,
+      "end": 6.24,
+      "audio": 6.16
+     },
+     {
+      "text": "the",
+      "start": 6.28,
+      "end": 6.32,
+      "audio": 6.28
+     },
+     {
+      "text": "year",
+      "start": 6.48,
+      "end": 6.72,
+      "audio": 6.48
+     },
+     {
+      "text": "to",
+      "start": 6.8,
+      "end": 6.88,
+      "audio": 6.8
+     },
+     {
+      "text": "make",
+      "start": 6.96,
+      "end": 7.04,
+      "audio": 6.96
+     },
+     {
+      "text": "a",
+      "start": 7.12,
+      "end": 7.16,
+      "audio": 7.12
+     },
+     {
+      "text": "wish.",
+      "start": 7.2,
+      "end": 7.88,
+      "audio": 7.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 7.88
+   },
+   {
+    "start": 8.16,
+    "end": 11.44,
+    "words": [
+     {
+      "text": "But",
+      "start": 8.16,
+      "end": 8.32,
+      "audio": 8.16
+     },
+     {
+      "text": "this",
+      "start": 8.4,
+      "end": 8.56,
+      "audio": 8.4
+     },
+     {
+      "text": "date",
+      "start": 8.64,
+      "end": 8.88,
+      "audio": 8.64
+     },
+     {
+      "text": "carried",
+      "start": 8.96,
+      "end": 9.28,
+      "audio": 8.96
+     },
+     {
+      "text": "weight",
+      "start": 9.44,
+      "end": 9.6,
+      "audio": 9.44
+     },
+     {
+      "text": "long",
+      "start": 9.68,
+      "end": 9.92,
+      "audio": 9.68
+     },
+     {
+      "text": "before",
+      "start": 10,
+      "end": 10.32,
+      "audio": 10
+     },
+     {
+      "text": "angel",
+      "start": 10.48,
+      "end": 10.64,
+      "audio": 10.48
+     },
+     {
+      "text": "numbers.",
+      "start": 10.72,
+      "end": 11.44,
+      "audio": 10.72
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 11.44
+   },
+   {
+    "start": 11.76,
+    "end": 17.08,
+    "words": [
+     {
+      "text": "The",
+      "start": 11.76,
+      "end": 11.84,
+      "audio": 11.76
+     },
+     {
+      "text": "First",
+      "start": 11.92,
+      "end": 12.16,
+      "audio": 11.92
+     },
+     {
+      "text": "World",
+      "start": 12.24,
+      "end": 12.4,
+      "audio": 12.24
+     },
+     {
+      "text": "War",
+      "start": 12.48,
+      "end": 12.8,
+      "audio": 12.48
+     },
+     {
+      "text": "ended",
+      "start": 12.88,
+      "end": 13.2,
+      "audio": 12.88
+     },
+     {
+      "text": "at",
+      "start": 13.24,
+      "end": 13.28,
+      "audio": 13.24
+     },
+     {
+      "text": "the",
+      "start": 13.36,
+      "end": 13.4,
+      "audio": 13.36
+     },
+     {
+      "text": "eleventh",
+      "start": 13.44,
+      "end": 13.92,
+      "audio": 13.44
+     },
+     {
+      "text": "hour",
+      "start": 14.16,
+      "end": 14.4,
+      "audio": 14.16
+     },
+     {
+      "text": "of",
+      "start": 14.48,
+      "end": 14.56,
+      "audio": 14.48
+     },
+     {
+      "text": "the",
+      "start": 14.6,
+      "end": 14.64,
+      "audio": 14.6
+     },
+     {
+      "text": "eleventh",
+      "start": 14.72,
+      "end": 15.12,
+      "audio": 14.72
+     },
+     {
+      "text": "day",
+      "start": 15.2,
+      "end": 15.6,
+      "audio": 15.2
+     },
+     {
+      "text": "of",
+      "start": 15.64,
+      "end": 15.68,
+      "audio": 15.64
+     },
+     {
+      "text": "the",
+      "start": 15.76,
+      "end": 15.8,
+      "audio": 15.76
+     },
+     {
+      "text": "eleventh",
+      "start": 15.84,
+      "end": 16.24,
+      "audio": 15.84
+     },
+     {
+      "text": "month.",
+      "start": 16.32,
+      "end": 17.08,
+      "audio": 16.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 17.08
+   },
+   {
+    "start": 17.44,
+    "end": 22.08,
+    "words": [
+     {
+      "text": "That's",
+      "start": 17.44,
+      "end": 17.68,
+      "audio": 17.44
+     },
+     {
+      "text": "why",
+      "start": 17.8,
+      "end": 17.92,
+      "audio": 17.8
+     },
+     {
+      "text": "many",
+      "start": 18.04,
+      "end": 18.16,
+      "audio": 18.04
+     },
+     {
+      "text": "countries",
+      "start": 18.24,
+      "end": 18.64,
+      "audio": 18.24
+     },
+     {
+      "text": "still",
+      "start": 18.8,
+      "end": 18.96,
+      "audio": 18.8
+     },
+     {
+      "text": "fall",
+      "start": 19.04,
+      "end": 19.36,
+      "audio": 19.04
+     },
+     {
+      "text": "silent",
+      "start": 19.6,
+      "end": 19.84,
+      "audio": 19.6
+     },
+     {
+      "text": "at",
+      "start": 19.88,
+      "end": 19.92,
+      "audio": 19.88
+     },
+     {
+      "text": "eleven",
+      "start": 20,
+      "end": 20.24,
+      "audio": 20
+     },
+     {
+      "text": "in",
+      "start": 20.32,
+      "end": 20.4,
+      "audio": 20.32
+     },
+     {
+      "text": "the",
+      "start": 20.44,
+      "end": 20.48,
+      "audio": 20.44
+     },
+     {
+      "text": "morning",
+      "start": 20.56,
+      "end": 20.8,
+      "audio": 20.56
+     },
+     {
+      "text": "on",
+      "start": 20.88,
+      "end": 20.96,
+      "audio": 20.88
+     },
+     {
+      "text": "this",
+      "start": 21.08,
+      "end": 21.2,
+      "audio": 21.08
+     },
+     {
+      "text": "day.",
+      "start": 21.32,
+      "end": 22.08,
+      "audio": 21.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 22.08
+   },
+   {
+    "start": 22.28,
+    "end": 26.76,
+    "words": [
+     {
+      "text": "So",
+      "start": 22.28,
+      "end": 22.48,
+      "audio": 22.28
+     },
+     {
+      "text": "if",
+      "start": 22.56,
+      "end": 22.64,
+      "audio": 22.56
+     },
+     {
+      "text": "you",
+      "start": 22.72,
+      "end": 22.8,
+      "audio": 22.72
+     },
+     {
+      "text": "make",
+      "start": 22.88,
+      "end": 22.96,
+      "audio": 22.88
+     },
+     {
+      "text": "a",
+      "start": 23.04,
+      "end": 23.12,
+      "audio": 23.04
+     },
+     {
+      "text": "wish",
+      "start": 23.24,
+      "end": 23.36,
+      "audio": 23.24
+     },
+     {
+      "text": "at",
+      "start": 23.44,
+      "end": 23.52,
+      "audio": 23.44
+     },
+     {
+      "text": "eleven",
+      "start": 23.6,
+      "end": 23.76,
+      "audio": 23.6
+     },
+     {
+      "text": "eleven,",
+      "start": 23.92,
+      "end": 24.72,
+      "audio": 23.92
+     },
+     {
+      "text": "maybe",
+      "start": 24.88,
+      "end": 25.04,
+      "audio": 24.88
+     },
+     {
+      "text": "save",
+      "start": 25.12,
+      "end": 25.28,
+      "audio": 25.12
+     },
+     {
+      "text": "a",
+      "start": 25.36,
+      "end": 25.4,
+      "audio": 25.36
+     },
+     {
+      "text": "moment",
+      "start": 25.44,
+      "end": 25.68,
+      "audio": 25.44
+     },
+     {
+      "text": "for",
+      "start": 25.76,
+      "end": 25.84,
+      "audio": 25.76
+     },
+     {
+      "text": "them",
+      "start": 26,
+      "end": 26.16,
+      "audio": 26
+     },
+     {
+      "text": "too.",
+      "start": 26.32,
+      "end": 26.76,
+      "audio": 26.32
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 26.76
+   },
+   {
+    "start": 27.173,
+    "end": 28.64,
+    "words": [
+     {
+      "text": "What",
+      "start": 27.173,
+      "end": 27.2,
+      "audio": 27.173
+     },
+     {
+      "text": "would",
+      "start": 27.28,
+      "end": 27.36,
+      "audio": 27.28
+     },
+     {
+      "text": "you",
+      "start": 27.44,
+      "end": 27.52,
+      "audio": 27.44
+     },
+     {
+      "text": "wish",
+      "start": 27.6,
+      "end": 27.76,
+      "audio": 27.6
+     },
+     {
+      "text": "for",
+      "start": 27.84,
+      "end": 27.92,
+      "audio": 27.84
+     },
+     {
+      "text": "today?",
+      "start": 28,
+      "end": 28.64,
+      "audio": 28
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 28.64
+   }
+  ]
+ },
+ "t02-closest-full-moon-2026": {
+  "duration": 24.5,
+  "segments": [
+   {
+    "start": 0,
+    "end": 5.68,
+    "words": [
+     {
+      "text": "Look",
+      "start": 0.16,
+      "end": 0.32,
+      "audio": 0.16
+     },
+     {
+      "text": "up",
+      "start": 0.4,
+      "end": 0.48,
+      "audio": 0.4
+     },
+     {
+      "text": "this",
+      "start": 0.56,
+      "end": 0.72,
+      "audio": 0.56
+     },
+     {
+      "text": "week.",
+      "start": 0.8,
+      "end": 1.28,
+      "audio": 0.8
+     },
+     {
+      "text": "The",
+      "start": 1.52,
+      "end": 1.6,
+      "audio": 1.52
+     },
+     {
+      "text": "full",
+      "start": 1.68,
+      "end": 1.84,
+      "audio": 1.68
+     },
+     {
+      "text": "moon",
+      "start": 1.92,
+      "end": 2.16,
+      "audio": 1.92
+     },
+     {
+      "text": "on",
+      "start": 2.2,
+      "end": 2.24,
+      "audio": 2.2
+     },
+     {
+      "text": "the",
+      "start": 2.32,
+      "end": 2.36,
+      "audio": 2.32
+     },
+     {
+      "text": "night",
+      "start": 2.4,
+      "end": 2.56,
+      "audio": 2.4
+     },
+     {
+      "text": "of",
+      "start": 2.64,
+      "end": 2.68,
+      "audio": 2.64
+     },
+     {
+      "text": "December",
+      "start": 2.72,
+      "end": 3.12,
+      "audio": 2.72
+     },
+     {
+      "text": "twenty-third",
+      "start": 3.2,
+      "end": 3.92,
+      "audio": 3.2
+     },
+     {
+      "text": "is",
+      "start": 4,
+      "end": 4.08,
+      "audio": 4
+     },
+     {
+      "text": "the",
+      "start": 4.16,
+      "end": 4.24,
+      "audio": 4.16
+     },
+     {
+      "text": "closest",
+      "start": 4.32,
+      "end": 4.8,
+      "audio": 4.32
+     },
+     {
+      "text": "of",
+      "start": 4.88,
+      "end": 4.96,
+      "audio": 4.88
+     },
+     {
+      "text": "the",
+      "start": 5,
+      "end": 5.04,
+      "audio": 5
+     },
+     {
+      "text": "year.",
+      "start": 5.12,
+      "end": 5.68,
+      "audio": 5.12
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 5.68
+   },
+   {
+    "start": 5.92,
+    "end": 12.04,
+    "words": [
+     {
+      "text": "About",
+      "start": 5.92,
+      "end": 6.24,
+      "audio": 5.92
+     },
+     {
+      "text": "three",
+      "start": 6.32,
+      "end": 6.48,
+      "audio": 6.32
+     },
+     {
+      "text": "hundred",
+      "start": 6.56,
+      "end": 6.8,
+      "audio": 6.56
+     },
+     {
+      "text": "fifty-six",
+      "start": 6.96,
+      "end": 7.6,
+      "audio": 6.96
+     },
+     {
+      "text": "thousand",
+      "start": 7.76,
+      "end": 8.08,
+      "audio": 7.76
+     },
+     {
+      "text": "kilometers",
+      "start": 8.24,
+      "end": 8.64,
+      "audio": 8.24
+     },
+     {
+      "text": "away.",
+      "start": 8.72,
+      "end": 9.44,
+      "audio": 8.72
+     },
+     {
+      "text": "Two",
+      "start": 9.52,
+      "end": 9.6,
+      "audio": 9.52
+     },
+     {
+      "text": "hundred",
+      "start": 9.68,
+      "end": 9.84,
+      "audio": 9.68
+     },
+     {
+      "text": "twenty-one",
+      "start": 10,
+      "end": 10.48,
+      "audio": 10
+     },
+     {
+      "text": "thousand",
+      "start": 10.72,
+      "end": 11.12,
+      "audio": 10.72
+     },
+     {
+      "text": "miles.",
+      "start": 11.2,
+      "end": 12.04,
+      "audio": 11.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 12.04
+   },
+   {
+    "start": 12.32,
+    "end": 15.84,
+    "words": [
+     {
+      "text": "December's",
+      "start": 12.32,
+      "end": 12.8,
+      "audio": 12.32
+     },
+     {
+      "text": "full",
+      "start": 12.88,
+      "end": 13.04,
+      "audio": 12.88
+     },
+     {
+      "text": "moon",
+      "start": 13.12,
+      "end": 13.36,
+      "audio": 13.12
+     },
+     {
+      "text": "is",
+      "start": 13.44,
+      "end": 13.52,
+      "audio": 13.44
+     },
+     {
+      "text": "traditionally",
+      "start": 13.64,
+      "end": 14.16,
+      "audio": 13.64
+     },
+     {
+      "text": "called",
+      "start": 14.32,
+      "end": 14.48,
+      "audio": 14.32
+     },
+     {
+      "text": "the",
+      "start": 14.64,
+      "end": 14.72,
+      "audio": 14.64
+     },
+     {
+      "text": "Cold",
+      "start": 14.8,
+      "end": 15.12,
+      "audio": 14.8
+     },
+     {
+      "text": "Moon.",
+      "start": 15.2,
+      "end": 15.84,
+      "audio": 15.2
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 15.84
+   },
+   {
+    "start": 15.92,
+    "end": 20.8,
+    "words": [
+     {
+      "text": "And",
+      "start": 15.92,
+      "end": 16,
+      "audio": 15.92
+     },
+     {
+      "text": "in",
+      "start": 16.04,
+      "end": 16.08,
+      "audio": 16.04
+     },
+     {
+      "text": "winter,",
+      "start": 16.16,
+      "end": 16.72,
+      "audio": 16.16
+     },
+     {
+      "text": "the",
+      "start": 16.76,
+      "end": 16.8,
+      "audio": 16.76
+     },
+     {
+      "text": "full",
+      "start": 16.96,
+      "end": 17.04,
+      "audio": 16.96
+     },
+     {
+      "text": "moon",
+      "start": 17.2,
+      "end": 17.36,
+      "audio": 17.2
+     },
+     {
+      "text": "rides",
+      "start": 17.44,
+      "end": 17.76,
+      "audio": 17.44
+     },
+     {
+      "text": "high,",
+      "start": 17.84,
+      "end": 18.4,
+      "audio": 17.84
+     },
+     {
+      "text": "so",
+      "start": 18.48,
+      "end": 18.56,
+      "audio": 18.48
+     },
+     {
+      "text": "it",
+      "start": 18.64,
+      "end": 18.72,
+      "audio": 18.64
+     },
+     {
+      "text": "stays",
+      "start": 18.76,
+      "end": 18.96,
+      "audio": 18.76
+     },
+     {
+      "text": "up",
+      "start": 19.04,
+      "end": 19.28,
+      "audio": 19.04
+     },
+     {
+      "text": "almost",
+      "start": 19.48,
+      "end": 19.68,
+      "audio": 19.48
+     },
+     {
+      "text": "all",
+      "start": 19.76,
+      "end": 19.92,
+      "audio": 19.76
+     },
+     {
+      "text": "night",
+      "start": 20,
+      "end": 20.24,
+      "audio": 20
+     },
+     {
+      "text": "long.",
+      "start": 20.4,
+      "end": 20.8,
+      "audio": 20.4
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 20.8
+   },
+   {
+    "start": 21.173,
+    "end": 23.6,
+    "words": [
+     {
+      "text": "Will",
+      "start": 21.173,
+      "end": 21.2,
+      "audio": 21.173
+     },
+     {
+      "text": "you",
+      "start": 21.24,
+      "end": 21.28,
+      "audio": 21.24
+     },
+     {
+      "text": "look",
+      "start": 21.36,
+      "end": 21.44,
+      "audio": 21.36
+     },
+     {
+      "text": "up?",
+      "start": 21.52,
+      "end": 22.16,
+      "audio": 21.52
+     },
+     {
+      "text": "Tell",
+      "start": 22.24,
+      "end": 22.32,
+      "audio": 22.24
+     },
+     {
+      "text": "me",
+      "start": 22.4,
+      "end": 22.48,
+      "audio": 22.4
+     },
+     {
+      "text": "where",
+      "start": 22.52,
+      "end": 22.56,
+      "audio": 22.52
+     },
+     {
+      "text": "you're",
+      "start": 22.64,
+      "end": 22.72,
+      "audio": 22.64
+     },
+     {
+      "text": "watching",
+      "start": 22.84,
+      "end": 23.12,
+      "audio": 22.84
+     },
+     {
+      "text": "from.",
+      "start": 23.24,
+      "end": 23.6,
+      "audio": 23.24
+     }
+    ],
+    "hold": 0,
+    "audioEnd": 23.6
+   }
+  ]
+ }
+}
