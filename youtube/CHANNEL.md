@@ -102,3 +102,40 @@ Format z najlepszym „viewed vs swiped away” dostaje 70% kolejnej serii.
 Wszystkie 20 shortów jest gotowych. Ilustracje z Higgsfield (25 sztuk) są w `public/img/`, a ich źródła w
 `content/higgsfield-images.json`. Obiekty bez ilustracji (drzwi, kamienie, zegary, księżyce, tablica rejestracyjna,
 napierśnik, sfera armilarna, mak) szablon rysuje sam w tym samym stylu.
+
+## 10. Długie filmy (16:9) — pierwsza czwórka
+
+Shorty zbierają subskrypcje, długie filmy zbierają **godziny oglądania** (warunek YPP: 1000 subów + 4000 godzin
+publicznego oglądania w 12 miesięcy) i później dają wyższy przychód z reklam. Od **8 minut** można włączyć reklamy
+w środku filmu (mid-roll) — dotyczy L3 i L4.
+
+| Film | Długość | Rola | Publikacja (ET) |
+|---|---|---|---|
+| **L1** Unlucky Numbers Around the World | 7:16 | rozwinięcie najlepszych shortów (4. piętro, 17, 616, 10:10) | nd 25.10, 12:00 |
+| **L2** Angel Numbers 111 to 999 | 6:39 | evergreen pod wyszukiwarkę („444 meaning” itp.) | śr 28.10, 12:00 |
+| **L4** Bedtime Stories of the Moon and Stars | 28:36 | **czas oglądania**: ludzie zasypiają, film leci do końca | pt 30.10, 20:00 |
+| **L3** Every Full Moon of 2027 | 8:30 | sezonowy, rośnie w grudniu–styczniu, rozdział na każdy miesiąc | nd 01.11, 12:00 |
+
+Tytuły, opisy z **rozdziałami (timestampy)**, tagi, przypięte komentarze: `content/UPLOAD-LONG.md`.
+Miniatury: `out/<id>.thumb.jpg`. Po publikacji ustaw longa jako „Related video” w pasującym shorcie (kolumna w arkuszu).
+
+**Jak zbudowane pod retencję:** haczyk i obietnica w pierwszych 20 s („stay for September / six six six / the last
+one”), rozdziały z kartą tytułową i paskiem postępu z kreskami rozdziałów (widz widzi, ile zostało), nowy obraz co
+kilka sekund, napisy słowo po słowie, spokojne przejścia, ekran końcowy z miejscem na kafelki „End screen” (12–14 s).
+Bajka na sen: bez napisów, bez dźwięków przejść, wolne przenikania, po ostatnich słowach obraz gaśnie i zostaje cicha
+muzyka (~4 min) — to standard w kanałach „sleep stories”.
+
+**Koszt czwórki (rzeczywisty):** ElevenLabs ~34 600 kredytów (~6,30 $), transkrypcje 0, Higgsfield 30 ilustracji
+(~1,20 $). Razem **≈ 7,50 $ za 4 długie filmy (~51 min materiału)**.
+
+**Kolejne longi (ten sam proces):**
+1. Scenariusz `content/long/<id>.json` (rozdziały → segmenty `{text, v}`, `parts` = zakresy rozdziałów na jedno
+   nagranie, ~2–3 tys. znaków na część).
+2. `node scripts/tts-text.mjs content/long/<id>.json` → teksty dla ElevenLabs (v4, Frederick Surrey, 1 take),
+   potem transkrypcja Scribe, zapis: `python3 scripts/save-transcripts.py <status.json> <gen_id>=<id>.p1 ...`.
+3. `python3 scripts/build-long.py` → `node scripts/render-long.mjs stills|thumbs|video <id>` →
+   `node scripts/upload-long.mjs`.
+
+Pomysły na następne: „Every Mirror Hour Explained (00:00–23:23)”, „The 12 Chinese Zodiac Animals: The Great Race and
+What Your Year Says”, „Birthstones by Month: the Real History”, kolejne bajki na sen (seria co tydzień — w niszy
+sleep stories regularność wygrywa).
