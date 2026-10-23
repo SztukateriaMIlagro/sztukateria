@@ -1,0 +1,358 @@
+{
+  "series": "Launch batch 1",
+  "notes": "Narration is read segment by segment; each segment gets its own visual. Facts and sources: content/facts.md. Visual types: see src/types.ts.",
+  "shorts": [
+    {
+      "id": "f01-fourth-floor",
+      "format": "fact",
+      "title": "Why Buildings in Asia Skip the 4th Floor",
+      "description": "In Mandarin, Japanese and Korean the word for four sounds like the word for death. That's tetraphobia, and it's why elevators skip floor 4.",
+      "hashtags": ["#numbers", "#superstition", "#didyouknow"],
+      "pinnedComment": "📌 Honest answer: would you take the apartment on floor 4? 🏢 yes / 🚫 no",
+      "segments": [
+        { "text": "This elevator skips a floor.", "v": { "type": "seq", "items": ["1", "2", "3", "4", "5", "6"], "strike": [3] } },
+        { "text": "Not thirteen. Four.", "v": { "type": "title", "big": "4", "sub": "not 13" } },
+        { "text": "In Mandarin, the word for four sounds almost exactly like the word for death.", "v": { "type": "compare", "a": { "big": "四", "sub": "four · sì" }, "b": { "big": "死", "sub": "death · sǐ" }, "op": "≈" } },
+        { "text": "Japanese and Korean have the same echo.", "v": { "type": "compare", "a": { "big": "shi", "sub": "Japanese" }, "b": { "big": "sa", "sub": "Korean" }, "op": "·" } },
+        { "text": "So many buildings in East Asia simply leave it out.", "v": { "type": "image", "img": "tower", "label": "no 4th floor", "move": "in" } },
+        { "text": "Sometimes fourteen and twenty-four disappear too.", "v": { "type": "seq", "items": ["12", "13", "14", "15", "23", "24", "25"], "strike": [2, 5] } },
+        { "text": "It even has a name. Tetraphobia.", "v": { "type": "title", "big": "TETRAPHOBIA", "sub": "fear of the number four" } },
+        { "text": "The West does the same thing with thirteen.", "v": { "type": "title", "big": "13", "sub": "the Western version" } },
+        { "text": "So be honest. Would you take the apartment on floor four?", "v": { "type": "cta", "text": "Floor 4: yes or no?" } }
+      ]
+    },
+    {
+      "id": "f02-lucky-eight",
+      "format": "fact",
+      "title": "Why 8 Is the Luckiest Number in China",
+      "description": "The Beijing Olympics opened at 8 p.m. on 08/08/08. Here's why eight matters so much, and the detail the internet usually gets wrong.",
+      "hashtags": ["#luckynumber", "#numbers", "#didyouknow"],
+      "pinnedComment": "📌 If you could pick ONE lucky number for life, which would it be? 👇",
+      "segments": [
+        { "text": "The Beijing Olympics opened on the eighth day of the eighth month of 2008.", "v": { "type": "date", "big": "08 · 08 · 08", "sub": "Beijing" } },
+        { "text": "At eight in the evening. Not eight-oh-eight, like the internet keeps saying.", "v": { "type": "clock", "time": "8:00", "label": "8 p.m." } },
+        { "text": "None of that was a coincidence.", "v": { "type": "title", "big": "8" } },
+        { "text": "In Mandarin, eight is bā. It sounds a lot like fā, a word tied to wealth and prosperity.", "v": { "type": "compare", "a": { "big": "八", "sub": "eight · bā" }, "b": { "big": "发", "sub": "prosper · fā" }, "op": "≈" } },
+        { "text": "People pay extra for phone numbers and license plates full of eights.", "v": { "type": "image", "img": "license-plate", "overlay": "88 888", "move": "in" } },
+        { "text": "If you could pick one lucky number for the rest of your life, which would it be?", "v": { "type": "cta", "text": "Your lucky number?" } }
+      ]
+    },
+    {
+      "id": "f03-watch-1010",
+      "format": "fact",
+      "title": "Why Every Watch Ad Shows 10:10",
+      "description": "It's not about Lincoln. Watchmakers have a simpler reason, and it used to be 8:20.",
+      "hashtags": ["#didyouknow", "#design", "#watches"],
+      "pinnedComment": "📌 Go check the nearest watch ad. 10:10 or not? ⌚",
+      "segments": [
+        { "text": "Look at almost any watch ad. The time is ten past ten.", "v": { "type": "clock", "time": "10:10", "move": "in" } },
+        { "text": "There's a famous story that it marks the moment Lincoln was shot.", "v": { "type": "image", "img": "tophat", "label": "the story" } },
+        { "text": "Nice story. Watchmakers give a much simpler reason.", "v": { "type": "title", "big": "MYTH", "sub": "probably" } },
+        { "text": "Old ads often used eight-twenty. But eight-twenty looks like a frown.", "v": { "type": "clock", "time": "8:20", "label": "the frown" } },
+        { "text": "Ten-ten looks like a smile. The hands frame the logo, and they never cover the little dials.", "v": { "type": "clock", "time": "10:10", "label": "the smile" } },
+        { "text": "Now you'll see it everywhere.", "v": { "type": "clock", "time": "10:10", "move": "out" } },
+        { "text": "Check the next ad you see, and tell me if I'm wrong.", "v": { "type": "cta", "text": "10:10 or not?" } }
+      ]
+    },
+    {
+      "id": "f04-apollo-13",
+      "format": "fact",
+      "title": "Apollo 13: The Unluckiest Number in Space",
+      "description": "Launched at 13:13 Houston time, oxygen tank exploded on April 13. And all three astronauts came home.",
+      "hashtags": ["#apollo13", "#space", "#numbers"],
+      "pinnedComment": "📌 Was 13 unlucky here, or the luckiest number on board? 🚀",
+      "segments": [
+        { "text": "Apollo 13 might be the unluckiest number in space history. Look at the details.", "v": { "type": "title", "big": "13", "sub": "Apollo" } },
+        { "text": "It launched at thirteen thirteen, Houston time.", "v": { "type": "digital", "time": "13:13", "label": "Houston time" } },
+        { "text": "Two days later, an oxygen tank exploded. On April the thirteenth.", "v": { "type": "date", "big": "APRIL 13", "sub": "1970" } },
+        { "text": "Two hundred thousand miles from home, with the power failing.", "v": { "type": "image", "img": "capsule", "move": "out" } },
+        { "text": "And yet, all three astronauts made it back alive.", "v": { "type": "image", "img": "capsule", "label": "all three home", "move": "in" } },
+        { "text": "So was thirteen unlucky? Or the luckiest number on board?", "v": { "type": "cta", "text": "Unlucky or lucky?" } }
+      ]
+    },
+    {
+      "id": "f05-616",
+      "format": "fact",
+      "title": "The Oldest Copy Says 616, Not 666",
+      "description": "Papyrus 115, the oldest surviving copy of that verse in Revelation, gives the number of the beast as 616.",
+      "hashtags": ["#666", "#history", "#bible"],
+      "pinnedComment": "📌 Did you know about 616 before this? 👍 yes / 🤯 no",
+      "segments": [
+        { "text": "Everyone knows six six six. But the oldest copy we have of that verse says something else.", "v": { "type": "title", "big": "666" } },
+        { "text": "It's a scrap of papyrus from Egypt, written about seventeen hundred years ago.", "v": { "type": "image", "img": "papyrus", "label": "Papyrus 115", "move": "in" } },
+        { "text": "And it gives the number of the beast as six one six.", "v": { "type": "compare", "a": { "big": "666" }, "b": { "big": "616" }, "op": "vs" } },
+        { "text": "This wasn't news to everyone. Back in the second century, a bishop named Irenaeus knew about six one six, and argued against it.", "v": { "type": "title", "big": "IRENAEUS", "sub": "second century" } },
+        { "text": "Most Bibles print six six six. Scholars still debate which came first.", "v": { "type": "compare", "a": { "big": "666", "sub": "most Bibles" }, "b": { "big": "616", "sub": "oldest copy" }, "op": "?" } },
+        { "text": "Did you know about six one six?", "v": { "type": "cta", "text": "Did you know?" } }
+      ]
+    },
+    {
+      "id": "f06-who-invented-angel-numbers",
+      "format": "fact",
+      "title": "Who Invented Angel Numbers?",
+      "description": "Numerology is ancient. Reading 444 on a receipt as a message is not. The surprising story behind angel numbers.",
+      "hashtags": ["#angelnumbers", "#numerology", "#history"],
+      "pinnedComment": "📌 Does the history change what the numbers mean to you? Be honest 👇",
+      "segments": [
+        { "text": "Angel numbers feel ancient. They're not.", "v": { "type": "title", "big": "111 · 222 · 333" } },
+        { "text": "Numerology is old. Pythagoras and his followers believed numbers sat at the heart of everything.", "v": { "type": "image", "img": "pythagoras", "label": "Pythagoras", "move": "in" } },
+        { "text": "But reading four four four on a receipt as a message? That's modern.", "v": { "type": "image", "img": "receipt", "overlay": "444" } },
+        { "text": "The idea took off in the two thousands, through the books of a New Age author named Doreen Virtue.", "v": { "type": "image", "img": "book-feather", "label": "Angel Numbers 101 · 2008" } },
+        { "text": "And here's the twist. In 2017, she became a Christian and renounced her New Age beliefs.", "v": { "type": "title", "big": "2017", "sub": "the twist" } },
+        { "text": "Does that change what the numbers mean to you?", "v": { "type": "cta", "text": "Does it change anything?" } }
+      ]
+    },
+    {
+      "id": "f07-why-1111-follows-you",
+      "format": "fact",
+      "title": "Why 11:11 Keeps Following You",
+      "description": "The frequency illusion explains why you notice 11:11 and not 10:48. But it doesn't explain what you were thinking about.",
+      "hashtags": ["#1111", "#psychology", "#angelnumbers"],
+      "pinnedComment": "📌 What were you thinking about the last time you saw 11:11? 🕚",
+      "segments": [
+        { "text": "You look at the clock. It's eleven eleven. Again.", "v": { "type": "digital", "time": "11:11" } },
+        { "text": "There's a name for this. The frequency illusion.", "v": { "type": "title", "big": "FREQUENCY ILLUSION" } },
+        { "text": "Once something matters to you, your brain starts flagging it. You never notice ten forty-eight. But every eleven eleven jumps out.", "v": { "type": "compare", "a": { "big": "10:48", "sub": "ignored" }, "b": { "big": "11:11", "sub": "noticed" }, "op": "vs" } },
+        { "text": "A linguist, Arnold Zwicky, gave it that name in the mid two thousands.", "v": { "type": "title", "big": "ZWICKY", "sub": "linguist · mid-2000s" } },
+        { "text": "So is it just your brain? Maybe. But your brain chose to notice. The real question is what you were thinking about when you saw it.", "v": { "type": "image", "img": "head-profile", "label": "what were you thinking?", "move": "in" } },
+        { "text": "What was on your mind the last time you saw eleven eleven?", "v": { "type": "cta", "text": "What was on your mind?" } }
+      ]
+    },
+    {
+      "id": "f08-cat-zodiac",
+      "format": "fact",
+      "title": "Why the Cat Isn't in the Chinese Zodiac",
+      "description": "The legend of the Great Race, the rat's trick, and the country where the cat made it into the zodiac after all.",
+      "hashtags": ["#chinesezodiac", "#cats", "#legend"],
+      "pinnedComment": "📌 Team cat 🐈 or team rabbit 🐇?",
+      "segments": [
+        { "text": "There are twelve animals in the Chinese zodiac. The cat isn't one of them.", "v": { "type": "image", "img": "cat", "label": "missing", "move": "in" } },
+        { "text": "Legend says the Jade Emperor called a great race across a river.", "v": { "type": "image", "img": "river", "move": "left" } },
+        { "text": "The rat promised to wake the cat on race day. It didn't.", "v": { "type": "image", "img": "rat", "move": "right" } },
+        { "text": "The rat came first. The cat came too late. And cats have been chasing rats ever since.", "v": { "type": "compare", "a": { "img": "rat", "sub": "first" }, "b": { "img": "cat", "sub": "too late" }, "op": "→" } },
+        { "text": "But in Vietnam, the cat made it. Their zodiac has a cat where China has the rabbit.", "v": { "type": "compare", "a": { "img": "rabbit", "sub": "China" }, "b": { "img": "cat", "sub": "Vietnam" }, "op": "vs" } },
+        { "text": "So, team cat or team rabbit?", "v": { "type": "cta", "text": "Team cat or team rabbit?" } }
+      ]
+    },
+    {
+      "id": "f09-seven-day-week",
+      "format": "fact",
+      "title": "Why a Week Has 7 Days",
+      "description": "Seven moving lights in the sky, one for each day. You can still hear them in the names of the week.",
+      "hashtags": ["#history", "#astronomy", "#didyouknow"],
+      "pinnedComment": "📌 Favorite day of the week, and why? 👇",
+      "segments": [
+        { "text": "Why does a week have seven days? Look up.", "v": { "type": "image", "img": "armillary", "move": "in" } },
+        { "text": "Ancient sky watchers could see seven lights moving against the stars. The Sun, the Moon, Mars, Mercury, Jupiter, Venus and Saturn.", "v": { "type": "seq", "items": ["Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn"], "stagger": true } },
+        { "text": "Each one got a day. You can still hear them.", "v": { "type": "title", "big": "7" } },
+        { "text": "Sunday, the Sun. Monday, the Moon. Saturday, Saturn.", "v": { "type": "seq", "items": ["Sun·day", "Moon·day", "Saturn·day"], "stagger": true } },
+        { "text": "In Spanish, the others are still there. Martes, miércoles, jueves, viernes.", "v": { "type": "seq", "items": ["martes", "miércoles", "jueves", "viernes"], "stagger": true } },
+        { "text": "English swapped them for Norse gods. Tiw, Woden, Thor and Frigg.", "v": { "type": "seq", "items": ["Tues", "Wednes", "Thurs", "Fri"], "stagger": true } },
+        { "text": "What's your favorite day of the week? And why?", "v": { "type": "cta", "text": "Your favorite day?" } }
+      ]
+    },
+    {
+      "id": "f10-birthstones-1912",
+      "format": "fact",
+      "title": "Your Birthstone Was Picked at a Meeting",
+      "description": "In 1912, American jewelers met in Kansas City and agreed on one official birthstone list. It has been updated since.",
+      "hashtags": ["#birthstone", "#crystals", "#history"],
+      "pinnedComment": "📌 Your birth month and stone. Do you actually like it? 💎",
+      "segments": [
+        { "text": "Your birthstone was chosen at a jewelers' meeting.", "v": { "type": "image", "img": "gem", "move": "in" } },
+        { "text": "In 1912, the American National Association of Jewelers met in Kansas City and agreed on one official list.", "v": { "type": "date", "big": "1912", "sub": "Kansas City" } },
+        { "text": "Older traditions tied twelve stones to the months, and to the twelve stones of Aaron's breastplate in the Bible.", "v": { "type": "image", "img": "breastplate", "label": "Aaron's breastplate" } },
+        { "text": "But the list most people use today is a modern standard. And it still changes.", "v": { "type": "title", "big": "UPDATED" } },
+        { "text": "Tanzanite joined December in 2002. Spinel joined August in 2016.", "v": { "type": "compare", "a": { "big": "2002", "sub": "tanzanite" }, "b": { "big": "2016", "sub": "spinel" }, "op": "·" } },
+        { "text": "Do you actually like your birthstone? Tell me your month.", "v": { "type": "cta", "text": "Your month + stone?" } }
+      ]
+    },
+    {
+      "id": "p01-pick-a-door",
+      "format": "pick",
+      "title": "Pause and Pick a Door 🚪",
+      "description": "Pick one door before the reveal. Each message is built on the meaning of its number: 1 for beginnings, 2 for patience, 3 for expression.",
+      "hashtags": ["#pickacard", "#angelnumbers", "#message"],
+      "pinnedComment": "📌 Which door did you pick? Comment 1, 2 or 3 🚪",
+      "segments": [
+        { "text": "Pause the video. Pick a door.", "v": { "type": "pick", "options": [ { "img": "door", "big": "1" }, { "img": "door", "big": "2" }, { "img": "door", "big": "3" } ] }, "hold": 2.2 },
+        { "text": "Door one.", "v": { "type": "reveal", "index": 0, "word": "A first step" } },
+        { "text": "One is the number of beginnings. You've been waiting for the right moment. This is your nudge to take one small first step, yourself, today.", "v": { "type": "reveal", "index": 0, "word": "A first step" } },
+        { "text": "Door two.", "v": { "type": "reveal", "index": 1, "word": "Patience" } },
+        { "text": "Two is balance and partnership. Something you want needs another person, or more time. Don't force it. Let it meet you halfway.", "v": { "type": "reveal", "index": 1, "word": "Patience" } },
+        { "text": "Door three.", "v": { "type": "reveal", "index": 2, "word": "Say it" } },
+        { "text": "Three is expression. There's something you've been holding back. Say it, write it, make it. Lightly.", "v": { "type": "reveal", "index": 2, "word": "Say it" } },
+        { "text": "Which door did you pick? One, two or three?", "v": { "type": "cta", "text": "1, 2 or 3?" } }
+      ]
+    },
+    {
+      "id": "p02-pick-a-moon",
+      "format": "pick",
+      "title": "Pause and Pick a Moon 🌙",
+      "description": "Pick a moon before the reveal. Each message follows the traditional symbolism of its phase.",
+      "hashtags": ["#moon", "#pickacard", "#moonphase"],
+      "pinnedComment": "📌 Which moon did you pick? 🌑 🌓 🌕",
+      "segments": [
+        { "text": "Pause the video. Pick a moon.", "v": { "type": "pick", "options": [ { "moon": "new", "label": "I" }, { "moon": "quarter", "label": "II" }, { "moon": "full", "label": "III" } ] }, "hold": 2.2 },
+        { "text": "The first moon. The new moon.", "v": { "type": "reveal", "index": 0, "word": "Plant it" } },
+        { "text": "The new moon is the dark start of the cycle, traditionally a time to set intentions. Whatever you've been circling, write it down tonight, in one sentence.", "v": { "type": "reveal", "index": 0, "word": "Plant it" } },
+        { "text": "The second moon. The half moon.", "v": { "type": "reveal", "index": 1, "word": "Decide" } },
+        { "text": "The first quarter is half light, half dark. It's read as a moment of decision. You already know which way you're leaning. Trust it.", "v": { "type": "reveal", "index": 1, "word": "Decide" } },
+        { "text": "The third moon. The full moon.", "v": { "type": "reveal", "index": 2, "word": "Let go" } },
+        { "text": "The full moon is the peak, and what comes after a peak is release. Something has run its course. You're allowed to put it down.", "v": { "type": "reveal", "index": 2, "word": "Let go" } },
+        { "text": "Which moon did you pick?", "v": { "type": "cta", "text": "I, II or III?" } }
+      ]
+    },
+    {
+      "id": "p03-pick-a-crystal",
+      "format": "pick",
+      "title": "Pause and Pick a Crystal 💎",
+      "description": "Pick one before the reveal. Amethyst, rose quartz or citrine, read through traditional crystal lore.",
+      "hashtags": ["#crystals", "#pickacard", "#amethyst"],
+      "pinnedComment": "📌 Which crystal did you pick? 💜 🩷 💛",
+      "segments": [
+        { "text": "Pause the video. Pick a crystal.", "v": { "type": "pick", "options": [ { "img": "amethyst", "label": "I" }, { "img": "rose-quartz", "label": "II" }, { "img": "citrine", "label": "III" } ] }, "hold": 2.2 },
+        { "text": "The first crystal. Amethyst.", "v": { "type": "reveal", "index": 0, "word": "Rest" } },
+        { "text": "In crystal lore, amethyst is the stone of calm. You've been running on too little sleep and too much noise. Tonight, choose rest on purpose.", "v": { "type": "reveal", "index": 0, "word": "Rest" } },
+        { "text": "The second crystal. Rose quartz.", "v": { "type": "reveal", "index": 1, "word": "Be kind" } },
+        { "text": "Rose quartz is the stone of gentle love, and it starts at home. Talk to yourself today the way you'd talk to a friend.", "v": { "type": "reveal", "index": 1, "word": "Be kind" } },
+        { "text": "The third crystal. Citrine.", "v": { "type": "reveal", "index": 2, "word": "Shine" } },
+        { "text": "Citrine is the stone of warmth and confidence. You've been playing small. Share the thing you're proud of.", "v": { "type": "reveal", "index": 2, "word": "Shine" } },
+        { "text": "Which crystal did you pick?", "v": { "type": "cta", "text": "I, II or III?" } }
+      ]
+    },
+    {
+      "id": "p04-pick-a-time",
+      "format": "pick",
+      "title": "Pause and Pick a Time 🕰️",
+      "description": "Pick a mirror hour before the reveal: 11:11, 12:12 or 22:22, read through the digits they're made of.",
+      "hashtags": ["#1111", "#mirrorhour", "#angelnumbers"],
+      "pinnedComment": "📌 Which time did you pick? And which one do you actually see most? 🕚",
+      "segments": [
+        { "text": "Pause the video. Pick a time.", "v": { "type": "pick", "options": [ { "big": "11:11" }, { "big": "12:12" }, { "big": "22:22" } ] }, "hold": 2.2 },
+        { "text": "Eleven eleven.", "v": { "type": "reveal", "index": 0, "word": "Wake up" } },
+        { "text": "Four ones in a row, read as a moment of awakening. Notice where your attention is right now. If you could wish for one thing, name it clearly.", "v": { "type": "reveal", "index": 0, "word": "Wake up" } },
+        { "text": "Twelve twelve.", "v": { "type": "reveal", "index": 1, "word": "Balance" } },
+        { "text": "One and two, taking turns. You and other people. Are you giving to them and to yourself in fair measure?", "v": { "type": "reveal", "index": 1, "word": "Balance" } },
+        { "text": "Twenty-two twenty-two.", "v": { "type": "reveal", "index": 2, "word": "Rest" } },
+        { "text": "Only twos, the digit of trust. Read as reassurance. What you're building is steady enough to leave overnight.", "v": { "type": "reveal", "index": 2, "word": "Rest" } },
+        { "text": "Which time did you pick?", "v": { "type": "cta", "text": "Which time?" } }
+      ]
+    },
+    {
+      "id": "m01-birth-month-moon",
+      "format": "find",
+      "title": "Find Your Birth Month: Your Full Moon 🌕",
+      "description": "Every month's full moon has a traditional name. Find yours.",
+      "hashtags": ["#fullmoon", "#birthmonth", "#moon"],
+      "pinnedComment": "📌 Comment your birth month and moon. Does the name suit you? 🌕",
+      "segments": [
+        { "text": "Find your birth month. This is the full moon named after it.", "v": { "type": "grid", "items": [
+          { "a": "JAN", "b": "Wolf" }, { "a": "FEB", "b": "Snow" }, { "a": "MAR", "b": "Worm" },
+          { "a": "APR", "b": "Pink" }, { "a": "MAY", "b": "Flower" }, { "a": "JUN", "b": "Strawberry" },
+          { "a": "JUL", "b": "Buck" }, { "a": "AUG", "b": "Sturgeon" }, { "a": "SEP", "b": "Corn" },
+          { "a": "OCT", "b": "Hunter's" }, { "a": "NOV", "b": "Beaver" }, { "a": "DEC", "b": "Cold" } ], "show": [-1, -1] } },
+        { "text": "January, the Wolf Moon. February, the Snow Moon. March, the Worm Moon.", "v": { "type": "grid", "show": [0, 2] } },
+        { "text": "April, the Pink Moon. May, the Flower Moon. June, the Strawberry Moon.", "v": { "type": "grid", "show": [3, 5] } },
+        { "text": "July, the Buck Moon. August, the Sturgeon Moon. September, the Corn Moon.", "v": { "type": "grid", "show": [6, 8] } },
+        { "text": "October, the Hunter's Moon. November, the Beaver Moon. December, the Cold Moon.", "v": { "type": "grid", "show": [9, 11] } },
+        { "text": "Most of these names reached us through old American farmers' almanacs.", "v": { "type": "moon", "phase": "full", "label": "the almanac names" } },
+        { "text": "Which moon is yours? And does it suit you?", "v": { "type": "cta", "text": "Your month + moon?" } }
+      ]
+    },
+    {
+      "id": "m02-birth-month-birthstone",
+      "format": "find",
+      "title": "Find Your Birth Month: Your Birthstone 💎",
+      "description": "The modern birthstone list, month by month.",
+      "hashtags": ["#birthstone", "#birthmonth", "#crystals"],
+      "pinnedComment": "📌 Comment your month 💎 Which stone would you swap yours for?",
+      "segments": [
+        { "text": "Pause on your birth month. This is your birthstone.", "v": { "type": "grid", "items": [
+          { "a": "JAN", "b": "Garnet" }, { "a": "FEB", "b": "Amethyst" }, { "a": "MAR", "b": "Aquamarine" },
+          { "a": "APR", "b": "Diamond" }, { "a": "MAY", "b": "Emerald" }, { "a": "JUN", "b": "Pearl" },
+          { "a": "JUL", "b": "Ruby" }, { "a": "AUG", "b": "Peridot" }, { "a": "SEP", "b": "Sapphire" },
+          { "a": "OCT", "b": "Opal" }, { "a": "NOV", "b": "Topaz" }, { "a": "DEC", "b": "Turquoise" } ], "show": [-1, -1] } },
+        { "text": "January, garnet. February, amethyst. March, aquamarine.", "v": { "type": "grid", "show": [0, 2] } },
+        { "text": "April, diamond. May, emerald. June, pearl.", "v": { "type": "grid", "show": [3, 5] } },
+        { "text": "July, ruby. August, peridot. September, sapphire.", "v": { "type": "grid", "show": [6, 8] } },
+        { "text": "October, opal. November, topaz. December, turquoise.", "v": { "type": "grid", "show": [9, 11] } },
+        { "text": "Some months have more than one. June also has moonstone. October has tourmaline.", "v": { "type": "image", "img": "gem", "label": "some months have two" } },
+        { "text": "If you could swap yours, which one would you take?", "v": { "type": "cta", "text": "Which would you swap to?" } }
+      ]
+    },
+    {
+      "id": "m03-life-path-20-seconds",
+      "format": "find",
+      "title": "Find Your Life Path Number in 20 Seconds",
+      "description": "Reduce the month, the day and the year, then add them. Worked example and the master number rule. Full calculator: thesignsandmeanings.com",
+      "hashtags": ["#lifepathnumber", "#numerology", "#birthday"],
+      "pinnedComment": "📌 Comment your life path number 👇 I'll reply with its one-word meaning.",
+      "segments": [
+        { "text": "Your life path number takes twenty seconds. Grab your birthday.", "v": { "type": "title", "big": "LIFE PATH", "sub": "20 seconds" } },
+        { "text": "Let's use July the fourth, 1990.", "v": { "type": "date", "big": "07 · 04 · 1990" } },
+        { "text": "Reduce each part to one digit. The month is seven. The day is four.", "v": { "type": "sum", "digits": ["7", "4"], "total": "7 · 4" } },
+        { "text": "The year: one plus nine plus nine plus zero is nineteen. One plus nine is ten. One plus zero is one.", "v": { "type": "sum", "digits": ["1", "9", "9", "0"], "total": "1" } },
+        { "text": "Now add them. Seven plus four plus one is twelve. One plus two is three.", "v": { "type": "sum", "digits": ["7", "4", "1"], "total": "3" } },
+        { "text": "Life path three. The communicator. Creative, expressive, joyful.", "v": { "type": "title", "big": "3", "sub": "the communicator" } },
+        { "text": "One rule. If you land on eleven, twenty-two or thirty-three, stop. Those are master numbers.", "v": { "type": "seq", "items": ["11", "22", "33"], "stagger": true } },
+        { "text": "Now do yours. What did you get?", "v": { "type": "cta", "text": "Your life path?" } }
+      ]
+    },
+    {
+      "id": "m04-chinese-zodiac-year",
+      "format": "find",
+      "title": "Find Your Birth Year: Your Chinese Zodiac Animal",
+      "description": "Pause on your birth year. Born in January or early February? Check the Lunar New Year date, you may be the animal before.",
+      "hashtags": ["#chinesezodiac", "#zodiac", "#birthyear"],
+      "pinnedComment": "📌 Comment your animal 🐉 Born in Jan/Feb? Tell me and I'll check it for you.",
+      "segments": [
+        { "text": "Pause on your birth year. This is your Chinese zodiac animal.", "v": { "type": "grid", "cols": 3, "items": [
+          { "a": "Rat", "b": "84 · 96 · 08", "img": "z-rat" }, { "a": "Ox", "b": "85 · 97 · 09", "img": "z-ox" }, { "a": "Tiger", "b": "86 · 98 · 10", "img": "z-tiger" },
+          { "a": "Rabbit", "b": "87 · 99 · 11", "img": "z-rabbit" }, { "a": "Dragon", "b": "88 · 00 · 12", "img": "z-dragon" }, { "a": "Snake", "b": "89 · 01 · 13", "img": "z-snake" },
+          { "a": "Horse", "b": "90 · 02 · 14", "img": "z-horse" }, { "a": "Goat", "b": "91 · 03 · 15", "img": "z-goat" }, { "a": "Monkey", "b": "92 · 04 · 16", "img": "z-monkey" },
+          { "a": "Rooster", "b": "93 · 05 · 17", "img": "z-rooster" }, { "a": "Dog", "b": "94 · 06 · 18", "img": "z-dog" }, { "a": "Pig", "b": "95 · 07 · 19", "img": "z-pig" } ], "show": [-1, -1] } },
+        { "text": "Rat. Ox. Tiger. Rabbit.", "v": { "type": "grid", "show": [0, 3] } },
+        { "text": "Dragon. Snake. Horse. Goat.", "v": { "type": "grid", "show": [4, 7] } },
+        { "text": "Monkey. Rooster. Dog. Pig.", "v": { "type": "grid", "show": [8, 11] } },
+        { "text": "Born in January or early February? Careful. The year starts at Lunar New Year, so you might be the animal before.", "v": { "type": "title", "big": "JAN · FEB?", "sub": "check Lunar New Year" } },
+        { "text": "Twenty twenty-six is the Year of the Horse. Twenty twenty-seven belongs to the Goat.", "v": { "type": "compare", "a": { "img": "z-horse", "sub": "2026" }, "b": { "img": "z-goat", "sub": "2027" }, "op": "→" } },
+        { "text": "Which animal are you?", "v": { "type": "cta", "text": "Your animal?" } }
+      ]
+    },
+    {
+      "id": "t01-11-11-day",
+      "format": "timely",
+      "publish": "2026-11-10",
+      "title": "11/11: Why This Date Mattered Long Before Angel Numbers",
+      "description": "The First World War ended at the eleventh hour of the eleventh day of the eleventh month, 1918.",
+      "hashtags": ["#1111", "#remembranceday", "#angelnumbers"],
+      "pinnedComment": "📌 What would you wish for at 11:11 today? 🕚",
+      "segments": [
+        { "text": "The eleventh of November. Eleven, eleven.", "v": { "type": "date", "big": "11 · 11" } },
+        { "text": "For a lot of people, it's the biggest day of the year to make a wish.", "v": { "type": "digital", "time": "11:11" } },
+        { "text": "But this date carried weight long before angel numbers.", "v": { "type": "title", "big": "1918" } },
+        { "text": "The First World War ended at the eleventh hour of the eleventh day of the eleventh month.", "v": { "type": "date", "big": "11:00 · 11 · 11", "sub": "1918" } },
+        { "text": "That's why many countries still fall silent at eleven in the morning on this day.", "v": { "type": "image", "img": "poppy", "label": "remembrance", "move": "in" } },
+        { "text": "So if you make a wish at eleven eleven, maybe save a moment for them too.", "v": { "type": "digital", "time": "11:11" } },
+        { "text": "What would you wish for today?", "v": { "type": "cta", "text": "Your 11:11 wish?" } }
+      ]
+    },
+    {
+      "id": "t02-closest-full-moon-2026",
+      "format": "timely",
+      "publish": "2026-12-22",
+      "title": "The Closest Full Moon of 2026 Is This Week",
+      "description": "The full moon on the night of December 23 to 24 is the closest full moon of 2026: about 356,700 km away. December's full moon is traditionally the Cold Moon.",
+      "hashtags": ["#fullmoon", "#coldmoon", "#moon"],
+      "pinnedComment": "📌 Where are you watching from? 🌕",
+      "segments": [
+        { "text": "Look up this week. The full moon on the night of December twenty-third is the closest of the year.", "v": { "type": "moon", "phase": "full", "move": "in" } },
+        { "text": "About three hundred fifty-six thousand kilometers away. Two hundred twenty-one thousand miles.", "v": { "type": "title", "big": "356,700 km", "sub": "221,700 miles" } },
+        { "text": "December's full moon is traditionally called the Cold Moon.", "v": { "type": "title", "big": "COLD MOON" } },
+        { "text": "And in winter, the full moon rides high, so it stays up almost all night long.", "v": { "type": "moon", "phase": "full", "label": "up all night", "move": "out" } },
+        { "text": "Will you look up? Tell me where you're watching from.", "v": { "type": "cta", "text": "Watching from?" } }
+      ]
+    }
+  ]
+}
