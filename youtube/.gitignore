@@ -3,3 +3,4 @@ out/frames/
 .env
 out/*.raw.mp4
 out/frames/
+out/logs/

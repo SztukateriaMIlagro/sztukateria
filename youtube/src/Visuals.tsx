@@ -338,7 +338,44 @@ const Cta: React.FC<VisualProps> = ({ v, frame, fps }) => {
   );
 };
 
+// Long-form chapter card: kicker ("Number 3", "January"), big title, rule, subtitle.
+const Chapter: React.FC<VisualProps> = ({ v, frame, dur }) => {
+  const kicker: string = v.kicker ?? (v.n ? `Number ${v.n}` : '');
+  const line = ramp(frame, 6, 16);
+  return (
+    <Stage style={{ gap: 30 }}>
+      {kicker ? <div style={{ ...smallCaps, fontSize: 38, letterSpacing: '0.36em', opacity: ramp(frame, 0, 10) }}>{kicker}</div> : null}
+      <div style={{ transform: drift(frame, dur, 'in'), ...enter(frame, false), textAlign: 'center' }}>
+        <div style={{ fontFamily: SERIF, fontWeight: 700, fontSize: fit(v.title, 300, 860), lineHeight: 1, ...goldText }}>{v.title}</div>
+      </div>
+      <div style={{ width: 520 * line, height: 2, background: C.gold, opacity: 0.7 }} />
+      <Sub text={v.sub} frame={frame} delay={12} size={36} />
+    </Stage>
+  );
+};
+
+// Sleep stories: a constellation slowly drawing itself, nothing else.
+const Stars: React.FC<VisualProps> = ({ frame, fps, dur }) => {
+  const pts = [
+    [300, 420], [430, 330], [560, 400], [690, 300], [760, 470], [600, 560], [470, 640], [350, 600],
+  ];
+  const draw = ramp(frame, 0, Math.round(fps * 4));
+  const p = interpolate(frame, [0, Math.max(dur, 1)], [0, 1], { extrapolateRight: 'clamp' });
+  return (
+    <Stage>
+      <svg width={860} height={900} viewBox="0 0 1000 1000" style={{ transform: `rotate(${p * 6 - 3}deg) scale(${1 + 0.05 * p})`, opacity: 0.9 }}>
+        <polyline points={pts.map((q) => q.join(',')).join(' ')} fill="none" stroke={C.gold} strokeWidth="2" opacity={0.45} pathLength={1} strokeDasharray={1} strokeDashoffset={1 - draw} />
+        {pts.map(([x, y], i) => (
+          <circle key={i} cx={x} cy={y} r={7 + (i % 3) * 3} fill={C.goldSoft} opacity={(0.5 + 0.5 * Math.abs(Math.sin(frame / fps + i))) * Math.min(1, draw * 2)} style={{ filter: 'drop-shadow(0 0 12px rgba(246,230,196,0.8))' }} />
+        ))}
+      </svg>
+    </Stage>
+  );
+};
+
 const MAP: Record<string, React.FC<VisualProps>> = {
+  chapter: Chapter,
+  stars: Stars,
   title: Title,
   seq: Seq,
   compare: Compare,

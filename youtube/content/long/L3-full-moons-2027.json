@@ -1,0 +1,949 @@
+{
+ "id": "L3-full-moons-2027",
+ "title": "Every Full Moon of 2027: Names, Meanings & Exact Dates",
+ "description": "All 12 full moons of 2027, month by month: the Wolf Moon supermoon, the Snow Moon eclipse, the Harvest Moon, the August 2 total solar eclipse and more. Where each moon name comes from, what it is traditionally said to mean, and the exact date and time (US Eastern).",
+ "tags": [
+  "full moon 2027",
+  "full moon calendar 2027",
+  "wolf moon 2027",
+  "harvest moon 2027",
+  "supermoon 2027",
+  "moon names",
+  "full moon meaning",
+  "solar eclipse 2027",
+  "strawberry moon",
+  "cold moon"
+ ],
+ "thumbnail": {
+  "big": "2027",
+  "line": "Every full moon",
+  "img": "wolf",
+  "moon": true
+ },
+ "chapters": [
+  {
+   "title": "Intro",
+   "segments": [
+    {
+     "text": "Twelve full moons will rise in 2027.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "2027"
+     }
+    },
+    {
+     "text": "One will be the closest of the year. One will be the farthest. And a few will slip into the edge of Earth's shadow.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Closest",
+       "Farthest",
+       "Eclipsed"
+      ]
+     }
+    },
+    {
+     "text": "And in between, the Moon will hide the Sun for more than six minutes, in one of the longest total solar eclipses of the century.",
+     "v": {
+      "type": "moon",
+      "phase": "new",
+      "label": "August 2, 2027"
+     }
+    },
+    {
+     "text": "In this video, we'll go month by month. The name of each full moon, where it came from, what it's traditionally said to mean, and the exact date and time to look up.",
+     "v": {
+      "type": "grid",
+      "cols": 4,
+      "items": [
+       {
+        "a": "Jan 22",
+        "b": "Wolf",
+        "img": "wolf"
+       },
+       {
+        "a": "Feb 20",
+        "b": "Snow",
+        "img": "snow-pine"
+       },
+       {
+        "a": "Mar 22",
+        "b": "Worm",
+        "img": "robin"
+       },
+       {
+        "a": "Apr 20",
+        "b": "Pink",
+        "img": "phlox"
+       },
+       {
+        "a": "May 20",
+        "b": "Flower",
+        "img": "bouquet"
+       },
+       {
+        "a": "Jun 18",
+        "b": "Strawberry",
+        "img": "strawberry"
+       },
+       {
+        "a": "Jul 18",
+        "b": "Buck",
+        "img": "buck"
+       },
+       {
+        "a": "Aug 17",
+        "b": "Sturgeon",
+        "img": "sturgeon"
+       },
+       {
+        "a": "Sep 15",
+        "b": "Harvest",
+        "img": "harvest-basket"
+       },
+       {
+        "a": "Oct 15",
+        "b": "Hunter's",
+        "img": "hunting-horn"
+       },
+       {
+        "a": "Nov 13",
+        "b": "Beaver",
+        "img": "beaver"
+       },
+       {
+        "a": "Dec 13",
+        "b": "Cold",
+        "img": "snowflake"
+       }
+      ],
+      "show": [
+       -1,
+       -1
+      ]
+     }
+    },
+    {
+     "text": "Find your birthday month. And stay for September. It does something no other full moon does.",
+     "v": {
+      "type": "title",
+      "big": "2027",
+      "sub": "month by month"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Where the names come from",
+   "segments": [
+    {
+     "text": "Where the names come from.",
+     "v": {
+      "type": "chapter",
+      "kicker": "Before we start",
+      "title": "The Names",
+      "sub": "where they come from"
+     }
+    },
+    {
+     "text": "Most of the names we use today, Wolf, Snow, Worm, Pink, were popularized by the Old Farmer's Almanac.",
+     "v": {
+      "type": "image",
+      "img": "book-feather",
+      "move": "in",
+      "label": "the Old Farmer's Almanac"
+     }
+    },
+    {
+     "text": "The almanac attributes them to Native American and early colonial traditions, and each one points to something happening in nature that month.",
+     "v": {
+      "type": "image",
+      "img": "papyrus",
+      "move": "in",
+      "label": "many traditions"
+     }
+    },
+    {
+     "text": "Different nations used different names, so the list we know today is a simplified version.",
+     "v": {
+      "type": "title",
+      "big": "12 NAMES",
+      "sub": "one for each month"
+     }
+    },
+    {
+     "text": "They follow the seasons of the Northern Hemisphere. In Australia, a Snow Moon arrives in the middle of summer.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "North",
+       "sub": "snow"
+      },
+      "b": {
+       "big": "South",
+       "sub": "summer"
+      },
+      "op": "vs"
+     }
+    },
+    {
+     "text": "All times in this video are Eastern time, on the US East Coast. The Moon looks full for about three nights, so the night before or after works too.",
+     "v": {
+      "type": "title",
+      "big": "3 NIGHTS",
+      "sub": "it looks full"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Wolf Moon",
+   "segments": [
+    {
+     "text": "January. The Wolf Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "January",
+      "title": "Wolf Moon",
+      "sub": "Jan 22"
+     }
+    },
+    {
+     "text": "The name comes from wolves heard howling in the deep cold of midwinter.",
+     "v": {
+      "type": "image",
+      "img": "wolf",
+      "move": "in"
+     }
+    },
+    {
+     "text": "It's read as a moon of instinct, belonging and resolve. A time to listen to your gut, and set a steady course for the year.",
+     "v": {
+      "type": "title",
+      "big": "INSTINCT",
+      "sub": "belonging · resolve"
+     }
+    },
+    {
+     "text": "And in 2027, it's also the biggest full moon of the year.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "closest of 2027"
+     }
+    },
+    {
+     "text": "On January twenty-second, the Moon will be about three hundred and fifty-seven thousand kilometres away. That's around two hundred and twenty-two thousand miles.",
+     "v": {
+      "type": "title",
+      "big": "357,635 km",
+      "sub": "about 222,000 miles"
+     }
+    },
+    {
+     "text": "Compared with the smallest full moon of the year, it will look about thirteen percent wider. A supermoon.",
+     "v": {
+      "type": "title",
+      "big": "SUPERMOON",
+      "sub": "13% wider"
+     }
+    },
+    {
+     "text": "It's full at seven seventeen in the morning, Eastern time. So the best view is the night before, and again on the evening of the twenty-second.",
+     "v": {
+      "type": "date",
+      "big": "JAN 22",
+      "sub": "7:17 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Snow Moon",
+   "segments": [
+    {
+     "text": "February. The Snow Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "February",
+      "title": "Snow Moon",
+      "sub": "Feb 20"
+     }
+    },
+    {
+     "text": "February often brings the heaviest snow of the northern winter.",
+     "v": {
+      "type": "image",
+      "img": "snow-pine",
+      "move": "in"
+     }
+    },
+    {
+     "text": "It's also called the Hunger Moon, because food used to run short this late in winter.",
+     "v": {
+      "type": "title",
+      "big": "HUNGER MOON",
+      "sub": "another name"
+     }
+    },
+    {
+     "text": "It stands for stillness, endurance and patient preparation. Rest now. The thaw is coming.",
+     "v": {
+      "type": "title",
+      "big": "STILLNESS",
+      "sub": "endurance · renewal"
+     }
+    },
+    {
+     "text": "It's full on February twentieth, at six twenty-four in the evening, Eastern time.",
+     "v": {
+      "type": "date",
+      "big": "FEB 20",
+      "sub": "6:24 PM ET"
+     }
+    },
+    {
+     "text": "That night, the Moon also slides through the faint outer edge of Earth's shadow. A penumbral eclipse. Don't expect a red moon. The change is a soft grey shading that many people never notice.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "penumbral eclipse"
+     }
+    },
+    {
+     "text": "Two weeks earlier, on February sixth, the Lunar New Year begins. Twenty twenty-seven is the Year of the Goat.",
+     "v": {
+      "type": "image",
+      "img": "z-goat",
+      "move": "in",
+      "label": "Year of the Goat"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Worm Moon",
+   "segments": [
+    {
+     "text": "March. The Worm Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "March",
+      "title": "Worm Moon",
+      "sub": "Mar 22"
+     }
+    },
+    {
+     "text": "As the ground thaws, earthworms return, and so do the birds that feed on them.",
+     "v": {
+      "type": "image",
+      "img": "robin",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Other names are the Sap Moon, the Crow Moon and the Lenten Moon.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Sap Moon",
+       "Crow Moon",
+       "Lenten Moon"
+      ]
+     }
+    },
+    {
+     "text": "It's read as a moon of awakening. Loosen what went stiff over winter, and begin again.",
+     "v": {
+      "type": "title",
+      "big": "AWAKENING",
+      "sub": "thaw · renewal"
+     }
+    },
+    {
+     "text": "In 2027, it's full on March twenty-second, at six forty-four in the morning, two days after the spring equinox.",
+     "v": {
+      "type": "date",
+      "big": "MAR 22",
+      "sub": "6:44 AM ET"
+     }
+    },
+    {
+     "text": "That makes it the first full moon of spring, the moon that sets the date of Easter. Easter falls on the following Sunday, March twenty-eighth.",
+     "v": {
+      "type": "date",
+      "big": "MAR 28",
+      "sub": "Easter Sunday"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Pink Moon",
+   "segments": [
+    {
+     "text": "April. The Pink Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "April",
+      "title": "Pink Moon",
+      "sub": "Apr 20"
+     }
+    },
+    {
+     "text": "Here's the catch. It isn't pink.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "not actually pink"
+     }
+    },
+    {
+     "text": "The name comes from wild ground phlox, one of the first flowers to bloom in spring in eastern North America.",
+     "v": {
+      "type": "image",
+      "img": "phlox",
+      "move": "in",
+      "label": "wild ground phlox"
+     }
+    },
+    {
+     "text": "It's read as a moon of blossoming and tenderness. A good time to say yes to something new.",
+     "v": {
+      "type": "title",
+      "big": "BLOOM",
+      "sub": "tenderness · new starts"
+     }
+    },
+    {
+     "text": "It's full on April twentieth, at six twenty-seven in the evening, Eastern time. Look east around sunset, and you'll catch it rising.",
+     "v": {
+      "type": "date",
+      "big": "APR 20",
+      "sub": "6:27 PM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Flower Moon",
+   "segments": [
+    {
+     "text": "May. The Flower Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "May",
+      "title": "Flower Moon",
+      "sub": "May 20"
+     }
+    },
+    {
+     "text": "By May, spring flowers are at their peak across the Northern Hemisphere.",
+     "v": {
+      "type": "image",
+      "img": "bouquet",
+      "move": "in"
+     }
+    },
+    {
+     "text": "It's also known as the Corn Planting Moon, and the Milk Moon.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Corn Planting Moon",
+       "Milk Moon"
+      ]
+     }
+    },
+    {
+     "text": "It's read as a moon of abundance and joy. Notice how far you've come since winter, and let your plans open up.",
+     "v": {
+      "type": "title",
+      "big": "ABUNDANCE",
+      "sub": "growth · joy"
+     }
+    },
+    {
+     "text": "It's full on May twentieth, at six fifty-nine in the morning, Eastern time. So look up on the night of the nineteenth.",
+     "v": {
+      "type": "date",
+      "big": "MAY 20",
+      "sub": "6:59 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Strawberry Moon",
+   "segments": [
+    {
+     "text": "June. The Strawberry Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "June",
+      "title": "Strawberry Moon",
+      "sub": "Jun 18"
+     }
+    },
+    {
+     "text": "It's named for the short season when wild strawberries ripen.",
+     "v": {
+      "type": "image",
+      "img": "strawberry",
+      "move": "in"
+     }
+    },
+    {
+     "text": "In Europe, it was sometimes called the Rose Moon, or the Honey Moon.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Rose Moon",
+       "Honey Moon"
+      ]
+     }
+    },
+    {
+     "text": "Close to the summer solstice, the full moon rides low across the sky, so it often glows warm and golden.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "low and golden"
+     }
+    },
+    {
+     "text": "It's read as a moon of sweetness and reward. Enjoy what has ripened.",
+     "v": {
+      "type": "title",
+      "big": "SWEETNESS",
+      "sub": "ripeness · love"
+     }
+    },
+    {
+     "text": "It's full on June eighteenth, at eight forty-five in the evening, Eastern time. Just as it's getting dark.",
+     "v": {
+      "type": "date",
+      "big": "JUN 18",
+      "sub": "8:45 PM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Buck Moon",
+   "segments": [
+    {
+     "text": "July. The Buck Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "July",
+      "title": "Buck Moon",
+      "sub": "Jul 18"
+     }
+    },
+    {
+     "text": "In July, male deer are growing a new set of antlers.",
+     "v": {
+      "type": "image",
+      "img": "buck",
+      "move": "in"
+     }
+    },
+    {
+     "text": "It's read as a moon of visible growth, and strength that's still taking shape.",
+     "v": {
+      "type": "title",
+      "big": "GROWTH",
+      "sub": "strength · renewal"
+     }
+    },
+    {
+     "text": "And in 2027, it's the farthest full moon of the year. About four hundred and six thousand kilometres away. The smallest full moon you'll see all year.",
+     "v": {
+      "type": "title",
+      "big": "405,968 km",
+      "sub": "farthest of 2027"
+     }
+    },
+    {
+     "text": "It also brushes the outer edge of Earth's shadow, in another faint penumbral eclipse.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "penumbral eclipse"
+     }
+    },
+    {
+     "text": "It's full on July eighteenth, at eleven forty-five in the morning, Eastern time. Look for it that evening.",
+     "v": {
+      "type": "date",
+      "big": "JUL 18",
+      "sub": "11:45 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Sturgeon Moon",
+   "segments": [
+    {
+     "text": "August. The Sturgeon Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "August",
+      "title": "Sturgeon Moon",
+      "sub": "Aug 17"
+     }
+    },
+    {
+     "text": "Around the Great Lakes, this was the time of year when giant lake sturgeon were easiest to catch.",
+     "v": {
+      "type": "image",
+      "img": "sturgeon",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Some of these fish can live for more than a century.",
+     "v": {
+      "type": "title",
+      "big": "100+ YEARS",
+      "sub": "lake sturgeon"
+     }
+    },
+    {
+     "text": "It's read as a moon of depth and patience. Slow growth is still growth.",
+     "v": {
+      "type": "title",
+      "big": "PATIENCE",
+      "sub": "depth · abundance"
+     }
+    },
+    {
+     "text": "But the biggest sky event of August comes two weeks earlier. On August second, the new moon passes directly in front of the Sun.",
+     "v": {
+      "type": "moon",
+      "phase": "new",
+      "label": "August 2"
+     }
+    },
+    {
+     "text": "Along a path from southern Spain, across North Africa, to Egypt and Arabia, day turns to night. Near Luxor, totality lasts about six minutes and twenty-three seconds.",
+     "v": {
+      "type": "title",
+      "big": "6 MIN 23 S",
+      "sub": "near Luxor, Egypt"
+     }
+    },
+    {
+     "text": "The Sturgeon Moon itself is full on August seventeenth, at three twenty-nine in the morning, Eastern time, with one more faint penumbral eclipse.",
+     "v": {
+      "type": "date",
+      "big": "AUG 17",
+      "sub": "3:29 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Harvest Moon",
+   "segments": [
+    {
+     "text": "September. The Harvest Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "September",
+      "title": "Harvest Moon",
+      "sub": "Sep 15"
+     }
+    },
+    {
+     "text": "Here's the one I told you about. The Harvest Moon isn't tied to a month. It's the full moon closest to the autumn equinox.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "nearest the equinox"
+     }
+    },
+    {
+     "text": "Around it, the Moon rises only a little later each evening. So for several nights in a row, there's bright light just after sunset.",
+     "v": {
+      "type": "image",
+      "img": "harvest-basket",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Before electric light, that meant farmers could keep bringing in the harvest after dark.",
+     "v": {
+      "type": "image",
+      "img": "wheat",
+      "move": "in",
+      "label": "work by moonlight"
+     }
+    },
+    {
+     "text": "It's read as a moon of gratitude. Reaping what you planted.",
+     "v": {
+      "type": "title",
+      "big": "GRATITUDE",
+      "sub": "harvest · abundance"
+     }
+    },
+    {
+     "text": "In 2027, the equinox falls on September twenty-third, and the Harvest Moon is full on September fifteenth, at seven oh four in the evening, Eastern time.",
+     "v": {
+      "type": "date",
+      "big": "SEP 15",
+      "sub": "7:04 PM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Hunter's Moon",
+   "segments": [
+    {
+     "text": "October. The Hunter's Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "October",
+      "title": "Hunter's Moon",
+      "sub": "Oct 15"
+     }
+    },
+    {
+     "text": "It's the full moon that follows the Harvest Moon. With the fields cleared, game was easier to spot by moonlight.",
+     "v": {
+      "type": "image",
+      "img": "hunting-horn",
+      "move": "in"
+     }
+    },
+    {
+     "text": "It's read as a moon of focus and provision. Gather what you need for the winter ahead.",
+     "v": {
+      "type": "title",
+      "big": "FOCUS",
+      "sub": "provision · preparation"
+     }
+    },
+    {
+     "text": "It's full on October fifteenth, at nine forty-seven in the morning, Eastern time. The night of the fourteenth is your best view.",
+     "v": {
+      "type": "date",
+      "big": "OCT 15",
+      "sub": "9:47 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Beaver Moon",
+   "segments": [
+    {
+     "text": "November. The Beaver Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "November",
+      "title": "Beaver Moon",
+      "sub": "Nov 13"
+     }
+    },
+    {
+     "text": "Beavers spend the autumn felling trees, packing mud onto their lodges, and storing branches underwater for winter.",
+     "v": {
+      "type": "image",
+      "img": "beaver",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Another explanation points to trappers, setting their traps before the swamps froze. It's also called the Frost Moon.",
+     "v": {
+      "type": "title",
+      "big": "FROST MOON",
+      "sub": "another name"
+     }
+    },
+    {
+     "text": "It's read as a moon of hard work and shelter. Get your home ready for the cold.",
+     "v": {
+      "type": "title",
+      "big": "SHELTER",
+      "sub": "industry · preparation"
+     }
+    },
+    {
+     "text": "It's full on November thirteenth, at ten twenty-six at night, Eastern time.",
+     "v": {
+      "type": "date",
+      "big": "NOV 13",
+      "sub": "10:26 PM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Cold Moon",
+   "segments": [
+    {
+     "text": "December. The Cold Moon.",
+     "v": {
+      "type": "chapter",
+      "kicker": "December",
+      "title": "Cold Moon",
+      "sub": "Dec 13"
+     }
+    },
+    {
+     "text": "Winter settles across the Northern Hemisphere, and the nights are at their longest.",
+     "v": {
+      "type": "image",
+      "img": "snowflake",
+      "move": "in"
+     }
+    },
+    {
+     "text": "That's why it's also called the Long Night Moon. Near the solstice, the full moon rides high, and stays up for most of the night.",
+     "v": {
+      "type": "moon",
+      "phase": "full",
+      "label": "Long Night Moon"
+     }
+    },
+    {
+     "text": "It's read as a moon of stillness and reflection. A quiet close to the year.",
+     "v": {
+      "type": "title",
+      "big": "STILLNESS",
+      "sub": "rest · reflection"
+     }
+    },
+    {
+     "text": "It's full on December thirteenth, at eleven oh nine in the morning, Eastern time. Look up that evening, about a week before the solstice.",
+     "v": {
+      "type": "date",
+      "big": "DEC 13",
+      "sub": "11:09 AM ET"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Outro",
+   "segments": [
+    {
+     "text": "So that's 2027. Wolf, Snow, Worm, Pink, Flower, Strawberry, Buck, Sturgeon, Harvest, Hunter's, Beaver and Cold.",
+     "v": {
+      "type": "grid",
+      "cols": 4,
+      "items": [
+       {
+        "a": "Jan 22",
+        "b": "Wolf",
+        "img": "wolf"
+       },
+       {
+        "a": "Feb 20",
+        "b": "Snow",
+        "img": "snow-pine"
+       },
+       {
+        "a": "Mar 22",
+        "b": "Worm",
+        "img": "robin"
+       },
+       {
+        "a": "Apr 20",
+        "b": "Pink",
+        "img": "phlox"
+       },
+       {
+        "a": "May 20",
+        "b": "Flower",
+        "img": "bouquet"
+       },
+       {
+        "a": "Jun 18",
+        "b": "Strawberry",
+        "img": "strawberry"
+       },
+       {
+        "a": "Jul 18",
+        "b": "Buck",
+        "img": "buck"
+       },
+       {
+        "a": "Aug 17",
+        "b": "Sturgeon",
+        "img": "sturgeon"
+       },
+       {
+        "a": "Sep 15",
+        "b": "Harvest",
+        "img": "harvest-basket"
+       },
+       {
+        "a": "Oct 15",
+        "b": "Hunter's",
+        "img": "hunting-horn"
+       },
+       {
+        "a": "Nov 13",
+        "b": "Beaver",
+        "img": "beaver"
+       },
+       {
+        "a": "Dec 13",
+        "b": "Cold",
+        "img": "snowflake"
+       }
+      ],
+      "show": [
+       0,
+       11
+      ]
+     }
+    },
+    {
+     "text": "Every full moon date and meaning is on thesignsandmeanings dot com. The link is in the description.",
+     "v": {
+      "type": "title",
+      "big": "MOON DATES",
+      "sub": "link in the description"
+     }
+    },
+    {
+     "text": "So tell me. Which full moon is your birthday moon?",
+     "v": {
+      "type": "cta",
+      "text": "Your birthday moon?"
+     }
+    },
+    {
+     "text": "Thank you for watching. I'll see you under the next full moon.",
+     "v": {
+      "type": "outro"
+     },
+     "hold": 14
+    }
+   ]
+  }
+ ],
+ "parts": [
+  [
+   0,
+   5
+  ],
+  [
+   5,
+   10
+  ],
+  [
+   10,
+   15
+  ]
+ ]
+}

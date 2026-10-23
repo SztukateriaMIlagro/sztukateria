@@ -1,0 +1,836 @@
+{
+ "id": "L1-number-superstitions",
+ "title": "Unlucky Numbers Around the World (and the Stories Behind Them)",
+ "description": "Why buildings in Asia skip the 4th floor, why 9 sounds like suffering in Japan, why Italians fear Friday the 17th, why 8 decided when the Beijing Olympics began, why the oldest copy of the Bible says 616 instead of 666, and why 11:11 keeps following you.",
+ "tags": [
+  "unlucky numbers",
+  "number superstitions",
+  "tetraphobia",
+  "friday the 13th",
+  "number 17 italy",
+  "lucky number 8",
+  "616",
+  "1111",
+  "numbers around the world",
+  "superstitions explained"
+ ],
+ "thumbnail": {
+  "big": "4 · 13 · 17",
+  "line": "Numbers the world avoids",
+  "img": "tower"
+ },
+ "chapters": [
+  {
+   "title": "Intro",
+   "segments": [
+    {
+     "text": "In Mandarin, the number four sounds like the word for death.",
+     "v": {
+      "type": "title",
+      "big": "4",
+      "sub": "death"
+     }
+    },
+    {
+     "text": "In Japan, nine can sound like the word for suffering.",
+     "v": {
+      "type": "title",
+      "big": "9",
+      "sub": "suffering"
+     }
+    },
+    {
+     "text": "In Italy, seventeen hides a word that was carved on Roman tombs.",
+     "v": {
+      "type": "title",
+      "big": "17",
+      "sub": "a word on tombs"
+     }
+    },
+    {
+     "text": "And in the West, plenty of people still won't live on the thirteenth floor.",
+     "v": {
+      "type": "title",
+      "big": "13",
+      "sub": "the missing floor"
+     }
+    },
+    {
+     "text": "Every culture has a number it avoids. And a number it chases.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "4",
+       "9",
+       "13",
+       "17",
+       "8",
+       "7"
+      ]
+     }
+    },
+    {
+     "text": "Today we're going through nine of them, from the number that erases buttons in elevators, to the number that decided when an Olympic Games began.",
+     "v": {
+      "type": "image",
+      "img": "stadium",
+      "move": "in"
+     }
+    },
+    {
+     "text": "And stay for the last one. It has probably happened to you today.",
+     "v": {
+      "type": "digital",
+      "time": "11:11"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Four",
+   "segments": [
+    {
+     "text": "Number one. Four.",
+     "v": {
+      "type": "chapter",
+      "n": 1,
+      "title": "Four",
+      "sub": "East Asia"
+     }
+    },
+    {
+     "text": "Step into an elevator in Hong Kong, Shanghai or Seoul, and there's a good chance the button for four is missing.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "1",
+       "2",
+       "3",
+       "4",
+       "5",
+       "6"
+      ],
+      "strike": [
+       3
+      ]
+     }
+    },
+    {
+     "text": "The reason is sound. In Mandarin, four is sì, and death is sǐ. Only the tone is different.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "四",
+       "sub": "four · sì"
+      },
+      "b": {
+       "big": "死",
+       "sub": "death · sǐ"
+      },
+      "op": "≈"
+     }
+    },
+    {
+     "text": "Japanese has the same problem. Four can be read as shi, which is also a word for death. So people often say yon instead.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "shi",
+       "sub": "four · death"
+      },
+      "b": {
+       "big": "yon",
+       "sub": "the safe reading"
+      },
+      "op": "→"
+     }
+    },
+    {
+     "text": "In Korea, the fourth floor is often marked with the letter F, especially in hospitals.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "1",
+       "2",
+       "3",
+       "F",
+       "5"
+      ]
+     }
+    },
+    {
+     "text": "Some buildings skip fourteen and twenty-four as well. And a few towers in Hong Kong leave out every floor in the forties.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "39",
+       "40",
+       "45",
+       "49",
+       "50"
+      ],
+      "strike": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "text": "There's even a name for it. Tetraphobia.",
+     "v": {
+      "type": "title",
+      "big": "TETRAPHOBIA",
+      "sub": "fear of the number four"
+     }
+    },
+    {
+     "text": "But four isn't the only number Japan avoids.",
+     "v": {
+      "type": "title",
+      "big": "9",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Nine",
+   "segments": [
+    {
+     "text": "Number two. Nine.",
+     "v": {
+      "type": "chapter",
+      "n": 2,
+      "title": "Nine",
+      "sub": "Japan"
+     }
+    },
+    {
+     "text": "In Japanese, nine can be read as ku. And ku is also the sound of a word for suffering.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "九",
+       "sub": "nine · ku"
+      },
+      "b": {
+       "big": "苦",
+       "sub": "suffering · ku"
+      },
+      "op": "≈"
+     }
+    },
+    {
+     "text": "That's why nine is usually spoken as kyuu, and why some hospitals and hotels avoid room numbers with a four or a nine.",
+     "v": {
+      "type": "image",
+      "img": "door",
+      "label": "no room 4 or 9"
+     }
+    },
+    {
+     "text": "Put the two together, and forty-nine can be read as shi ku. Death and suffering.",
+     "v": {
+      "type": "title",
+      "big": "49",
+      "sub": "shi · ku"
+     }
+    },
+    {
+     "text": "Meanwhile, in the West, nine is mostly a happy number. Cloud nine. A cat's nine lives.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "cloud nine",
+       "nine lives"
+      ],
+      "stagger": true
+     }
+    },
+    {
+     "text": "Which is a good reminder. The number never changes. Only the words around it do.",
+     "v": {
+      "type": "title",
+      "big": "9"
+     }
+    },
+    {
+     "text": "And the West has its own number it would rather skip.",
+     "v": {
+      "type": "title",
+      "big": "13",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Thirteen",
+   "segments": [
+    {
+     "text": "Number three. Thirteen.",
+     "v": {
+      "type": "chapter",
+      "n": 3,
+      "title": "Thirteen",
+      "sub": "The West"
+     }
+    },
+    {
+     "text": "Look at the buttons in many hotels and towers, and you'll find a twelve, and then a fourteen.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "11",
+       "12",
+       "13",
+       "14",
+       "15"
+      ],
+      "strike": [
+       2
+      ]
+     }
+    },
+    {
+     "text": "The thirteenth floor is usually still there. It just has a different name.",
+     "v": {
+      "type": "image",
+      "img": "tower",
+      "label": "13 is called 14",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Two old stories sit behind the fear. At the Last Supper, thirteen sat at the table.",
+     "v": {
+      "type": "image",
+      "img": "long-table",
+      "label": "thirteen at the table"
+     }
+    },
+    {
+     "text": "And in Norse myth, the trickster Loki arrived as the uninvited thirteenth guest at a feast of the gods.",
+     "v": {
+      "type": "image",
+      "img": "long-table",
+      "label": "the thirteenth guest",
+      "move": "out"
+     }
+    },
+    {
+     "text": "Put thirteen on a Friday, and the fear even gets its own word. Paraskevidekatriaphobia.",
+     "v": {
+      "type": "title",
+      "big": "FRIDAY 13",
+      "sub": "paraskevidekatriaphobia"
+     }
+    },
+    {
+     "text": "Then there's Apollo 13. It launched at thirteen thirteen, Houston time, and an oxygen tank exploded on April the thirteenth.",
+     "v": {
+      "type": "digital",
+      "time": "13:13",
+      "label": "Houston time"
+     }
+    },
+    {
+     "text": "All three astronauts still made it home. So maybe thirteen isn't as unlucky as its reputation.",
+     "v": {
+      "type": "image",
+      "img": "capsule",
+      "label": "all three home"
+     }
+    },
+    {
+     "text": "Italy, though, never worried much about thirteen. It has its own number.",
+     "v": {
+      "type": "title",
+      "big": "17",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Seventeen",
+   "segments": [
+    {
+     "text": "Number four. Seventeen.",
+     "v": {
+      "type": "chapter",
+      "n": 4,
+      "title": "Seventeen",
+      "sub": "Italy"
+     }
+    },
+    {
+     "text": "Write seventeen in Roman numerals, and you get X, V, I, I.",
+     "v": {
+      "type": "title",
+      "big": "XVII"
+     }
+    },
+    {
+     "text": "Now move the letters around. V, I, X, I. Vixi.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "XVII"
+      },
+      "b": {
+       "big": "VIXI"
+      },
+      "op": "→"
+     }
+    },
+    {
+     "text": "In Latin, vixi means I have lived. In other words, my life is over. It was carved on Roman tombstones.",
+     "v": {
+      "type": "image",
+      "img": "tombstone",
+      "overlay": "VIXI",
+      "overlayInk": "dark",
+      "label": "I have lived"
+     }
+    },
+    {
+     "text": "So in Italy, the unlucky day isn't Friday the thirteenth. It's Friday the seventeenth.",
+     "v": {
+      "type": "date",
+      "big": "VENERDÌ 17",
+      "sub": "Friday the 17th"
+     }
+    },
+    {
+     "text": "Some Italian airlines have even left row seventeen off their planes.",
+     "v": {
+      "type": "image",
+      "img": "airplane-seats",
+      "label": "no row 17"
+     }
+    },
+    {
+     "text": "From the unluckiest number in Italy, to the luckiest number in China.",
+     "v": {
+      "type": "title",
+      "big": "8",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Eight",
+   "segments": [
+    {
+     "text": "Number five. Eight.",
+     "v": {
+      "type": "chapter",
+      "n": 5,
+      "title": "Eight",
+      "sub": "China"
+     }
+    },
+    {
+     "text": "On the eighth of August, 2008, the Beijing Olympics opened at eight in the evening.",
+     "v": {
+      "type": "date",
+      "big": "08 · 08 · 08",
+      "sub": "Beijing"
+     }
+    },
+    {
+     "text": "You may have heard it started at eight oh eight. The official start was eight o'clock. But the date was no accident.",
+     "v": {
+      "type": "clock",
+      "time": "8:00",
+      "label": "8 p.m."
+     }
+    },
+    {
+     "text": "In Mandarin, eight is bā. It sounds close to fā, a word tied to wealth and prosperity.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "八",
+       "sub": "eight · bā"
+      },
+      "b": {
+       "big": "发",
+       "sub": "prosper · fā"
+      },
+      "op": "≈"
+     }
+    },
+    {
+     "text": "So people pay real money for phone numbers and license plates full of eights.",
+     "v": {
+      "type": "image",
+      "img": "license-plate",
+      "overlay": "88 888"
+     }
+    },
+    {
+     "text": "Turn an eight on its side, and you get the symbol for infinity.",
+     "v": {
+      "type": "title",
+      "big": "∞",
+      "sub": "eight, turned on its side"
+     }
+    },
+    {
+     "text": "Which brings us to the most feared number of all. Or is it?",
+     "v": {
+      "type": "title",
+      "big": "666",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Six Six Six",
+   "segments": [
+    {
+     "text": "Number six. Six six six.",
+     "v": {
+      "type": "chapter",
+      "n": 6,
+      "title": "Six Six Six",
+      "sub": "Revelation"
+     }
+    },
+    {
+     "text": "It comes from the Book of Revelation, where it's called the number of the beast.",
+     "v": {
+      "type": "image",
+      "img": "book-feather",
+      "label": "Revelation 13"
+     }
+    },
+    {
+     "text": "But the oldest copy of that verse we have doesn't say six six six.",
+     "v": {
+      "type": "title",
+      "big": "666"
+     }
+    },
+    {
+     "text": "It's a papyrus fragment from Egypt, about seventeen hundred years old, known as Papyrus 115. And it says six one six.",
+     "v": {
+      "type": "image",
+      "img": "papyrus",
+      "label": "Papyrus 115",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Even in the second century, a bishop named Irenaeus knew about six one six, and argued that six six six was correct.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "666"
+      },
+      "b": {
+       "big": "616"
+      },
+      "op": "vs"
+     }
+    },
+    {
+     "text": "And here's the twist. In Chinese internet slang, six six six is a compliment.",
+     "v": {
+      "type": "title",
+      "big": "666",
+      "sub": "a compliment"
+     }
+    },
+    {
+     "text": "Six is liù, which sounds like a word for smooth, or slick. Typing six six six means: that was skilful. Nicely done.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "六",
+       "sub": "six · liù"
+      },
+      "b": {
+       "big": "溜",
+       "sub": "smooth · liù"
+      },
+      "op": "≈"
+     }
+    },
+    {
+     "text": "So one number can be a warning on one side of the world, and applause on the other.",
+     "v": {
+      "type": "title",
+      "big": "7",
+      "sub": "up next"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Seven",
+   "segments": [
+    {
+     "text": "Number seven. Seven.",
+     "v": {
+      "type": "chapter",
+      "n": 7,
+      "title": "Seven",
+      "sub": "Everywhere"
+     }
+    },
+    {
+     "text": "If there's one number almost every culture likes, it's seven. And the reason might be right above your head.",
+     "v": {
+      "type": "image",
+      "img": "armillary",
+      "move": "in"
+     }
+    },
+    {
+     "text": "Ancient sky watchers saw seven lights moving against the stars. The Sun, the Moon, Mars, Mercury, Jupiter, Venus and Saturn.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Sun",
+       "Moon",
+       "Mars",
+       "Mercury",
+       "Jupiter",
+       "Venus",
+       "Saturn"
+      ],
+      "stagger": true
+     }
+    },
+    {
+     "text": "Each one got a day of the week. Sunday, the Sun. Monday, the Moon. Saturday, Saturn.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "Sun·day",
+       "Moon·day",
+       "Saturn·day"
+      ],
+      "stagger": true
+     }
+    },
+    {
+     "text": "In Spanish you can still hear the others. Martes, miércoles, jueves, viernes.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "martes",
+       "miércoles",
+       "jueves",
+       "viernes"
+      ],
+      "stagger": true
+     }
+    },
+    {
+     "text": "Seven days, seven lights. A week is, quite literally, a small model of the sky.",
+     "v": {
+      "type": "title",
+      "big": "7"
+     }
+    },
+    {
+     "text": "Our next number hides in plain sight, in almost every shop window.",
+     "v": {
+      "type": "clock",
+      "time": "10:10"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Ten Past Ten",
+   "segments": [
+    {
+     "text": "Number eight. Ten past ten.",
+     "v": {
+      "type": "chapter",
+      "n": 8,
+      "title": "Ten Past Ten",
+      "sub": "Advertising"
+     }
+    },
+    {
+     "text": "Look at almost any watch advertisement, and the hands point to ten past ten.",
+     "v": {
+      "type": "clock",
+      "time": "10:10",
+      "move": "in"
+     }
+    },
+    {
+     "text": "There's a popular story that it marks the moment Abraham Lincoln was shot. It's a myth.",
+     "v": {
+      "type": "image",
+      "img": "tophat",
+      "label": "the myth"
+     }
+    },
+    {
+     "text": "Watchmakers give a simpler reason. At ten past ten, the hands frame the logo and never hide the small dials.",
+     "v": {
+      "type": "clock",
+      "time": "10:10",
+      "label": "frames the logo"
+     }
+    },
+    {
+     "text": "Older ads often used eight twenty. But eight twenty looks like a frown.",
+     "v": {
+      "type": "clock",
+      "time": "8:20",
+      "label": "the frown"
+     }
+    },
+    {
+     "text": "Ten past ten looks like a smile. And once you notice it, you'll never stop seeing it.",
+     "v": {
+      "type": "clock",
+      "time": "10:10",
+      "label": "the smile"
+     }
+    },
+    {
+     "text": "Which is exactly the secret of our last number.",
+     "v": {
+      "type": "digital",
+      "time": "11:11"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Eleven Eleven",
+   "segments": [
+    {
+     "text": "Number nine. Eleven eleven.",
+     "v": {
+      "type": "chapter",
+      "n": 9,
+      "title": "Eleven Eleven",
+      "sub": "Everywhere"
+     }
+    },
+    {
+     "text": "You glance at the clock, and it's eleven eleven. Again.",
+     "v": {
+      "type": "digital",
+      "time": "11:11"
+     }
+    },
+    {
+     "text": "For many people, it's a moment to make a wish. And the eleventh of November is the biggest wishing day of the year.",
+     "v": {
+      "type": "date",
+      "big": "11 · 11"
+     }
+    },
+    {
+     "text": "But that date carried weight long before angel numbers. The First World War ended at the eleventh hour of the eleventh day of the eleventh month, in 1918.",
+     "v": {
+      "type": "date",
+      "big": "11:00 · 11 · 11",
+      "sub": "1918"
+     }
+    },
+    {
+     "text": "So why does eleven eleven seem to follow you? There's a name for that. The frequency illusion.",
+     "v": {
+      "type": "title",
+      "big": "FREQUENCY ILLUSION"
+     }
+    },
+    {
+     "text": "Once something matters to you, your brain starts flagging it. You never notice ten forty-eight. But every eleven eleven jumps out.",
+     "v": {
+      "type": "compare",
+      "a": {
+       "big": "10:48",
+       "sub": "ignored"
+      },
+      "b": {
+       "big": "11:11",
+       "sub": "noticed"
+      },
+      "op": "vs"
+     }
+    },
+    {
+     "text": "So is it just your brain? Maybe. But your brain chose to notice. And what you were thinking about at that moment might be the real message.",
+     "v": {
+      "type": "image",
+      "img": "head-profile",
+      "label": "what were you thinking?"
+     }
+    }
+   ]
+  },
+  {
+   "title": "Outro",
+   "segments": [
+    {
+     "text": "Four, nine, thirteen, seventeen. Eight, six six six, seven, ten past ten, and eleven eleven.",
+     "v": {
+      "type": "seq",
+      "items": [
+       "4",
+       "9",
+       "13",
+       "17",
+       "8",
+       "666",
+       "7"
+      ]
+     }
+    },
+    {
+     "text": "The numbers never changed. The stories around them did.",
+     "v": {
+      "type": "title",
+      "big": "STORIES",
+      "sub": "not numbers"
+     }
+    },
+    {
+     "text": "So tell me. Which number do you avoid? And which one do you chase?",
+     "v": {
+      "type": "cta",
+      "text": "Which number do you avoid?"
+     }
+    },
+    {
+     "text": "There are more stories like these on this channel. I'll see you in the next one.",
+     "v": {
+      "type": "outro"
+     },
+     "hold": 12
+    }
+   ]
+  }
+ ],
+ "parts": [
+  [
+   0,
+   4
+  ],
+  [
+   4,
+   8
+  ],
+  [
+   8,
+   11
+  ]
+ ]
+}

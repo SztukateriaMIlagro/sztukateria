@@ -1,0 +1,992 @@
+{
+ "id": "L4-bedtime-moon-stories",
+ "mode": "sleep",
+ "voiceTag": "[softly]",
+ "title": "Bedtime Stories of the Moon and Stars | Calm Sleep Stories for Adults",
+ "description": "Calm, slow bedtime stories about the Moon and the stars, to help you relax and fall asleep: the Hare in the Moon, Chang'e and the Jade Rabbit, the Weaver and the Cowherd, the Seven Sisters, the North Star, the Moon's horse, the Great Race, and a gentle walk through a year of full moons. No ads in the middle, no loud sounds, a dark screen and quiet music at the end.",
+ "tags": [
+  "sleep story",
+  "bedtime stories for adults",
+  "sleep stories for grown ups",
+  "calm bedtime story",
+  "moon stories",
+  "myths and legends sleep",
+  "fall asleep fast",
+  "relaxing story",
+  "moon rabbit",
+  "chang'e",
+  "tanabata",
+  "pleiades"
+ ],
+ "thumbnail": {
+  "big": "Moon Stories",
+  "line": "for a calm night's sleep",
+  "img": "moon-rabbit"
+ },
+ "chapters": [
+  {
+   "title": "Settling in",
+   "segments": [
+    {
+     "text": "Hello, and welcome. This is a quiet place to rest. There's nothing you need to do here, and nowhere you need to be.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "If you'd like, let your shoulders drop a little. Let your hands grow heavy. And take one slow breath in, and one long breath out.",
+     "v": {
+      "type": "moon",
+      "phase": "crescent"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Tonight, I'll tell you a few old stories about the Moon and the stars. Stories people have told for a very long time, on nights just like this one.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "You don't have to follow every word. If you drift away somewhere in the middle, that's perfectly fine. The stories will keep going quietly without you.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "So, let's begin. Somewhere far away, a long time ago, the Moon was rising over a forest.",
+     "v": {
+      "type": "moon",
+      "phase": "gibbous"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Hare in the Moon",
+   "segments": [
+    {
+     "text": "Long ago, at the edge of a quiet forest, there lived four friends. A monkey, a jackal, an otter, and a small, gentle hare.",
+     "v": {
+      "type": "image",
+      "img": "rabbit",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "They lived simply. In the daytime they looked for food, and in the evening they sat together, and the hare would remind them to be kind, and to share whatever they had.",
+     "v": {
+      "type": "image",
+      "img": "rabbit",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "One evening, as the full moon was rising, the hare said, tomorrow is a holy day. If someone comes to us in need, let us give them something to eat.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The next morning, the otter went down to the river, and found a few fish lying on the bank. He carried them home carefully.",
+     "v": {
+      "type": "image",
+      "img": "river",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The jackal wandered through the fields, and found a little food someone had left behind. And the monkey climbed high into the trees, and gathered ripe, sweet mangoes.",
+     "v": {
+      "type": "image",
+      "img": "wheat",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But the hare only knew how to eat grass. And grass, he thought, is no gift for a hungry traveller.",
+     "v": {
+      "type": "image",
+      "img": "seed-sprout",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "That evening, an old man came walking slowly out of the trees. He leaned on a stick, and he looked tired, and hungry.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The otter gave him fish. The jackal gave him what he had found. The monkey gave him mangoes. And the old man thanked each of them warmly.",
+     "v": {
+      "type": "image",
+      "img": "wheat",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Then he turned to the hare. And the hare said, I have no food to give you. But please, light a fire. I will give you myself.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The old man gathered sticks, and lit a small fire. And the hare, without fear, leapt toward the flames.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But the fire did not burn him. It felt cool, like evening air, like snow. Not even a single hair on his body was singed.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The old man stood up, and he was no longer old. He was Sakka, the king of the heavens, and he had come to see whose heart was truly generous.",
+     "v": {
+      "type": "image",
+      "img": "armillary",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Little hare, he said, your kindness will never be forgotten. And he reached up to the Moon, and painted the shape of a hare upon it, so that everyone, everywhere, could see it.",
+     "v": {
+      "type": "image",
+      "img": "moon-rabbit",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "This story comes from the old Jataka tales of India, more than two thousand years old. And if you look at the full moon tonight, perhaps you'll see him too. The hare, resting on the Moon, a little sign of kindness, glowing over the whole world.",
+     "v": {
+      "type": "image",
+      "img": "moon-rabbit",
+      "move": "out"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "Chang'e and the Jade Rabbit",
+   "segments": [
+    {
+     "text": "Far to the east, in old China, people also saw a rabbit on the Moon. But their rabbit wasn't alone. He kept someone company.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The story begins in a time when there were ten suns in the sky. They were the children of the Sun, and they were meant to take turns, one each day.",
+     "v": {
+      "type": "image",
+      "img": "anchor-moon",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But one morning, all ten rose together. The rivers grew warm, then dry. The fields turned brown. And the people looked up, and could not find any shade.",
+     "v": {
+      "type": "image",
+      "img": "river",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "There was an archer named Hou Yi, the finest archer anyone had ever known. He climbed to the top of a mountain, drew his great bow, and one by one, he shot down nine of the suns.",
+     "v": {
+      "type": "image",
+      "img": "compass",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Only one sun was left. Just enough to warm the earth, and grow the rice, and dry the washing. And the people were grateful.",
+     "v": {
+      "type": "image",
+      "img": "wheat",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "As a reward, Hou Yi was given a small bottle of elixir. Whoever drank it would never grow old, and would rise up to live among the immortals.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But Hou Yi loved his wife, Chang'e, and he didn't want to live forever without her. So he gave the elixir to her for safekeeping, and she hid it away.",
+     "v": {
+      "type": "image",
+      "img": "two-hands",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The stories don't agree on what happened next. In some versions, a thief came looking for the elixir while Hou Yi was away. And to keep it out of the wrong hands, Chang'e drank it herself.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And slowly, gently, she began to float. Up from the floor. Up past the rooftops. Up through the clouds.",
+     "v": {
+      "type": "image",
+      "img": "change",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "She could have gone anywhere. But she chose the Moon, because it was the closest place to home. From there, she could still look down and see the house where her husband lived.",
+     "v": {
+      "type": "image",
+      "img": "change",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "On the Moon, there is a quiet palace, cool and silver. And there, Chang'e found a companion. The Jade Rabbit, who spends his nights pounding herbs with a mortar and pestle, making medicine.",
+     "v": {
+      "type": "image",
+      "img": "moon-rabbit",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Down on earth, Hou Yi missed her terribly. On the night the Moon was at its fullest and brightest, he set out her favourite fruits and cakes in the garden, under the Moon, so she would know she was remembered.",
+     "v": {
+      "type": "image",
+      "img": "harvest-basket",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And people say that's one of the roots of the Mid-Autumn Festival. Every year, on the fifteenth day of the eighth lunar month, families gather outside, share round mooncakes, and look up at the brightest moon of autumn.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "So if you ever see the full moon in September, round and golden, remember Chang'e in her silver palace, and the little rabbit beside her, working quietly through the night.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Weaver and the Cowherd",
+   "segments": [
+    {
+     "text": "Now, let's look away from the Moon for a while, and up at the stars.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "On a clear summer night, if you're far from city lights, you can see a soft, pale band stretching across the sky. We call it the Milky Way. In old China, it was called the Silver River.",
+     "v": {
+      "type": "image",
+      "img": "river",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "On one side of that river shines a bright star we call Vega. And on the other side, a little lower, shines another, called Altair.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Long ago, Vega was the Weaver Girl, a daughter of the heavens. Every day she sat at her loom, weaving clouds. Soft white clouds for the morning, and red and gold ones for the evening.",
+     "v": {
+      "type": "image",
+      "img": "loom",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "She wove so carefully, and so beautifully, that the whole sky was dressed in her work. But she was always alone, and she was always weaving.",
+     "v": {
+      "type": "image",
+      "img": "loom",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "One day she came down to earth, to rest by a cool river. And there she met a young cowherd, who lived simply, with his old ox, in a little house by the fields.",
+     "v": {
+      "type": "image",
+      "img": "z-ox",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "They talked, and they laughed, and they fell in love. And the Weaver Girl stayed. They married, and for a while they were very happy.",
+     "v": {
+      "type": "image",
+      "img": "two-hands",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But up in the sky, nobody was weaving the clouds anymore. The mornings grew plain. The sunsets grew dull. And the Queen of Heaven noticed.",
+     "v": {
+      "type": "image",
+      "img": "stone-house",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "She came down, and took the Weaver Girl back up to the sky. And when the Cowherd tried to follow, she drew a line across the heavens with her hairpin. And the line became the Silver River, wide and deep, and impossible to cross.",
+     "v": {
+      "type": "image",
+      "img": "river",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "So the Weaver sat on one side of the river, and the Cowherd on the other. And they could see each other, but they could not meet.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But the birds of the world felt sorry for them. And so, once a year, on the seventh day of the seventh month, all the magpies fly up into the sky, and spread their wings, and make a bridge across the river.",
+     "v": {
+      "type": "image",
+      "img": "magpies",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And for one night, the Weaver and the Cowherd walk across the bridge of wings, and meet in the middle.",
+     "v": {
+      "type": "image",
+      "img": "magpies",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In China this night is called Qixi. In Japan, it's Tanabata. People write their wishes on little strips of coloured paper, and tie them to bamboo branches, and hang them outside in the summer air.",
+     "v": {
+      "type": "image",
+      "img": "quill",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And some say, if it rains on that night, the rain is the lovers' happy tears. So if you ever see Vega and Altair on a summer evening, on opposite sides of the Milky Way, you'll know who they're waiting for.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Seven Sisters",
+   "segments": [
+    {
+     "text": "If you look up on a winter evening, you might notice a tiny, misty cluster of stars, like a handful of sugar spilled on dark velvet.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Astronomers call it the Pleiades. Many people simply call it the Seven Sisters.",
+     "v": {
+      "type": "image",
+      "img": "doves",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In old Greek stories, the Seven Sisters were the daughters of Atlas, the giant who holds up the sky. They loved to wander through the forests and the hills, and to dance in the meadows at night.",
+     "v": {
+      "type": "image",
+      "img": "doves",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But a great hunter named Orion saw them, and followed them, and would not leave them alone.",
+     "v": {
+      "type": "image",
+      "img": "hunting-horn",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The sisters ran, and ran, until they were very tired. And Zeus, seeing them, took pity. He turned them into seven white doves, and they flew up, and up, into the sky, until they became stars.",
+     "v": {
+      "type": "image",
+      "img": "doves",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And Orion? Some stories say he was placed among the stars too. So even now, he walks across the winter sky, always behind them, and he never catches up.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Here's something gentle to think about. The story says there are seven sisters. But when most people look up, they only see six stars.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "People all over the world have noticed this. And many of them have their own story about the missing sister. One who hid her face. One who wandered off. One who went to be with someone she loved.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In Japan, this little cluster is called Subaru. And far away, in Australia, in some of the oldest storytelling traditions on Earth, people have told of seven sisters in the sky, followed by a hunter, for a very, very long time.",
+     "v": {
+      "type": "image",
+      "img": "doves",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Two stories, on opposite sides of the world, both about seven sisters and someone chasing them. Nobody is quite sure why. Perhaps, a long time ago, everyone looked up at the same small cluster of stars, and wondered the same things.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Star That Stays",
+   "segments": [
+    {
+     "text": "Now, imagine you're lying on your back in a wide, dark field, a long time ago, before there were any city lights at all.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "If you lay there all night, and watched very patiently, you'd notice something. The stars move. Slowly, so slowly, they turn across the sky, like the hands of a great clock.",
+     "v": {
+      "type": "image",
+      "img": "armillary",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But there is one star, in the north, that almost doesn't move at all. All the others turn around it, as if it were the centre of the sky.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "We call it Polaris, the North Star. It isn't the brightest star. Plenty of others outshine it. But it's the most faithful. Night after night, it stays in the same place.",
+     "v": {
+      "type": "image",
+      "img": "compass",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "For a very long time, travellers used it to find their way. Sailors crossing dark seas would look for it, and know which way was north.",
+     "v": {
+      "type": "image",
+      "img": "compass",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And people walking through the night, far from home, would find it above the horizon, and feel a little less lost.",
+     "v": {
+      "type": "image",
+      "img": "candle",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "To find it, you can look for the Big Dipper, the shape of a ladle made of seven stars. The two stars at the end of the bowl point the way, straight to the North Star.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "It sits at the tip of the tail of the Little Bear. A small, steady light, at the end of a small, quiet constellation.",
+     "v": {
+      "type": "image",
+      "img": "owl",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And there's something comforting in that. While everything else turns and changes, there's one small point of light that stays where it is, and waits for you to find it.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Moon's Horse",
+   "segments": [
+    {
+     "text": "Up in the far north, where winter nights are long and the snow is deep, people told a different story about the Moon.",
+     "v": {
+      "type": "image",
+      "img": "snow-pine",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "They said the Moon was driven across the sky by a young man named Máni. He had a chariot, and a horse, and every night, he guided the Moon on its long, slow journey from one edge of the world to the other.",
+     "v": {
+      "type": "image",
+      "img": "chariot",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "His sister, Sól, drove the Sun by day. And so the two of them took turns. One for the bright hours. One for the quiet ones.",
+     "v": {
+      "type": "image",
+      "img": "anchor-moon",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Máni decided when the Moon would grow, and when it would shrink. When it would be a thin silver curve, and when it would be round and full.",
+     "v": {
+      "type": "moon",
+      "phase": "crescent"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Some nights he made it a little bigger. Some nights, a little smaller. And that's why, if you watch the Moon for a whole month, it changes shape, a little at a time.",
+     "v": {
+      "type": "moon",
+      "phase": "quarter"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In the old stories, a wolf ran after the Moon across the sky, trying to catch it. But Máni's horse was steady, and Máni was patient. And night after night, he kept his course.",
+     "v": {
+      "type": "image",
+      "img": "wolf",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And that's a nice thing to remember, on a long night. The Moon keeps going. It's done this for longer than any of us can imagine. It doesn't hurry. It doesn't worry. It simply travels, slowly, across the sky.",
+     "v": {
+      "type": "image",
+      "img": "chariot",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And our own word, Monday, comes from the Moon. Moon's day. A small reminder of Máni, and his patient horse.",
+     "v": {
+      "type": "moon",
+      "phase": "gibbous"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "The Great Race",
+   "segments": [
+    {
+     "text": "Here's one more story, about animals, and a race, and a very clever little rat.",
+     "v": {
+      "type": "image",
+      "img": "z-rat",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Long ago, the Jade Emperor, ruler of the heavens, decided that the years needed names. So he invited all the animals to a great race. The first twelve to arrive would each have a year named after them.",
+     "v": {
+      "type": "image",
+      "img": "stone-house",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The finish line was on the far side of a wide, fast river. And the night before the race, the animals all went to sleep early, so they'd be rested.",
+     "v": {
+      "type": "image",
+      "img": "river",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The cat and the rat were good friends in those days. The cat asked the rat to wake him up in the morning. And the rat said, of course.",
+     "v": {
+      "type": "image",
+      "img": "cat",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "But in the morning, the rat was so excited, he forgot. Or maybe he didn't quite forget. And the cat slept on, curled up and warm, and missed the whole race.",
+     "v": {
+      "type": "image",
+      "img": "cat",
+      "move": "out"
+     },
+     "hold": 4
+    },
+    {
+     "text": "At the riverbank, the rat was too small to swim across. So he asked the ox, who was strong and kind, if he could ride on his back. And the ox said, climb on.",
+     "v": {
+      "type": "image",
+      "img": "z-ox",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The ox swam steadily across the cold water. And just as they reached the other side, the rat jumped off the ox's head, and landed first, right in front of the Jade Emperor.",
+     "v": {
+      "type": "image",
+      "img": "rat",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "So the rat came first, and the patient ox came second. Then the tiger, tired and wet from fighting the current. Then the rabbit, who hopped across on stepping stones and a floating log.",
+     "v": {
+      "type": "image",
+      "img": "z-rabbit",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "The dragon came fifth. He could have flown straight across, but he had stopped to make rain for a village that needed it.",
+     "v": {
+      "type": "image",
+      "img": "z-dragon",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Then the snake, the horse, the goat, the monkey, and the rooster, helping one another across on a little raft. Then the dog, who had spent a long time playing in the water.",
+     "v": {
+      "type": "image",
+      "img": "z-horse",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And last of all, the pig. He'd stopped for a big meal halfway, and then, of course, a nap.",
+     "v": {
+      "type": "image",
+      "img": "z-pig",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And that's why there are twelve animals, and why the rat comes first. And some say it's why, to this day, cats chase rats. Because the cat is still a little cross about that morning.",
+     "v": {
+      "type": "image",
+      "img": "z-goat",
+      "move": "in"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "A Year of Full Moons",
+   "segments": [
+    {
+     "text": "Let's finish with a slow walk through a whole year, one full moon at a time. You can just listen, and let each one drift by.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In January, the Wolf Moon. Snow on the ground, and the long, cold quiet of midwinter.",
+     "v": {
+      "type": "image",
+      "img": "wolf",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In February, the Snow Moon. The world is still, and resting, waiting for the thaw.",
+     "v": {
+      "type": "image",
+      "img": "snow-pine",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In March, the Worm Moon. The ground softens. The first birds come back, and the first green shoots appear.",
+     "v": {
+      "type": "image",
+      "img": "robin",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In April, the Pink Moon, named for little wild flowers, opening in the cool spring air.",
+     "v": {
+      "type": "image",
+      "img": "phlox",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In May, the Flower Moon. Gardens full of colour. Long, mild evenings.",
+     "v": {
+      "type": "image",
+      "img": "bouquet",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In June, the Strawberry Moon, low and golden, on the shortest nights of the year.",
+     "v": {
+      "type": "image",
+      "img": "strawberry",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In July, the Buck Moon. Warm nights, crickets in the grass, and deer growing their new antlers.",
+     "v": {
+      "type": "image",
+      "img": "buck",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In August, the Sturgeon Moon, shining over deep, slow lakes.",
+     "v": {
+      "type": "image",
+      "img": "sturgeon",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In September, the Harvest Moon, rising early, lighting up the fields.",
+     "v": {
+      "type": "image",
+      "img": "harvest-basket",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In October, the Hunter's Moon. Fallen leaves, and the smell of woodsmoke.",
+     "v": {
+      "type": "image",
+      "img": "hunting-horn",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "In November, the Beaver Moon. Everyone getting ready, making their homes warm and safe for the winter.",
+     "v": {
+      "type": "image",
+      "img": "beaver",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "And in December, the Cold Moon. The longest nights of the year, and the Moon riding high, keeping watch over everything.",
+     "v": {
+      "type": "image",
+      "img": "snowflake",
+      "move": "in"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Twelve moons. And then, the Wolf Moon again. Round and round, the way it has always been.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 12
+    }
+   ]
+  },
+  {
+   "title": "Goodnight",
+   "segments": [
+    {
+     "text": "Wherever you are tonight, the same Moon is somewhere above you. The same Moon that shone on the hare and his friends. On Chang'e in her silver palace. On the Weaver and the Cowherd, and the Seven Sisters, and the North Star, and Máni and his horse.",
+     "v": {
+      "type": "moon",
+      "phase": "full"
+     },
+     "hold": 4
+    },
+    {
+     "text": "You don't have to do anything else today. Everything that needed to be done, can wait until tomorrow.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Let your breathing be slow, and easy. Let the room be quiet around you. And let yourself rest.",
+     "v": {
+      "type": "moon",
+      "phase": "crescent"
+     },
+     "hold": 4
+    },
+    {
+     "text": "Goodnight. Sleep well. And I'll see you under the next full moon.",
+     "v": {
+      "type": "stars"
+     },
+     "hold": 240
+    }
+   ]
+  }
+ ],
+ "parts": [
+  [
+   0,
+   2
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   4,
+   6
+  ],
+  [
+   6,
+   8
+  ],
+  [
+   8,
+   10
+  ]
+ ]
+}

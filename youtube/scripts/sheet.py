@@ -8,7 +8,8 @@ for sid in sys.argv[1:]:
     files = sorted(glob.glob(os.path.join(root, 'out', 'frames', sid, '*.png')))
     if not files:
         continue
-    w, h, cols = 216, 384, 6
+    first = Image.open(files[0])
+    w, h, cols = (216, 384, 6) if first.height > first.width else (480, 270, 4)
     rows = (len(files) + cols - 1) // cols
     sheet = Image.new('RGB', (w * cols, h * rows), 'black')
     d = ImageDraw.Draw(sheet)
