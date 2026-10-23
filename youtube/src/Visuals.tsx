@@ -69,8 +69,8 @@ const Sub: React.FC<{ text?: string; frame: number; delay?: number; size?: numbe
 // Font size that fits the stage width: capitals are wider than digits and lower case.
 const fit = (s: string, max: number, width = 820) => {
   const longest = s.split(' ').reduce((m, w) => Math.max(m, w.length), 0) || s.length;
-  const k = /[A-Z]{2,}/.test(s) ? 0.72 : 0.56;
-  const line = s.length > 12 ? longest : s.length;
+  const k = /[A-Z]{2,}/.test(s) ? 0.72 : s.includes('·') ? 0.47 : 0.56;
+  const line = s.includes('·') || s.length <= 12 ? s.length : longest;
   return Math.min(max, Math.floor(width / (line * k)));
 };
 const bigSize = (s: string) => fit(s, 560);
@@ -78,7 +78,7 @@ const bigSize = (s: string) => fit(s, 560);
 const Title: React.FC<VisualProps> = ({ v, frame, dur }) => (
   <Stage>
     <div style={{ transform: drift(frame, dur, v.move), ...enter(frame, false), textAlign: 'center' }}>
-      <div style={{ fontFamily: SERIF, fontWeight: 700, fontSize: bigSize(v.big), lineHeight: 0.95, letterSpacing: v.big.length > 6 ? '0.04em' : 0, ...goldText }}>{v.big}</div>
+      <div style={{ fontFamily: SERIF, fontWeight: 700, fontSize: bigSize(v.big), lineHeight: 0.95, letterSpacing: v.big.length > 6 ? '0.04em' : 0, whiteSpace: v.big.includes('·') ? 'nowrap' : undefined, ...goldText }}>{v.big}</div>
     </div>
     <Sub text={v.sub} frame={frame} />
   </Stage>
@@ -189,7 +189,7 @@ const ImageV: React.FC<VisualProps> = ({ v, frame, dur, prev }) => {
       <div style={{ position: 'relative', transform: drift(frame, dur, v.move), ...enter(frame, cont) }}>
         <Art id={v.img} size={780} draw={cont ? 1 : ramp(frame, 0, 26)} />
         {v.overlay ? (
-          <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: SERIF, fontWeight: 700, fontSize: v.overlay.length > 4 ? 150 : 220, opacity: ramp(frame, 14, 10), ...goldText }}>{v.overlay}</div>
+          <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: SERIF, fontWeight: 700, fontSize: v.overlayInk === 'dark' ? 120 : v.overlay.length > 4 ? 150 : 220, opacity: ramp(frame, 14, 10), ...(v.overlayInk === 'dark' ? { color: C.night, textShadow: '0 0 18px rgba(255,255,255,0.4)' } : goldText) }}>{v.overlay}</div>
         ) : null}
       </div>
       <Sub text={v.label} frame={frame} delay={cont ? 0 : 12} />

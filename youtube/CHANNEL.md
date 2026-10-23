@@ -97,10 +97,8 @@ Format z najlepszym „viewed vs swiped away” dostaje 70% kolejnej serii.
 | Render (Remotion, w tej sesji) | — | 0 |
 | **Razem za 20 shortów** | | **≈ 2,85 $ (~14 centów za short)** |
 
-## 9. Do zrobienia przed publikacją 4 pozostałych shortów
+## 9. Ilustracje
 
-`f06`, `f07`, `f08`, `m04` potrzebują ilustracji z Higgsfield (popiersie, profil głowy, kot/szczur/królik, 12 zwierząt
-zodiaku). Wszystkie są już wygenerowane, adresy są w `content/higgsfield-images.json`, ale to środowisko nie może ich
-pobrać. W ustawieniach środowiska → **Network access** → Allowed domains dodaj `d8j0ntlcm91z4.cloudfront.net`, a w nowej
-sesji napisz: „uruchom `node scripts/fetch-images.mjs` i wyrenderuj f06, f07, f08, m04”. Pozostałe 16 shortów jest
-gotowych do publikacji.
+Wszystkie 20 shortów jest gotowych. Ilustracje z Higgsfield (25 sztuk) są w `public/img/`, a ich źródła w
+`content/higgsfield-images.json`. Obiekty bez ilustracji (drzwi, kamienie, zegary, księżyce, tablica rejestracyjna,
+napierśnik, sfera armilarna, mak) szablon rysuje sam w tym samym stylu.

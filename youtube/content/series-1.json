@@ -427,7 +427,8 @@
           "v": {
             "type": "image",
             "img": "receipt",
-            "overlay": "444"
+            "overlay": "444",
+            "overlayInk": "dark"
           }
         },
         {
