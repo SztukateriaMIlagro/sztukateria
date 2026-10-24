@@ -68,8 +68,10 @@ Free meanings, calculators and moon dates: thesignsandmeanings.com
 | Kraj zamieszkania | **Polska** (musi być prawdziwy — od niego zależą podatki i monetyzacja; nie ogranicza widzów z USA) |
 | Słowa kluczowe | tekst niżej |
 
+Nowy formularz: wartości rozdzielone **przecinkami**, bez cudzysłowów (każda staje się osobnym „chipem”):
+
 ```
-"signs and meanings" "angel numbers" numerology "angel number meaning" "1111 meaning" "444 meaning" "mirror hours" "full moon" "moon names" "full moon meaning" "moon calendar" superstitions symbolism "lucky numbers" "unlucky numbers" "life path number" "chinese zodiac" birthstones crystals "sleep stories" "bedtime stories for adults"
+signs and meanings, angel numbers, numerology, angel number meaning, 1111 meaning, 444 meaning, mirror hours, full moon, moon names, full moon meaning, moon calendar, superstitions, symbolism, lucky numbers, unlucky numbers, life path number, chinese zodiac, birthstones, crystals, sleep stories, bedtime stories for adults
 ```
 
 ## 5. Ustawienia → Kanał → Ustawienia zaawansowane
