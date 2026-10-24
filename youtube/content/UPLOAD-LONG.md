@@ -9,7 +9,7 @@ placed in the free middle area of the last 12–14 s · Pin the comment right af
 
 Shorts → longs: after each long goes live, set it as **Related video** on the matching Short (the column below).
 
-## L1-number-superstitions ⏳ · 7:16 · Sun 2026-10-25, 12:00 ET
+## L1-number-superstitions ✅ · 7:16 · Sun 2026-10-25, 12:00 ET
 
 **File:** out/L1-number-superstitions.mp4 · **Thumbnail:** out/L1-number-superstitions.thumb.jpg · **Playlist:** Secret Life of Numbers · **Related Short:** f01-fourth-floor
 
@@ -43,7 +43,7 @@ Symbolism is presented as tradition and folklore, not as prediction. Historical 
 
 **Pinned comment:** Which number do you avoid, and which one do you chase? 👇 (Bonus: did you know about Friday the 17th?)
 
-## L2-angel-numbers-111-999 ⏳ · 6:39 · Wed 2026-10-28, 12:00 ET
+## L2-angel-numbers-111-999 ✅ · 6:39 · Wed 2026-10-28, 12:00 ET
 
 **File:** out/L2-angel-numbers-111-999.mp4 · **Thumbnail:** out/L2-angel-numbers-111-999.thumb.jpg · **Playlist:** Angel Numbers · **Related Short:** f06-who-invented-angel-numbers
 
@@ -112,7 +112,7 @@ Narration ends around 24:36, followed by a few minutes of quiet music and a dark
 
 **Pinned comment:** Sleep well 🌙 Which story did you fall asleep to? Tell me in the morning.
 
-## L3-full-moons-2027 ⏳ · 8:32 · Sun 2026-11-01, 12:00 ET
+## L3-full-moons-2027 ✅ · 8:32 · Sun 2026-11-01, 12:00 ET
 
 **File:** out/L3-full-moons-2027.mp4 · **Thumbnail:** out/L3-full-moons-2027.thumb.jpg · **Playlist:** Moon Calendar · **Related Short:** m01-birth-month-moon
 
