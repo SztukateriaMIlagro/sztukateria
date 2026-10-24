@@ -44,6 +44,12 @@ for (const id of list) {
     const target = long[id].mode === 'sleep' ? '-18' : '-14';
     execFileSync('ffmpeg', ['-v', 'error', '-y', '-i', raw, '-c:v', 'copy', '-af', `loudnorm=I=${target}:TP=-1.5:LRA=11`, '-ar', '48000', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', outputLocation]);
     fs.unlinkSync(raw);
+    // GitHub refuses files over 100 MB: re-encode big (mostly still) videos; at CRF 30 the difference is not visible.
+    if (fs.statSync(outputLocation).size > 95e6) {
+      const small = outputLocation.replace(/\.mp4$/, '.small.mp4');
+      execFileSync('ffmpeg', ['-v', 'error', '-y', '-i', outputLocation, '-c:v', 'libx264', '-preset', 'slow', '-crf', '30', '-tune', 'stillimage', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '128k', '-movflags', '+faststart', small]);
+      fs.renameSync(small, outputLocation);
+    }
     console.log('video', outputLocation);
     continue;
   }

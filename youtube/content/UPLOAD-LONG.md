@@ -79,7 +79,7 @@ Symbolism is presented as tradition and folklore, not as prediction. Historical 
 
 **Pinned comment:** Which number keeps showing up for you lately? Reply with it and I'll tell you how it's traditionally read 👇
 
-## L4-bedtime-moon-stories ⏳ · 28:37 · Fri 2026-10-30, 20:00 ET
+## L4-bedtime-moon-stories ✅ · 28:37 · Fri 2026-10-30, 20:00 ET
 
 **File:** out/L4-bedtime-moon-stories.mp4 · **Thumbnail:** out/L4-bedtime-moon-stories.thumb.jpg · **Playlist:** Sleep Stories · **Related Short:** p02-pick-a-moon
 
