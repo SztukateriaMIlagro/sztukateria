@@ -1,0 +1,206 @@
+<title>Signs &amp; Meanings Upload Plan</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: a single calendar column, one block per publishing day, each video a card of copyable fields. */
+:root {
+  --bg: #f4f3f8;
+  --surface: #ffffff;
+  --sunk: #eceaf4;
+  --ink: #1d1b33;
+  --muted: #5f5b7a;
+  --line: #d9d6e6;
+  --gold: #8a6115;
+  --gold-soft: #f3e7cc;
+  --done: #2f7a55;
+  --long: #4b3fa8;
+  --display: "Cormorant Garamond", Georgia, serif;
+  --body: "IBM Plex Sans", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1029; --surface: #171a3d; --sunk: #11133199; --ink: #f1ecdf; --muted: #a6a1c2; --line: #2c2f5c;
+    --gold: #e2b866; --gold-soft: #2a2747; --done: #6fcf9a; --long: #a99cff; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1029; --surface: #171a3d; --sunk: #11133199; --ink: #f1ecdf; --muted: #a6a1c2; --line: #2c2f5c;
+  --gold: #e2b866; --gold-soft: #2a2747; --done: #6fcf9a; --long: #a99cff; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font: 15px/1.55 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 860px; margin: 0 auto; padding-block: 28px 64px; display: grid; gap: 28px; }
+header h1 { font: 700 2.4rem/1.05 var(--display); margin: 0; color: var(--gold); text-wrap: balance; }
+header p { margin: 8px 0 0; color: var(--muted); max-width: 62ch; }
+.rules { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px; }
+.rules summary { cursor: pointer; font-weight: 600; }
+.rules ul { margin: 10px 0 4px; padding-left: 20px; display: grid; gap: 4px; }
+.bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: 500 13px var(--body); border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: var(--bg); }
+.progress { margin-left: auto; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+.next { border: 1px solid var(--gold); border-radius: 10px; padding: 12px 16px; background: var(--gold-soft); }
+.next b { color: var(--gold); }
+.day { display: grid; gap: 12px; }
+.day h2 { font: 700 1.5rem var(--display); margin: 0; display: flex; gap: 10px; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.day h2 small { font: 400 13px var(--body); color: var(--muted); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; display: grid; gap: 12px; }
+.card.done { opacity: .55; }
+.top { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
+.time { font: 600 1.35rem var(--body); font-variant-numeric: tabular-nums; }
+.pill { font: 600 11px var(--body); letter-spacing: .08em; text-transform: uppercase; border-radius: 4px; padding: 3px 7px; border: 1px solid currentColor; }
+.pill.short { color: var(--gold); }
+.pill.long { color: var(--long); }
+.et { color: var(--muted); font-size: 13px; }
+.check { margin-left: auto; display: flex; gap: 6px; align-items: center; font-size: 13px; cursor: pointer; }
+.check input { width: 18px; height: 18px; accent-color: var(--done); }
+.card h3 { font: 600 1.05rem/1.3 var(--body); margin: 0; text-wrap: balance; }
+.files { font: 12.5px var(--mono); color: var(--muted); overflow-wrap: anywhere; }
+.field { display: grid; gap: 4px; min-width: 0; }
+.field .lab { display: flex; justify-content: space-between; align-items: center; font: 600 11px var(--body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.field pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font: 13.5px/1.5 var(--body); background: var(--sunk); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; max-height: 220px; overflow: auto; }
+button.copy { font: 600 12px var(--body); border: 1px solid var(--gold); color: var(--gold); background: transparent; border-radius: 6px; padding: 4px 10px; cursor: pointer; letter-spacing: 0; text-transform: none; }
+button.copy.ok { background: var(--gold); color: var(--bg); }
+button:focus-visible, .chip:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.extra { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); }
+.extra b { color: var(--ink); font-weight: 600; }
+.cheat ul { columns: 2; column-gap: 24px; padding-left: 18px; margin: 10px 0 0; }
+@media (max-width: 520px) { header h1 { font-size: 2rem; } .cheat ul { columns: 1; } .check { margin-left: 0; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Upload Plan</h1>
+    <p>Kalendarz publikacji kanału Signs &amp; Meanings. Godziny są w czasie polskim (plan ustawiony pod 9:00 i 18:00 we wschodnich USA). Przy każdym polu jest przycisk „Kopiuj”. Zaznacz „Zaplanowane”, gdy film jest już ustawiony w YouTube Studio.</p>
+  </header>
+
+  <details class="rules" id="rules">
+    <summary>Przy każdym uploadzie (stałe ustawienia)</summary>
+    <ul>
+      <li>Przeznaczony dla dzieci: <b>Nie</b> · Kategoria: <b>Edukacja</b> · Język: <b>angielski</b></li>
+      <li>Treści zmienione lub syntetyczne: <b>Nie</b> · Płatna promocja: <b>Nie</b></li>
+      <li>Widoczność: <b>Zaplanuj</b> na datę i godzinę z karty (Studio pokazuje czas polski)</li>
+      <li>Po publikacji od razu przypnij komentarz z karty i odpowiadaj na komentarze przez pierwsze 2 godziny</li>
+      <li>Długie filmy: wgraj miniaturę, dodaj do playlisty, ekran końcowy w ostatnich 12–14 s</li>
+      <li>Shorty: w polu „Related video” podepnij powiązany film (dla longów jest podany na karcie)</li>
+      <li>Filmy dłuższe niż 15 min i własne miniatury wymagają zweryfikowanego numeru telefonu</li>
+    </ul>
+  </details>
+
+  <div class="next" id="next"></div>
+
+  <div class="bar" role="group" aria-label="Filtr">
+    <button class="chip" data-f="all" aria-pressed="true">Wszystkie</button>
+    <button class="chip" data-f="short" aria-pressed="false">Shorty</button>
+    <button class="chip" data-f="long" aria-pressed="false">Długie</button>
+    <button class="chip" data-f="todo" aria-pressed="false">Do zaplanowania</button>
+    <span class="progress" id="progress"></span>
+  </div>
+
+  <main id="list" class="wrap" style="padding:0"></main>
+
+  <details class="rules cheat" id="cheat">
+    <summary>Ściąga: odpowiedzi pod shortem o drodze życia (m03)</summary>
+    <ul id="cheatlist"></ul>
+  </details>
+</div>
+
+<script>
+const DATA = __DATA__;
+const KEY = 'sm-upload-done';
+let done = {};
+try { done = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { done = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {} };
+let filter = 'all';
+
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const field = (label, text, key) => text ? `
+  <div class="field">
+    <div class="lab"><span>${label}</span><button class="copy" type="button" data-k="${key}">Kopiuj</button></div>
+    <pre data-v="${key}">${esc(text)}</pre>
+  </div>` : '';
+
+function card(it, i) {
+  const isDone = !!done[it.id];
+  const extra = it.kind === 'long' ? `<div class="extra">
+      <span><b>Miniatura:</b> ${esc(it.thumb)}</span>
+      <span><b>Playlista:</b> ${esc(it.playlist)}</span>
+      <span><b>Ustaw jako Related video w shorcie:</b> ${esc(it.related)}</span></div>` : '';
+  return `<article class="card${isDone ? ' done' : ''}" data-kind="${it.kind}" data-id="${esc(it.id)}">
+    <div class="top">
+      <span class="time">${it.time}</span>
+      <span class="pill ${it.kind}">${it.kind === 'long' ? 'Długi · ' + it.length : 'Short · ' + it.length}</span>
+      <span class="et">${esc(it.et)}</span>
+      <label class="check"><input type="checkbox" id="done-${esc(it.id)}" data-done="${esc(it.id)}" ${isDone ? 'checked' : ''}> Zaplanowane</label>
+    </div>
+    <h3>${esc(it.title)}</h3>
+    <div class="files">${esc(it.file)}</div>
+    ${field('Tytuł', it.title, i + '-t')}
+    ${field('Opis', it.description, i + '-d')}
+    ${field('Tagi', it.tags || '', i + '-g')}
+    ${field('Przypięty komentarz', it.pinned, i + '-p')}
+    ${extra}
+  </article>`;
+}
+
+function render() {
+  const list = document.getElementById('list');
+  const shown = DATA.items.map((it, i) => ({ it, i })).filter(({ it }) =>
+    filter === 'all' || (filter === 'todo' ? !done[it.id] : it.kind === filter));
+  const days = [];
+  for (const x of shown) {
+    const last = days[days.length - 1];
+    if (last && last.day === x.it.day) last.items.push(x); else days.push({ day: x.it.day, label: x.it.dayLabel, items: [x] });
+  }
+  list.innerHTML = days.length ? days.map((d) => `<section class="day"><h2>${esc(d.label)} <small>${d.day}</small></h2>${d.items.map(({ it, i }) => card(it, i)).join('')}</section>`).join('')
+    : '<p>Wszystko zaplanowane.</p>';
+  const n = DATA.items.filter((it) => done[it.id]).length;
+  document.getElementById('progress').textContent = `Zaplanowane: ${n} z ${DATA.items.length}`;
+  const next = DATA.items.find((it) => !done[it.id]);
+  document.getElementById('next').innerHTML = next
+    ? `Następny do zaplanowania: <b>${esc(next.dayLabel)}, ${next.time}</b> · ${esc(next.title)}`
+    : 'Wszystkie filmy są zaplanowane.';
+}
+
+document.addEventListener('click', async (e) => {
+  const chip = e.target.closest('.chip');
+  if (chip) {
+    filter = chip.dataset.f;
+    document.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+    render();
+    return;
+  }
+  const btn = e.target.closest('button.copy');
+  if (!btn) return;
+  const pre = document.querySelector(`pre[data-v="${btn.dataset.k}"]`);
+  const text = pre.textContent;
+  try {
+    await navigator.clipboard.writeText(text);
+    btn.textContent = 'Skopiowano';
+  } catch (err) {
+    const r = document.createRange(); r.selectNodeContents(pre);
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+    btn.textContent = 'Zaznaczono: Ctrl+C';
+  }
+  btn.classList.add('ok');
+  setTimeout(() => { btn.textContent = 'Kopiuj'; btn.classList.remove('ok'); }, 1600);
+});
+
+document.addEventListener('change', (e) => {
+  const id = e.target.dataset && e.target.dataset.done;
+  if (!id) return;
+  if (e.target.checked) done[id] = true; else delete done[id];
+  save();
+  render();
+});
+
+document.getElementById('cheatlist').innerHTML = DATA.cheat.map(([n, t]) => `<li><b>${esc(n)}</b> · ${esc(t)}</li>`).join('');
+render();
+</script>

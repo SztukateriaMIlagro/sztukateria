@@ -1,0 +1,206 @@
+<title>Signs &amp; Meanings Upload Plan</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: a single calendar column, one block per publishing day, each video a card of copyable fields. */
+:root {
+  --bg: #f4f3f8;
+  --surface: #ffffff;
+  --sunk: #eceaf4;
+  --ink: #1d1b33;
+  --muted: #5f5b7a;
+  --line: #d9d6e6;
+  --gold: #8a6115;
+  --gold-soft: #f3e7cc;
+  --done: #2f7a55;
+  --long: #4b3fa8;
+  --display: "Cormorant Garamond", Georgia, serif;
+  --body: "IBM Plex Sans", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1029; --surface: #171a3d; --sunk: #11133199; --ink: #f1ecdf; --muted: #a6a1c2; --line: #2c2f5c;
+    --gold: #e2b866; --gold-soft: #2a2747; --done: #6fcf9a; --long: #a99cff; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1029; --surface: #171a3d; --sunk: #11133199; --ink: #f1ecdf; --muted: #a6a1c2; --line: #2c2f5c;
+  --gold: #e2b866; --gold-soft: #2a2747; --done: #6fcf9a; --long: #a99cff; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font: 15px/1.55 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 860px; margin: 0 auto; padding-block: 28px 64px; display: grid; gap: 28px; }
+header h1 { font: 700 2.4rem/1.05 var(--display); margin: 0; color: var(--gold); text-wrap: balance; }
+header p { margin: 8px 0 0; color: var(--muted); max-width: 62ch; }
+.rules { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px; }
+.rules summary { cursor: pointer; font-weight: 600; }
+.rules ul { margin: 10px 0 4px; padding-left: 20px; display: grid; gap: 4px; }
+.bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font: 500 13px var(--body); border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: var(--bg); }
+.progress { margin-left: auto; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+.next { border: 1px solid var(--gold); border-radius: 10px; padding: 12px 16px; background: var(--gold-soft); }
+.next b { color: var(--gold); }
+.day { display: grid; gap: 12px; }
+.day h2 { font: 700 1.5rem var(--display); margin: 0; display: flex; gap: 10px; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.day h2 small { font: 400 13px var(--body); color: var(--muted); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; display: grid; gap: 12px; }
+.card.done { opacity: .55; }
+.top { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
+.time { font: 600 1.35rem var(--body); font-variant-numeric: tabular-nums; }
+.pill { font: 600 11px var(--body); letter-spacing: .08em; text-transform: uppercase; border-radius: 4px; padding: 3px 7px; border: 1px solid currentColor; }
+.pill.short { color: var(--gold); }
+.pill.long { color: var(--long); }
+.et { color: var(--muted); font-size: 13px; }
+.check { margin-left: auto; display: flex; gap: 6px; align-items: center; font-size: 13px; cursor: pointer; }
+.check input { width: 18px; height: 18px; accent-color: var(--done); }
+.card h3 { font: 600 1.05rem/1.3 var(--body); margin: 0; text-wrap: balance; }
+.files { font: 12.5px var(--mono); color: var(--muted); overflow-wrap: anywhere; }
+.field { display: grid; gap: 4px; min-width: 0; }
+.field .lab { display: flex; justify-content: space-between; align-items: center; font: 600 11px var(--body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.field pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font: 13.5px/1.5 var(--body); background: var(--sunk); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; max-height: 220px; overflow: auto; }
+button.copy { font: 600 12px var(--body); border: 1px solid var(--gold); color: var(--gold); background: transparent; border-radius: 6px; padding: 4px 10px; cursor: pointer; letter-spacing: 0; text-transform: none; }
+button.copy.ok { background: var(--gold); color: var(--bg); }
+button:focus-visible, .chip:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.extra { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); }
+.extra b { color: var(--ink); font-weight: 600; }
+.cheat ul { columns: 2; column-gap: 24px; padding-left: 18px; margin: 10px 0 0; }
+@media (max-width: 520px) { header h1 { font-size: 2rem; } .cheat ul { columns: 1; } .check { margin-left: 0; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Upload Plan</h1>
+    <p>Kalendarz publikacji kanału Signs &amp; Meanings. Godziny są w czasie polskim (plan ustawiony pod 9:00 i 18:00 we wschodnich USA). Przy każdym polu jest przycisk „Kopiuj”. Zaznacz „Zaplanowane”, gdy film jest już ustawiony w YouTube Studio.</p>
+  </header>
+
+  <details class="rules" id="rules">
+    <summary>Przy każdym uploadzie (stałe ustawienia)</summary>
+    <ul>
+      <li>Przeznaczony dla dzieci: <b>Nie</b> · Kategoria: <b>Edukacja</b> · Język: <b>angielski</b></li>
+      <li>Treści zmienione lub syntetyczne: <b>Nie</b> · Płatna promocja: <b>Nie</b></li>
+      <li>Widoczność: <b>Zaplanuj</b> na datę i godzinę z karty (Studio pokazuje czas polski)</li>
+      <li>Po publikacji od razu przypnij komentarz z karty i odpowiadaj na komentarze przez pierwsze 2 godziny</li>
+      <li>Długie filmy: wgraj miniaturę, dodaj do playlisty, ekran końcowy w ostatnich 12–14 s</li>
+      <li>Shorty: w polu „Related video” podepnij powiązany film (dla longów jest podany na karcie)</li>
+      <li>Filmy dłuższe niż 15 min i własne miniatury wymagają zweryfikowanego numeru telefonu</li>
+    </ul>
+  </details>
+
+  <div class="next" id="next"></div>
+
+  <div class="bar" role="group" aria-label="Filtr">
+    <button class="chip" data-f="all" aria-pressed="true">Wszystkie</button>
+    <button class="chip" data-f="short" aria-pressed="false">Shorty</button>
+    <button class="chip" data-f="long" aria-pressed="false">Długie</button>
+    <button class="chip" data-f="todo" aria-pressed="false">Do zaplanowania</button>
+    <span class="progress" id="progress"></span>
+  </div>
+
+  <main id="list" class="wrap" style="padding:0"></main>
+
+  <details class="rules cheat" id="cheat">
+    <summary>Ściąga: odpowiedzi pod shortem o drodze życia (m03)</summary>
+    <ul id="cheatlist"></ul>
+  </details>
+</div>
+
+<script>
+const DATA = {"items": [{"kind": "short", "id": "f01-fourth-floor", "file": "out/f01-fourth-floor.mp4", "length": "30 s", "when": "2026-10-24T15:00:00+02:00", "et": "2026-10-24 9:00 ET", "title": "Why Buildings in Asia Skip the 4th Floor", "description": "In Mandarin, Japanese and Korean the word for four sounds like the word for death. That's tetraphobia, and it's why elevators skip floor 4.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/444/\n\n#numbers #superstition #didyouknow", "pinned": "📌 Honest answer: would you take the apartment on floor 4? 🏢 yes / 🚫 no", "day": "2026-10-24", "dayLabel": "sob 24.10", "time": "15:00"}, {"kind": "short", "id": "p01-pick-a-door", "file": "out/p01-pick-a-door.mp4", "length": "39 s", "when": "2026-10-25T00:00:00+02:00", "et": "2026-10-24 18:00 ET", "title": "Pause and Pick a Door 🚪", "description": "Pick one door before the reveal. Each message is built on the meaning of its number: 1 for beginnings, 2 for patience, 3 for expression.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/123/\n\n#pickacard #angelnumbers #message", "pinned": "📌 Which door did you pick? Comment 1, 2 or 3 🚪", "day": "2026-10-25", "dayLabel": "nd 25.10", "time": "00:00"}, {"kind": "short", "id": "f05-616", "file": "out/f05-616.mp4", "length": "31 s", "when": "2026-10-25T14:00:00+01:00", "et": "2026-10-25 9:00 ET", "title": "The Oldest Copy Says 616, Not 666", "description": "Papyrus 115, the oldest surviving copy of that verse in Revelation, gives the number of the beast as 616.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/666/\n\n#666 #history #bible", "pinned": "📌 Did you know about 616 before this? 👍 yes / 🤯 no", "day": "2026-10-25", "dayLabel": "nd 25.10", "time": "14:00"}, {"kind": "long", "id": "L1-number-superstitions", "file": "out/L1-number-superstitions.mp4", "thumb": "out/L1-number-superstitions.thumb.jpg", "length": "7:16", "when": "2026-10-25T17:00:00+01:00", "et": "2026-10-25 12:00 ET", "title": "Unlucky Numbers Around the World (and the Stories Behind Them)", "description": "Why buildings in Asia skip the 4th floor, why 9 sounds like suffering in Japan, why Italians fear Friday the 17th, why 8 decided when the Beijing Olympics began, why the oldest copy of the Bible says 616 instead of 666, and why 11:11 keeps following you.\n\nMore: https://thesignsandmeanings.com/angel-numbers/\n\nChapters\n0:00 Intro\n0:33 Four\n1:18 Nine\n1:53 Thirteen\n2:41 Seventeen\n3:19 Eight\n3:53 Six Six Six\n4:42 Seven\n5:24 Ten Past Ten\n5:58 Eleven Eleven\n6:44 Outro\n\nSymbolism is presented as tradition and folklore, not as prediction. Historical facts are checked against published sources.\n\n#unluckynumbers #numbersuperstitions #tetraphobia", "tags": "unlucky numbers, number superstitions, tetraphobia, friday the 13th, number 17 italy, lucky number 8, 616, 1111, numbers around the world, superstitions explained", "pinned": "Which number do you avoid, and which one do you chase? 👇 (Bonus: did you know about Friday the 17th?)", "playlist": "Secret Life of Numbers", "related": "f01-fourth-floor", "day": "2026-10-25", "dayLabel": "nd 25.10", "time": "17:00"}, {"kind": "short", "id": "m01-birth-month-moon", "file": "out/m01-birth-month-moon.mp4", "length": "40 s", "when": "2026-10-25T23:00:00+01:00", "et": "2026-10-25 18:00 ET", "title": "Find Your Birth Month: Your Full Moon 🌕", "description": "Every month's full moon has a traditional name. Find yours.\n\nFull meaning: https://thesignsandmeanings.com/moon/\n\n#fullmoon #birthmonth #moon", "pinned": "📌 Comment your birth month and moon. Does the name suit you? 🌕", "day": "2026-10-25", "dayLabel": "nd 25.10", "time": "23:00"}, {"kind": "short", "id": "f02-lucky-eight", "file": "out/f02-lucky-eight.mp4", "length": "29 s", "when": "2026-10-26T14:00:00+01:00", "et": "2026-10-26 9:00 ET", "title": "Why 8 Is the Luckiest Number in China", "description": "The Beijing Olympics opened at 8 p.m. on 08/08/08. Here's why eight matters so much, and the detail the internet usually gets wrong.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/888/\n\n#luckynumber #numbers #didyouknow", "pinned": "📌 If you could pick ONE lucky number for life, which would it be? 👇", "day": "2026-10-26", "dayLabel": "pon 26.10", "time": "14:00"}, {"kind": "short", "id": "p02-pick-a-moon", "file": "out/p02-pick-a-moon.mp4", "length": "44 s", "when": "2026-10-26T23:00:00+01:00", "et": "2026-10-26 18:00 ET", "title": "Pause and Pick a Moon 🌙", "description": "Pick a moon before the reveal. Each message follows the traditional symbolism of its phase.\n\nFull meaning: https://thesignsandmeanings.com/moon/\n\n#moon #pickacard #moonphase", "pinned": "📌 Which moon did you pick? 🌑 🌓 🌕", "day": "2026-10-26", "dayLabel": "pon 26.10", "time": "23:00"}, {"kind": "short", "id": "f03-watch-1010", "file": "out/f03-watch-1010.mp4", "length": "29 s", "when": "2026-10-27T14:00:00+01:00", "et": "2026-10-27 9:00 ET", "title": "Why Every Watch Ad Shows 10:10", "description": "It's not about Lincoln. Watchmakers have a simpler reason, and it used to be 8:20.\n\nFull meaning: https://thesignsandmeanings.com/mirror-hours/1010/\n\n#didyouknow #design #watches", "pinned": "📌 Go check the nearest watch ad. 10:10 or not? ⌚", "day": "2026-10-27", "dayLabel": "wt 27.10", "time": "14:00"}, {"kind": "short", "id": "m03-life-path-20-seconds", "file": "out/m03-life-path-20-seconds.mp4", "length": "45 s", "when": "2026-10-27T23:00:00+01:00", "et": "2026-10-27 18:00 ET", "title": "Find Your Life Path Number in 20 Seconds", "description": "Reduce the month, the day and the year, then add them. Worked example and the master number rule. Full calculator: thesignsandmeanings.com\n\nFull meaning: https://thesignsandmeanings.com/life-path-number/\n\n#lifepathnumber #numerology #birthday", "pinned": "📌 Comment your life path number 👇 I'll reply with its one-word meaning.", "day": "2026-10-27", "dayLabel": "wt 27.10", "time": "23:00"}, {"kind": "short", "id": "f04-apollo-13", "file": "out/f04-apollo-13.mp4", "length": "27 s", "when": "2026-10-28T14:00:00+01:00", "et": "2026-10-28 9:00 ET", "title": "Apollo 13: The Unluckiest Number in Space", "description": "Launched at 13:13 Houston time, oxygen tank exploded on April 13. And all three astronauts came home.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/1313/\n\n#apollo13 #space #numbers", "pinned": "📌 Was 13 unlucky here, or the luckiest number on board? 🚀", "day": "2026-10-28", "dayLabel": "śr 28.10", "time": "14:00"}, {"kind": "long", "id": "L2-angel-numbers-111-999", "file": "out/L2-angel-numbers-111-999.mp4", "thumb": "out/L2-angel-numbers-111-999.thumb.jpg", "length": "6:39", "when": "2026-10-28T17:00:00+01:00", "et": "2026-10-28 12:00 ET", "title": "Angel Numbers 111 to 999: What They Mean (and Where the Idea Came From)", "description": "Why do 111, 444 and 999 keep showing up? The real history of angel numbers, why your brain notices them, and what each repeating number from 111 to 999 is traditionally read as. Symbolism, not predictions.\n\nMore: https://thesignsandmeanings.com/angel-numbers/\n\nChapters\n0:00 Intro\n0:31 Where angel numbers came from\n1:19 Why you keep seeing them\n1:53 111\n2:20 222\n2:46 333\n3:11 444\n3:39 555\n4:06 666\n4:36 777\n5:04 888\n5:31 999\n5:59 Outro\n\nSymbolism is presented as tradition and folklore, not as prediction. Historical facts are checked against published sources.\n\n#angelnumbers #111meaning #222meaning", "tags": "angel numbers, 111 meaning, 222 meaning, 333 meaning, 444 meaning, 555 meaning, 666 meaning, 777 meaning, 888 meaning, 999 meaning, repeating numbers, numerology", "pinned": "Which number keeps showing up for you lately? Reply with it and I'll tell you how it's traditionally read 👇", "playlist": "Angel Numbers", "related": "f06-who-invented-angel-numbers", "day": "2026-10-28", "dayLabel": "śr 28.10", "time": "17:00"}, {"kind": "short", "id": "p03-pick-a-crystal", "file": "out/p03-pick-a-crystal.mp4", "length": "41 s", "when": "2026-10-28T23:00:00+01:00", "et": "2026-10-28 18:00 ET", "title": "Pause and Pick a Crystal 💎", "description": "Pick one before the reveal. Amethyst, rose quartz or citrine, read through traditional crystal lore.\n\nFull meaning: https://thesignsandmeanings.com/crystals/\n\n#crystals #pickacard #amethyst", "pinned": "📌 Which crystal did you pick? 💜 🩷 💛", "day": "2026-10-28", "dayLabel": "śr 28.10", "time": "23:00"}, {"kind": "short", "id": "f09-seven-day-week", "file": "out/f09-seven-day-week.mp4", "length": "37 s", "when": "2026-10-29T14:00:00+01:00", "et": "2026-10-29 9:00 ET", "title": "Why a Week Has 7 Days", "description": "Seven moving lights in the sky, one for each day. You can still hear them in the names of the week.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/777/\n\n#history #astronomy #didyouknow", "pinned": "📌 Favorite day of the week, and why? 👇", "day": "2026-10-29", "dayLabel": "czw 29.10", "time": "14:00"}, {"kind": "short", "id": "m02-birth-month-birthstone", "file": "out/m02-birth-month-birthstone.mp4", "length": "36 s", "when": "2026-10-29T23:00:00+01:00", "et": "2026-10-29 18:00 ET", "title": "Find Your Birth Month: Your Birthstone 💎", "description": "The modern birthstone list, month by month.\n\nFull meaning: https://thesignsandmeanings.com/birthstones/\n\n#birthstone #birthmonth #crystals", "pinned": "📌 Comment your month 💎 Which stone would you swap yours for?", "day": "2026-10-29", "dayLabel": "czw 29.10", "time": "23:00"}, {"kind": "short", "id": "f10-birthstones-1912", "file": "out/f10-birthstones-1912.mp4", "length": "32 s", "when": "2026-10-30T14:00:00+01:00", "et": "2026-10-30 9:00 ET", "title": "Your Birthstone Was Picked at a Meeting", "description": "In 1912, American jewelers met in Kansas City and agreed on one official birthstone list. It has been updated since.\n\nFull meaning: https://thesignsandmeanings.com/birthstones/\n\n#birthstone #crystals #history", "pinned": "📌 Your birth month and stone. Do you actually like it? 💎", "day": "2026-10-30", "dayLabel": "pt 30.10", "time": "14:00"}, {"kind": "short", "id": "p04-pick-a-time", "file": "out/p04-pick-a-time.mp4", "length": "38 s", "when": "2026-10-30T23:00:00+01:00", "et": "2026-10-30 18:00 ET", "title": "Pause and Pick a Time 🕰️", "description": "Pick a mirror hour before the reveal: 11:11, 12:12 or 22:22, read through the digits they're made of.\n\nFull meaning: https://thesignsandmeanings.com/mirror-hours/\n\n#1111 #mirrorhour #angelnumbers", "pinned": "📌 Which time did you pick? And which one do you actually see most? 🕚", "day": "2026-10-30", "dayLabel": "pt 30.10", "time": "23:00"}, {"kind": "long", "id": "L4-bedtime-moon-stories", "file": "out/L4-bedtime-moon-stories.mp4", "thumb": "out/L4-bedtime-moon-stories.thumb.jpg", "length": "28:37", "when": "2026-10-31T01:00:00+01:00", "et": "2026-10-30 20:00 ET", "title": "Bedtime Stories of the Moon and Stars | Calm Sleep Stories for Adults", "description": "Calm, slow bedtime stories about the Moon and the stars, to help you relax and fall asleep: the Hare in the Moon, Chang'e and the Jade Rabbit, the Weaver and the Cowherd, the Seven Sisters, the North Star, the Moon's horse, the Great Race, and a gentle walk through a year of full moons. No ads in the middle, no loud sounds, a dark screen and quiet music at the end.\n\nMore: https://thesignsandmeanings.com/moon/\n\nChapters\n0:00 Settling in\n1:11 The Hare in the Moon\n4:21 Chang'e and the Jade Rabbit\n7:55 The Weaver and the Cowherd\n11:18 The Seven Sisters\n13:56 The Star That Stays\n16:08 The Moon's Horse\n18:15 The Great Race\n21:11 A Year of Full Moons\n23:49 Goodnight\n\nNarration ends around 24:36, followed by a few minutes of quiet music and a dark screen.\n\n#sleepstory #bedtimestoriesforadults #sleepstoriesforgrownups", "tags": "sleep story, bedtime stories for adults, sleep stories for grown ups, calm bedtime story, moon stories, myths and legends sleep, fall asleep fast, relaxing story, moon rabbit, chang'e, tanabata, pleiades", "pinned": "Sleep well 🌙 Which story did you fall asleep to? Tell me in the morning.", "playlist": "Sleep Stories", "related": "p02-pick-a-moon", "day": "2026-10-31", "dayLabel": "sob 31.10", "time": "01:00"}, {"kind": "short", "id": "f06-who-invented-angel-numbers", "file": "out/f06-who-invented-angel-numbers.mp4", "length": "29 s", "when": "2026-10-31T14:00:00+01:00", "et": "2026-10-31 9:00 ET", "title": "Who Invented Angel Numbers?", "description": "Numerology is ancient. Reading 444 on a receipt as a message is not. The surprising story behind angel numbers.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/\n\n#angelnumbers #numerology #history", "pinned": "📌 Does the history change what the numbers mean to you? Be honest 👇", "day": "2026-10-31", "dayLabel": "sob 31.10", "time": "14:00"}, {"kind": "short", "id": "f08-cat-zodiac", "file": "out/f08-cat-zodiac.mp4", "length": "29 s", "when": "2026-10-31T23:00:00+01:00", "et": "2026-10-31 18:00 ET", "title": "Why the Cat Isn't in the Chinese Zodiac", "description": "The legend of the Great Race, the rat's trick, and the country where the cat made it into the zodiac after all.\n\nFull meaning: https://thesignsandmeanings.com/chinese-zodiac/\n\n#chinesezodiac #cats #legend", "pinned": "📌 Team cat 🐈 or team rabbit 🐇?", "day": "2026-10-31", "dayLabel": "sob 31.10", "time": "23:00"}, {"kind": "short", "id": "f07-why-1111-follows-you", "file": "out/f07-why-1111-follows-you.mp4", "length": "33 s", "when": "2026-11-01T15:00:00+01:00", "et": "2026-11-01 9:00 ET", "title": "Why 11:11 Keeps Following You", "description": "The frequency illusion explains why you notice 11:11 and not 10:48. But it doesn't explain what you were thinking about.\n\nFull meaning: https://thesignsandmeanings.com/angel-numbers/1111/\n\n#1111 #psychology #angelnumbers", "pinned": "📌 What were you thinking about the last time you saw 11:11? 🕚", "day": "2026-11-01", "dayLabel": "nd 1.11", "time": "15:00"}, {"kind": "long", "id": "L3-full-moons-2027", "file": "out/L3-full-moons-2027.mp4", "thumb": "out/L3-full-moons-2027.thumb.jpg", "length": "8:32", "when": "2026-11-01T18:00:00+01:00", "et": "2026-11-01 12:00 ET", "title": "Every Full Moon of 2027: Names, Meanings & Exact Dates", "description": "All 12 full moons of 2027, month by month: the Wolf Moon supermoon, the Snow Moon eclipse, the Harvest Moon, the August 2 total solar eclipse and more. Where each moon name comes from, what it is traditionally said to mean, and the exact date and time (US Eastern).\n\nMore: https://thesignsandmeanings.com/moon/\n\nChapters\n0:00 Intro\n0:35 Where the names come from\n1:14 January: Wolf Moon\n1:57 February: Snow Moon\n2:39 March: Worm Moon\n3:16 April: Pink Moon\n3:43 May: Flower Moon\n4:10 June: Strawberry Moon\n4:39 July: Buck Moon\n5:13 August: Sturgeon Moon\n5:57 September: Harvest Moon\n6:35 October: Hunter's Moon\n6:57 November: Beaver Moon\n7:24 December: Cold Moon\n7:52 Outro\n\nSymbolism is presented as tradition and folklore, not as prediction. Historical facts are checked against published sources.\n\n#fullmoon2027 #fullmooncalendar2027 #wolfmoon2027", "tags": "full moon 2027, full moon calendar 2027, wolf moon 2027, harvest moon 2027, supermoon 2027, moon names, full moon meaning, solar eclipse 2027, strawberry moon, cold moon", "pinned": "Which full moon is your birthday moon? 🌕 Mine is the Harvest Moon.", "playlist": "Moon Calendar", "related": "m01-birth-month-moon", "day": "2026-11-01", "dayLabel": "nd 1.11", "time": "18:00"}, {"kind": "short", "id": "m04-chinese-zodiac-year", "file": "out/m04-chinese-zodiac-year.mp4", "length": "32 s", "when": "2026-11-02T00:00:00+01:00", "et": "2026-11-01 18:00 ET", "title": "Find Your Birth Year: Your Chinese Zodiac Animal", "description": "Pause on your birth year. Born in January or early February? Check the Lunar New Year date, you may be the animal before.\n\nFull meaning: https://thesignsandmeanings.com/chinese-zodiac/\n\n#chinesezodiac #zodiac #birthyear", "pinned": "📌 Comment your animal 🐉 Born in Jan/Feb? Tell me and I'll check it for you.", "day": "2026-11-02", "dayLabel": "pon 2.11", "time": "00:00"}, {"kind": "short", "id": "t01-11-11-day", "file": "out/t01-11-11-day.mp4", "length": "30 s", "when": "2026-11-11T00:00:00+01:00", "et": "2026-11-10 18:00 ET", "title": "11/11: Why This Date Mattered Long Before Angel Numbers", "description": "The First World War ended at the eleventh hour of the eleventh day of the eleventh month, 1918.\n\nFull meaning: https://thesignsandmeanings.com/mirror-hours/1111/\n\n#1111 #remembranceday #angelnumbers", "pinned": "📌 What would you wish for at 11:11 today? 🕚", "day": "2026-11-11", "dayLabel": "śr 11.11", "time": "00:00"}, {"kind": "short", "id": "t02-closest-full-moon-2026", "file": "out/t02-closest-full-moon-2026.mp4", "length": "25 s", "when": "2026-12-23T00:00:00+01:00", "et": "2026-12-22 18:00 ET", "title": "The Closest Full Moon of 2026 Is This Week", "description": "The full moon on the night of December 23 to 24 is the closest full moon of 2026: about 356,700 km away. December's full moon is traditionally the Cold Moon.\n\nFull meaning: https://thesignsandmeanings.com/moon/cold-moon/\n\n#fullmoon #coldmoon #moon", "pinned": "📌 Where are you watching from? 🌕", "day": "2026-12-23", "dayLabel": "śr 23.12", "time": "00:00"}], "cheat": [["1", "The leader who starts what others only imagine"], ["2", "The peacemaker who makes every room feel safer"], ["3", "The communicator who turns feelings into expression"], ["4", "The builder who makes things last"], ["5", "The freedom-seeker who thrives on change"], ["6", "The nurturer who turns a house into a home"], ["7", "The seeker who needs answers, not just opinions"], ["8", "The achiever who turns ambition into results"], ["9", "The humanitarian with a heart for the bigger picture"], ["11", "The intuitive who feels the room before it speaks"], ["22", "The master builder who turns big dreams into structures"], ["33", "The master teacher who loves and serves on a wide scale"]]};
+const KEY = 'sm-upload-done';
+let done = {};
+try { done = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { done = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {} };
+let filter = 'all';
+
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const field = (label, text, key) => text ? `
+  <div class="field">
+    <div class="lab"><span>${label}</span><button class="copy" type="button" data-k="${key}">Kopiuj</button></div>
+    <pre data-v="${key}">${esc(text)}</pre>
+  </div>` : '';
+
+function card(it, i) {
+  const isDone = !!done[it.id];
+  const extra = it.kind === 'long' ? `<div class="extra">
+      <span><b>Miniatura:</b> ${esc(it.thumb)}</span>
+      <span><b>Playlista:</b> ${esc(it.playlist)}</span>
+      <span><b>Ustaw jako Related video w shorcie:</b> ${esc(it.related)}</span></div>` : '';
+  return `<article class="card${isDone ? ' done' : ''}" data-kind="${it.kind}" data-id="${esc(it.id)}">
+    <div class="top">
+      <span class="time">${it.time}</span>
+      <span class="pill ${it.kind}">${it.kind === 'long' ? 'Długi · ' + it.length : 'Short · ' + it.length}</span>
+      <span class="et">${esc(it.et)}</span>
+      <label class="check"><input type="checkbox" id="done-${esc(it.id)}" data-done="${esc(it.id)}" ${isDone ? 'checked' : ''}> Zaplanowane</label>
+    </div>
+    <h3>${esc(it.title)}</h3>
+    <div class="files">${esc(it.file)}</div>
+    ${field('Tytuł', it.title, i + '-t')}
+    ${field('Opis', it.description, i + '-d')}
+    ${field('Tagi', it.tags || '', i + '-g')}
+    ${field('Przypięty komentarz', it.pinned, i + '-p')}
+    ${extra}
+  </article>`;
+}
+
+function render() {
+  const list = document.getElementById('list');
+  const shown = DATA.items.map((it, i) => ({ it, i })).filter(({ it }) =>
+    filter === 'all' || (filter === 'todo' ? !done[it.id] : it.kind === filter));
+  const days = [];
+  for (const x of shown) {
+    const last = days[days.length - 1];
+    if (last && last.day === x.it.day) last.items.push(x); else days.push({ day: x.it.day, label: x.it.dayLabel, items: [x] });
+  }
+  list.innerHTML = days.length ? days.map((d) => `<section class="day"><h2>${esc(d.label)} <small>${d.day}</small></h2>${d.items.map(({ it, i }) => card(it, i)).join('')}</section>`).join('')
+    : '<p>Wszystko zaplanowane.</p>';
+  const n = DATA.items.filter((it) => done[it.id]).length;
+  document.getElementById('progress').textContent = `Zaplanowane: ${n} z ${DATA.items.length}`;
+  const next = DATA.items.find((it) => !done[it.id]);
+  document.getElementById('next').innerHTML = next
+    ? `Następny do zaplanowania: <b>${esc(next.dayLabel)}, ${next.time}</b> · ${esc(next.title)}`
+    : 'Wszystkie filmy są zaplanowane.';
+}
+
+document.addEventListener('click', async (e) => {
+  const chip = e.target.closest('.chip');
+  if (chip) {
+    filter = chip.dataset.f;
+    document.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+    render();
+    return;
+  }
+  const btn = e.target.closest('button.copy');
+  if (!btn) return;
+  const pre = document.querySelector(`pre[data-v="${btn.dataset.k}"]`);
+  const text = pre.textContent;
+  try {
+    await navigator.clipboard.writeText(text);
+    btn.textContent = 'Skopiowano';
+  } catch (err) {
+    const r = document.createRange(); r.selectNodeContents(pre);
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+    btn.textContent = 'Zaznaczono: Ctrl+C';
+  }
+  btn.classList.add('ok');
+  setTimeout(() => { btn.textContent = 'Kopiuj'; btn.classList.remove('ok'); }, 1600);
+});
+
+document.addEventListener('change', (e) => {
+  const id = e.target.dataset && e.target.dataset.done;
+  if (!id) return;
+  if (e.target.checked) done[id] = true; else delete done[id];
+  save();
+  render();
+});
+
+document.getElementById('cheatlist').innerHTML = DATA.cheat.map(([n, t]) => `<li><b>${esc(n)}</b> · ${esc(t)}</li>`).join('');
+render();
+</script>
